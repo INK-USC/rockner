@@ -56,8 +56,8 @@ p, li{
 
 # RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks
 {: .no_toc style="font-weight: 600; font-family: 'Agency FB Bold', arial;"}
-✍️ [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Wenyang Gao***](){: target="blank"}, [***Jun Yan***](https://junyann.github.io/), [***Ryan Moreno***](https://ryan-moreno.github.io/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
-🏢 ***in Proceedings of EMNLP 2021 (short)***
+✍️  [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Wenyang Gao***](){: target="blank"}, [***Jun Yan***](https://junyann.github.io/), [***Ryan Moreno***](https://ryan-moreno.github.io/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
+🏢  ***in Proceedings of EMNLP 2021 (short)***
 
 --- 
  
@@ -89,23 +89,31 @@ p, li{
 [Slides](/opencsr_naacl_slides.pptx){: target="_blank" .btn .btn-red .mr-1 .fs-3 } -->
 ---
  
-## Abstract
+## Intro
 <!-- This is the project site for the paper, [_Differentiable Cross-Lingual Commonsense Reasoning_](https://www.aclweb.org/anthology/2021.naacl-main.366/){: target="_blank"}, by [_Bill Yuchen Lin_](https://yuchenlin.xyz/){: target="_blank"}, [_Haitian Sun_](https://scholar.google.com/citations?user=opSHsTQAAAAJ&hl=en){: target="_blank"}, [_Bhuwan Dhingra_](http://www.cs.cmu.edu/~bdhingra/){: target="_blank"}, [_Manzil Zaheer_](https://scholar.google.com/citations?user=A33FhJMAAAAJ&hl=en){: target="_blank"}, [_Xiang Ren_](http://ink-ron.usc.edu/xiangren/){: target="_blank"}, and [_William W. Cohen_](https://wwcohen.github.io/){: target="_blank"}, in Proc. of [*NAACL 2021*](https://2021.naacl.org/){: target="_blank"}. 
 This is a joint work by Google Research and USC. -->
 
  
-![intro](images/riddle_intro.png){: style="border: 2px solid black"}
+<!-- ![intro](images/riddle_intro.png){: style="border: 2px solid black"} -->
 <!-- ##  --> 
 <!-- ***Abstract.***{: .text-red-100}  -->
+ 
+Neural named entity recognition (NER) models have achieved great performance on many conventional benchmarks such as CoNLL2003 and OntoNotes 5.0.
+However, it is not clear whether they are still reliable in realistic applications where entities and/or context words can be out of the distribution of the training data.
+It is thus important to audit the robustness of NER systems via natural adversarial attacks.
+Most existing methods for generating adversarial attacks in  NLP mainly focus on sentence classification and question answering,
+while they don't have special designs to reflect the underlying compositions of the NER examples --- i.e., entity structures and their context words. 
+In this paper, 
+we focus on creating general natural adversarial examples (i.e., real-world entities and human-readable context) for evaluating the robustness of NER models.
 
-***Question: I have five fingers but I am not alive.  What am I?  Answer: a glove.***
+To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to generate natural adversarial examples via entity-/context-level attacks. 
+We apply the proposed attacking method on the OntoNotes 5.0 dataset and create a new benchmark named OntoRock to evaluate the robustness of a variety of existing NER models via a systematic evaluation protocol. 
+Our experiments and analysis reveal that even the best model has a significant performance drop.
+We find that these models tend to memorize entity patterns instead of reasoning from the context.
+Apart from that, we also study the effects of a few data augmentation methods to improve the robustness of NER models. 
+<!-- \footnote{Our code and data are publicly available at the project website: \url{https://inklab.usc.edu/rockner}.} -->
 
-Answering such a riddle-style question is a challenging cognitive process, in that it requires complex commonsense reasoning abilities, an understanding of figurative language, and counterfactual reasoning skills, which are all important abilities for advanced natural language understanding (NLU).
-However, there is currently no dedicated datasets aiming to test these abilities. Herein, we present RockNER, a new multiple-choice question answering task,
-which comes with the first large dataset (5.7k examples) for answering riddle-style commonsense questions. 
-We systematically evaluate a wide range of models over the challenge, and point out that there is a large gap between the best-supervised model and human performance --- suggesting intriguing future research in the direction of higher-order commonsense reasoning and linguistic creativity towards building advanced NLU systems. 
-
-## Dataset Format
+## Dataset Format (Todo)
 
 Please download our dataset by filling the [***form***](https://forms.gle/iWdsgN44TeoXW19e6){: target="_blank"} here and the link will show up once you read the disclaimer and submit it. There are five files as follows:
 
@@ -138,7 +146,7 @@ Please download our dataset by filling the [***form***](https://forms.gle/iWdsgN
 ```
 
 
-## Leaderboard
+## Leaderboard (Todo)
 
 <table>
 <thead>
@@ -231,7 +239,7 @@ Please download our dataset by filling the [***form***](https://forms.gle/iWdsgN
 </tbody>
 </table>
 
-### Submission Guide
+### Submission Guide (Todo)
 {: .no_toc}
 
 This is [***an example submission file***](submission_example.jsonl){: target="_blank"}. Please submit your prediction file and information via [***this form***](https://forms.gle/a3yyoxmgj1FoJpMM7){: target="_blank"}.
@@ -239,10 +247,10 @@ This is [***an example submission file***](submission_example.jsonl){: target="_
 ## Citation
 
 ```bibtex
-@inproceedings{lin-etal-2021-riddlesense,
-    title = "RockNER: Reasoning about Riddle Questions Featuring Linguistic Creativity and Commonsense Knowledge",
-    author = "Lin, Bill Yuchen and Wu, Ziyi and Yang, Yichi and Lee, Dong-Ho and Ren, Xiang",
-    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL-IJCNLP 2021): Findings",
+@inproceedings{lin-etal-2021-rockner,
+    title = "RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks",
+    author = "Lin, Bill Yuchen and Gao, Wenyang and Yan, Jun and Moreno, Ryan and Ren, Xiang",
+    booktitle = "Proc. of EMNLP (short paper)",
     year = "2021",
     note={to appear}
 }
