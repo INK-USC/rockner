@@ -6,7 +6,7 @@ logo: "ocs_logo.png"
 
 
 # Changes
-title: RockNER | Project Site
+title: RockNER | EMNLP 2021 | Project Site
 email: yuchen.lin@usc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks
