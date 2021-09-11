@@ -54,7 +54,7 @@ p, li{
 </style>
 
 
-# RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of NER Models
+# 🪨 RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of NER Models
 {: .no_toc style="font-weight: 600; font-family: 'Agency FB Bold', arial;"}
 ✍️  [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Wenyang Gao***](){: target="blank"}, [***Jun Yan***](https://junyann.github.io/), [***Ryan Moreno***](https://ryan-moreno.github.io/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
 🏢  ***in Proceedings of EMNLP 2021 (short)***
