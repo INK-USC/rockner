@@ -59,6 +59,9 @@ p, li{
 ✍️  [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Wenyang Gao***](){: target="blank"}, [***Jun Yan***](https://junyann.github.io/), [***Ryan Moreno***](https://ryan-moreno.github.io/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
 🏢  ***in Proceedings of EMNLP 2021 (short)***
 
+
+![intro](images/authors.png){: style="border: 2px solid black; width: 90%; center"}
+
 --- 
  
 
@@ -66,8 +69,8 @@ p, li{
 {: .no_toc}
 <!-- {: .fs-7 .fw-700 .text-blue-300 } -->
 <span class="fs-4">
-[Paper](riddlesense_acl21_paper.pdf){: target="_blank" .btn .btn-green .mr-1 .fs-4}
-[Video](https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-25/8f53jb9/riddlesense_acl.mp4){: target="_blank" .btn .btn-green .mr-1 .fs-4}
+[Paper](paper.pdf){: target="_blank" .btn .btn-green .mr-1 .fs-4}
+<!-- [Video](https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-25/8f53jb9/riddlesense_acl.mp4){: target="_blank" .btn .btn-green .mr-1 .fs-4} -->
 [Github](https://github.com/INK-USC/RockNER/){: target="_blank" .btn .btn-purple .mr-1 .fs-4 }
 [Dataset](https://forms.gle/iWdsgN44TeoXW19e6){: target="_blank" .btn .btn-blue .mr-1 .fs-4 }
 [Leaderboard](#leaderboard){: .btn .btn-red .mr-1 .fs-4 }
@@ -94,12 +97,14 @@ p, li{
 This is a joint work by Google Research and USC. -->
 
  
-<!-- ![intro](images/riddle_intro.png){: style="border: 2px solid black"} -->
+
 <!-- ##  --> 
 <!-- ***Abstract.***{: .text-red-100}  -->
  
 To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to create natural adversarial examples. Specifically, at the entity level, we replace target entities with other entities of the same semantic class in Wikidata; at the context level, we use pre-trained language models (e.g., BERT) to generate word substitutions. Together, the two levels of at- tack produce natural adversarial examples that result in a shifted distribution from the training data on which our target models have been trained. We apply the proposed method to the OntoNotes dataset and create a new benchmark named OntoRock for evaluating the robustness of existing NER models via a systematic evaluation protocol. Our experiments and analysis reveal that even the best model has a significant performance drop, and these models seem to memorize in-domain entity patterns instead of reasoning from the context. Our work also studies the effects of a few simple data augmentation methods to improve the robustness of NER models.
 <!-- \footnote{Our code and data are publicly available at the project website: \url{https://inklab.usc.edu/rockner}.} -->
+
+![intro](images/introduction.png){: style="border: 0px solid black"}
 
 ## Dataset Format (Todo)
 
