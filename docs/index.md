@@ -2,7 +2,7 @@
 layout: default
 title: RockNER
 nav_order: 1
-description: "RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks(ACL21 Findings)"
+description: "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models | EMNLP 2021"
 permalink: /
 last_modified_date: Jun 5th 2021
 toc_list: true
@@ -54,7 +54,7 @@ p, li{
 </style>
 
 
-# RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks
+# RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of NER Models
 {: .no_toc style="font-weight: 600; font-family: 'Agency FB Bold', arial;"}
 ✍️  [***Bill Yuchen Lin***](https://yuchenlin.xyz/){: target="blank"}, [***Wenyang Gao***](){: target="blank"}, [***Jun Yan***](https://junyann.github.io/), [***Ryan Moreno***](https://ryan-moreno.github.io/){: target="blank"}, [***Xiang Ren***](http://www-bcf.usc.edu/~xiangren/){: target="blank"} \
 🏢  ***in Proceedings of EMNLP 2021 (short)***
@@ -98,19 +98,7 @@ This is a joint work by Google Research and USC. -->
 <!-- ##  --> 
 <!-- ***Abstract.***{: .text-red-100}  -->
  
-Neural named entity recognition (NER) models have achieved great performance on many conventional benchmarks such as CoNLL2003 and OntoNotes 5.0.
-However, it is not clear whether they are still reliable in realistic applications where entities and/or context words can be out of the distribution of the training data.
-It is thus important to audit the robustness of NER systems via natural adversarial attacks.
-Most existing methods for generating adversarial attacks in  NLP mainly focus on sentence classification and question answering,
-while they don't have special designs to reflect the underlying compositions of the NER examples --- i.e., entity structures and their context words. 
-In this paper, 
-we focus on creating general natural adversarial examples (i.e., real-world entities and human-readable context) for evaluating the robustness of NER models.
-
-To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to generate natural adversarial examples via entity-/context-level attacks. 
-We apply the proposed attacking method on the OntoNotes 5.0 dataset and create a new benchmark named OntoRock to evaluate the robustness of a variety of existing NER models via a systematic evaluation protocol. 
-Our experiments and analysis reveal that even the best model has a significant performance drop.
-We find that these models tend to memorize entity patterns instead of reasoning from the context.
-Apart from that, we also study the effects of a few data augmentation methods to improve the robustness of NER models. 
+To audit the robustness of named entity recognition (NER) models, we propose RockNER, a simple yet effective method to create natural adversarial examples. Specifically, at the entity level, we replace target entities with other entities of the same semantic class in Wikidata; at the context level, we use pre-trained language models (e.g., BERT) to generate word substitutions. Together, the two levels of at- tack produce natural adversarial examples that result in a shifted distribution from the training data on which our target models have been trained. We apply the proposed method to the OntoNotes dataset and create a new benchmark named OntoRock for evaluating the robustness of existing NER models via a systematic evaluation protocol. Our experiments and analysis reveal that even the best model has a significant performance drop, and these models seem to memorize in-domain entity patterns instead of reasoning from the context. Our work also studies the effects of a few simple data augmentation methods to improve the robustness of NER models.
 <!-- \footnote{Our code and data are publicly available at the project website: \url{https://inklab.usc.edu/rockner}.} -->
 
 ## Dataset Format (Todo)
@@ -248,7 +236,7 @@ This is [***an example submission file***](submission_example.jsonl){: target="_
 
 ```bibtex
 @inproceedings{lin-etal-2021-rockner,
-    title = "RockNER: Evaluating the Robustness of Named Entity Recognition with Natural Adversarial Attacks",
+    title = "RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models",
     author = "Lin, Bill Yuchen and Gao, Wenyang and Yan, Jun and Moreno, Ryan and Ren, Xiang",
     booktitle = "Proc. of EMNLP (short paper)",
     year = "2021",
