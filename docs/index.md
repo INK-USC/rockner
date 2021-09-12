@@ -106,128 +106,110 @@ To audit the robustness of named entity recognition (NER) models, we propose Roc
 
 ![intro](images/introduction.png){: style="border: 0px solid black"}
 
-## Dataset Format (Todo)
+## Dataset Format
 
-Please download our dataset by filling the [***form***](https://forms.gle/iWdsgN44TeoXW19e6){: target="_blank"} here and the link will show up once you read the disclaimer and submit it. There are five files as follows:
+Please download our dataset by filling the [***form***](https://forms.gle/iWdsgN44TeoXW19e6){: target="_blank"} here and the link will show up once you read the disclaimer and submit it. There are eight files as follows:
 
-1. `rs_train.jsonl` (3,510 lines)
-    - The training data of RockNER.
-1. `csqa_train.jsonl` (9,741 lines)
-    - The training data of CommonsenseQA.
-1. `csqa_rs_train.jsonl` (13,251 lines)
-    - The training of of CommonsenseQA + RockNER, i.e., the combination of both.
-1. `rs_dev.jsonl` (1,021 lines)
-    - The development data of RockNER.
-1. `rs_test_hidden.jsonl` (1,184 lines)
-    - The test data of RockNER, where the truth answers are hidden.
+1. `Original-OntoNotes_train.txt` (1,148,427 lines)
+    - The original training data of OntoNotes.
+1. `OntoRock-Full_dev.txt` (161,123 lines)
+    - The development data of OntoRock-Full.
+1. `OntoRock-Entity_dev.txt` (161,152 lines)
+    - The development data of OntoRock-Entity.
+1. `OntoRock-Context_dev.txt` (156,215 lines)
+    - The development data of OntoRock-Context.
+1. `Original-OntoNotes_test_pub.txt` (160,989 lines)
+    - The original test data of OntoNotes, where the truth tags are hidden.
+1. `OntoRock-Full_test_pub.txt` (165,872 lines)
+    - The test data of OntoRock-Full, where the truth tags are hidden.
+1. `OntoRock-Entity_test_pub.txt` (165,906 lines)
+    - The test data of OntoRock-Entity, where the truth tags are hidden.
+1. `OntoRock-Context_test_pub.txt` (160,953 lines)
+    - The test data of OntoRock-Context, where the truth tags are hidden.
 
-```json
-{   # a particular line in our jsonl file
-    "id": "c1235zcx90023230",
-    "question": {
-        "stem": "My life can be measured in hours. I serve by being devoured. Thin, I am quick. Fat, I am slow. Wind is my foe. What am I?",    # The riddle question.
-        "choices": [
-            {"label": "A", "text": "paper"},
-            {"label": "B", "text": "candle"},   # the correct answer
-            {"label": "C", "text": "lamp"},
-            {"label": "D", "text": "clock"},
-            {"label": "E", "text": "worm"}
-        ]
-    },
-    "answerKey": "B"    # this will be "hidden" in the test data.
-}
+```
+# a sentence in our txt file, truth tags are hidden in test files
+We O
+respectfully O
+invite O
+you O
+to O
+watch O
+a O
+special O
+edition O
+of O
+Across B-ORG
+China I-ORG
+. O
+# sentences are separated by blank line
 ```
 
 
-## Leaderboard (Todo)
+## Leaderboard
 
 <table>
 <thead>
   <tr>
-    <th>Model</th>
-    <th>Submitter</th>
-    <th>Date</th>
-    <th>Training Data</th>
-    <th>Acc</th>
+    <th rowspan="2">Model</th>
+    <th rowspan="2">Submitter</th>
+    <th rowspan="2" border-style="solid">Ori_test_F1</th>
+    <th colspan="3">OntoRock_test_F1</th>
+  </tr>
+  <tr>
+    <th border-style="solid">Ent</th>
+    <th>Cont</th>
+    <th>Full</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="modelname" style="background-color: #f5f6fa">Humans</td>
-    <td class="submitter"  style="background-color: #f5f6fa">-</td>
-    <td class="date"  style="background-color: #f5f6fa">-</td>
-    <td class="traindata"  style="background-color: #f5f6fa">N/A</td>
-    <td class="acc"  style="background-color: #f5f6fa">91.33</td>
+    <td class="modelname"><a href="https://arxiv.org/abs/1907.11692" target="_blank">RoBERTa-CRF </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">92.4</td>
+    <td class="acc">63.4</td>
+    <td class="acc">87.2</td>
+    <td class="acc">58.5</td>
   </tr>
   <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/2005.00700" target="_blank">UnifiedQA (T5-3B) </a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">68.80</td>
+    <td class="modelname"><a href="https://aclanthology.org/C18-1139/" target="_blank">Flair </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">90.7</td>
+    <td class="acc">59.6</td>
+    <td class="acc">86.1</td>
+    <td class="acc">55.3</td>
   </tr>
   <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/1909.11942" target="_blank">ALBERT-XXL </a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">67.30</td>
+    <td class="modelname"><a href="https://aclanthology.org/N19-1423/" target="_blank">BERT-CRF </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">90.6</td>
+    <td class="acc">59.2</td>
+    <td class="acc">85.8</td>
+    <td class="acc">54.6</td>
   </tr>
   <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/2005.00646" target="_blank">MHGRN (AB-XXL) </a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">66.81</td>
+    <td class="modelname"><a href="https://aclanthology.org/2020.acl-demos.14/" target="_blank">Stanza </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">87.9</td>
+    <td class="acc">56.1</td>
+    <td class="acc">83.0</td>
+    <td class="acc">51.7</td>
   </tr>
   <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/2005.00646" target="_blank">MHGRN (RoBERTa-Large) </a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">63.73</td>
+    <td class="modelname"><a href="https://zenodo.org/record/5226955#.YT4qx9MzbK0" target="_blank">Spacy </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">87.3</td>
+    <td class="acc">43.9</td>
+    <td class="acc">81.8</td>
+    <td class="acc">40.1</td>
   </tr>
   <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/1907.11692" target="_blank">RoBERTa-Large </a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">59.82</td>
-  </tr>
-  <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/1909.02151" target="_blank">KagNet (RoBERTa-Large)</a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">59.72</td>
-  </tr>
-  <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/2005.00700" target="_blank">UnifiedQA (T5-Large)</a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">56.57</td>
-  </tr>
-  <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/1810.04805" target="_blank">BERT-Large</a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">54.91</td>
-  </tr>
-  <tr>
-    <td class="modelname"><a href="https://arxiv.org/abs/1810.04805" target="_blank">BERT-Base</a></td>
-    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank">USC-INK</a></td>
-    <td class="date">5/30/2021</td>
-    <td class="traindata">RS+CSQA</td>
-    <td class="acc">47.67</td>
-  </tr>
-  <tr>
-    <td class="modelname"  style="background-color: #f5f6fa">Random Guess</td>
-    <td class="submitter"  style="background-color: #f5f6fa">-</td>
-    <td class="date"  style="background-color: #f5f6fa">-</td>
-    <td class="traindata"  style="background-color: #f5f6fa">N/A</td>
-    <td class="acc"  style="background-color: #f5f6fa">20.00</td>
+    <td class="modelname"><a href="https://aclanthology.org/N16-1030/" target="_blank">BLSTM-CRF </a></td>
+    <td class="submitter"><a href="http://inklab.usc.edu" target="_blank" title="9/10/2021">USC-INK</a></td>
+    <td class="traindata">84.6</td>
+    <td class="acc">40.5</td>
+    <td class="acc">77.3</td>
+    <td class="acc">32.4</td>
   </tr>
 </tbody>
 </table>
