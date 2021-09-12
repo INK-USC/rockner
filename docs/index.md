@@ -153,11 +153,11 @@ China I-ORG
   <tr>
     <th rowspan="2">Model</th>
     <th rowspan="2">Submitter</th>
-    <th rowspan="2" border-style="solid">Ori_test_F1</th>
+    <th rowspan="2">Ori_test_F1</th>
     <th colspan="3">OntoRock_test_F1</th>
   </tr>
   <tr>
-    <th border-style="solid">Ent</th>
+    <th>Ent</th>
     <th>Cont</th>
     <th>Full</th>
   </tr>
