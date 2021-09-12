@@ -214,10 +214,10 @@ China I-ORG
 </tbody>
 </table>
 
-### Submission Guide (Todo)
+### Submission Guide
 {: .no_toc}
 
-This is [***an example submission file***](submission_example.jsonl){: target="_blank"}. Please submit your prediction file and information via [***this form***](https://forms.gle/a3yyoxmgj1FoJpMM7){: target="_blank"}.
+Please submit your prediction file (as the same format above --- 1st column for tokens and 2nd column for predicted tags) and information via [***this site***](https://rebiber.herokuapp.com/){: target="_blank"}.
 
 ## Citation
 
