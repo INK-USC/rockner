@@ -1,0 +1,112 @@
+{"entity": [142, 20, 22, "WORK_OF_ART"], "ent_text": "the Giant Buddha", "linked_title": "Great Buddha of Thailand", "ent_id": "Q2083114", "class_num": 1, "classes": {"Q1051606": "Daibutsu"}}
+{"entity": [154, 13, 13, "WORK_OF_ART"], "ent_text": "Buddha", "linked_title": "Gautama Buddha", "ent_id": "Q9441", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [156, 19, 21, "WORK_OF_ART"], "ent_text": "Lingshan Giant Buddha", "linked_title": "Grand Buddha at Ling Shan", "ent_id": "Q2520201", "class_num": 1, "classes": {"Q1051606": "Daibutsu"}}
+{"entity": [156, 26, 28, "WORK_OF_ART"], "ent_text": "Leshan Giant Buddha", "linked_title": "Leshan Giant Buddha", "ent_id": "Q205131", "class_num": 2, "classes": {"Q839954": "archaeological site", "Q1051606": "Daibutsu"}}
+{"entity": [156, 33, 35, "WORK_OF_ART"], "ent_text": "Yungang Giant Buddha", "linked_title": "Yungang Grottoes", "ent_id": "Q308805", "class_num": 1, "classes": {"Q1131329": "grotto"}}
+{"entity": [156, 41, 43, "WORK_OF_ART"], "ent_text": "Longmen Giant Buddha", "linked_title": "Longmen Grottoes", "ent_id": "Q273834", "class_num": 1, "classes": {"Q1131329": "grotto"}}
+{"entity": [156, 53, 53, "WORK_OF_ART"], "ent_text": "Buddhas", "linked_title": "Gautama Buddha", "ent_id": "Q9441", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [159, 4, 4, "WORK_OF_ART"], "ent_text": "Buddha", "linked_title": "Gautama Buddha", "ent_id": "Q9441", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [207, 20, 22, "WORK_OF_ART"], "ent_text": "the Great Wall", "linked_title": "Great Wall of China", "ent_id": "Q12501", "class_num": 3, "classes": {"Q570116": "tourist attraction", "Q1784293": "cordon", "Q2973801": "fortified line"}}
+{"entity": [222, 2, 3, "WORK_OF_ART"], "ent_text": "News Night", "linked_title": "News Night (Philippine TV program)", "ent_id": "Q30600980", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [236, 2, 3, "WORK_OF_ART"], "ent_text": "News Night", "linked_title": "News Night (Philippine TV program)", "ent_id": "Q30600980", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [331, 19, 19, "WORK_OF_ART"], "ent_text": "CSI", "linked_title": "CSI: Crime Scene Investigation", "ent_id": "Q117396", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [383, 5, 6, "WORK_OF_ART"], "ent_text": "News Night", "linked_title": "News Night (Philippine TV program)", "ent_id": "Q30600980", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [388, 11, 12, "WORK_OF_ART"], "ent_text": "News Night", "linked_title": "News Night (Philippine TV program)", "ent_id": "Q30600980", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [485, 15, 18, "WORK_OF_ART"], "ent_text": "Walking the Thin Line", "linked_title": "Walk a Thin Line", "ent_id": "Q24967518", "class_num": 1, "classes": {"Q134556": "single"}}
+{"entity": [486, 6, 8, "WORK_OF_ART"], "ent_text": "Paula Zahn Now", "linked_title": "Paula Zahn", "ent_id": "Q3090547", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [584, 3, 5, "WORK_OF_ART"], "ent_text": "News Night Tonight", "linked_title": "Sky News Tonight", "ent_id": "Q16978082", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [591, 6, 6, "WORK_OF_ART"], "ent_text": "PIMP", "linked_title": "Like a Pimp", "ent_id": "Q28401228", "class_num": 1, "classes": {"Q134556": "single"}}
+{"entity": [641, 4, 5, "WORK_OF_ART"], "ent_text": "News Night", "linked_title": "News Night (Philippine TV program)", "ent_id": "Q30600980", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [684, 4, 7, "WORK_OF_ART"], "ent_text": "Psalms ninety - one", "linked_title": "Psalms", "ent_id": "Q41064", "class_num": 2, "classes": {"Q179461": "religious text", "Q29154430": "book of the Bible"}}
+{"entity": [752, 17, 18, "WORK_OF_ART"], "ent_text": "The Apprentice", "linked_title": "The Apprentice (American TV series)", "ent_id": "Q863122", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [758, 0, 3, "WORK_OF_ART"], "ent_text": "The Apprentice Martha Stewart", "linked_title": "The Apprentice: Martha Stewart", "ent_id": "Q5233261", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [762, 5, 5, "WORK_OF_ART"], "ent_text": "Apprentice", "linked_title": "The Apprentice (American TV series)", "ent_id": "Q863122", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [764, 8, 8, "WORK_OF_ART"], "ent_text": "Apprentice", "linked_title": "Apprenticeship", "ent_id": "Q253567", "class_num": 2, "classes": {"Q28640": "profession", "Q4164871": "position"}}
+{"entity": [1002, 4, 9, "WORK_OF_ART"], "ent_text": "Manhunt Sex Offenders on the Loose", "linked_title": "Manhunt \u2013 Solving Britain's Crimes", "ent_id": "Q6749374", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [1010, 19, 25, "WORK_OF_ART"], "ent_text": "Guilty as Sin Free as a Bird", "linked_title": "Free as a Bird", "ent_id": "Q1253825", "class_num": 1, "classes": {"Q7366": "song"}}
+{"entity": [1014, 6, 12, "WORK_OF_ART"], "ent_text": "Michael Jackson the Man Behind the Mask", "linked_title": "Michael Jackson", "ent_id": "Q2831", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [1096, 14, 15, "WORK_OF_ART"], "ent_text": "Celebrity Justice", "linked_title": "Celebrity Justice", "ent_id": "Q5057744", "class_num": 2, "classes": {"Q1358344": "newscast", "Q5398426": "television series"}}
+{"entity": [1174, 2, 5, "WORK_OF_ART"], "ent_text": "Man Behind the Mask", "linked_title": "The Man Behind the Mask", "ent_id": "Q7749856", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [1186, 16, 20, "WORK_OF_ART"], "ent_text": "Rita Cosby Live and Direct", "linked_title": "Rita Cosby: Live & Direct", "ent_id": "Q7336499", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [1193, 3, 8, "WORK_OF_ART"], "ent_text": "Manhunt Sex Offenders on the Loose", "linked_title": "Manhunt \u2013 Solving Britain's Crimes", "ent_id": "Q6749374", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [1214, 2, 4, "WORK_OF_ART"], "ent_text": "the Abrams Report", "linked_title": "The Abrams Report", "ent_id": "Q7712140", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [1312, 9, 14, "WORK_OF_ART"], "ent_text": "Manhunt Sex Offenders on the Loose", "linked_title": "NCS: Manhunt", "ent_id": "Q2580622", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [1318, 5, 10, "WORK_OF_ART"], "ent_text": "Manhunt Sex Offenders on the Loose", "linked_title": "NCS: Manhunt", "ent_id": "Q2580622", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [1319, 9, 14, "WORK_OF_ART"], "ent_text": "Manhunt Sex Offenders on the Loose", "linked_title": "NCS: Manhunt", "ent_id": "Q2580622", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [1478, 1, 2, "WORK_OF_ART"], "ent_text": "Oh Please", "linked_title": "Oh, Please", "ent_id": "Q62008355", "class_num": 1, "classes": {"Q482994": "album"}}
+{"entity": [1486, 3, 6, "WORK_OF_ART"], "ent_text": "Hardball with Chris Matthews", "linked_title": "Hardball with Chris Matthews", "ent_id": "Q3127348", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [1637, 9, 14, "WORK_OF_ART"], "ent_text": "There 's a Place Called Wangjiazhan", "linked_title": "Wangjiawan", "ent_id": "Q139352", "class_num": 1, "classes": {"Q13100073": "village-level division in China"}}
+{"entity": [1685, 20, 23, "WORK_OF_ART"], "ent_text": "Quotations from Chairman Mao", "linked_title": "Quotations from Chairman Mao Tse-tung", "ent_id": "Q36393", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [1685, 39, 42, "WORK_OF_ART"], "ent_text": "Quotations from Chairman Mao", "linked_title": "Quotations from Chairman Mao Tse-tung", "ent_id": "Q36393", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [1705, 20, 23, "WORK_OF_ART"], "ent_text": "Quotations from Chairman Mao", "linked_title": "Quotations from Chairman Mao Tse-tung", "ent_id": "Q36393", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [1705, 39, 42, "WORK_OF_ART"], "ent_text": "Quotations from Chairman Mao", "linked_title": "Quotations from Chairman Mao Tse-tung", "ent_id": "Q36393", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [1743, 0, 3, "WORK_OF_ART"], "ent_text": "The Flower Girl .", "linked_title": "The Flower Girl", "ent_id": "Q91248616", "class_num": 2, "classes": {"Q1344": "opera", "Q25372": "drama"}}
+{"entity": [1747, 2, 4, "WORK_OF_ART"], "ent_text": "The Flower Girl", "linked_title": "The Flower Girl", "ent_id": "Q91248616", "class_num": 2, "classes": {"Q1344": "opera", "Q25372": "drama"}}
+{"entity": [1941, 9, 12, "WORK_OF_ART"], "ent_text": "Love the Hard Way", "linked_title": "Love the Hard Way", "ent_id": "Q569321", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [2191, 14, 15, "WORK_OF_ART"], "ent_text": "Jingle Bells", "linked_title": "Jingle Bells", "ent_id": "Q406845", "class_num": 2, "classes": {"Q7366": "song", "Q207628": "musical composition"}}
+{"entity": [2193, 18, 21, "WORK_OF_ART"], "ent_text": "`` meowy Christmas ''", "linked_title": "Honky Tonk Christmas", "ent_id": "Q1759815", "class_num": 1, "classes": {"Q482994": "album"}}
+{"entity": [2194, 20, 23, "WORK_OF_ART"], "ent_text": "Here Comes Santa Claws", "linked_title": "Here Comes Santa Claus", "ent_id": "Q1649444", "class_num": 2, "classes": {"Q7366": "song", "Q2188189": "musical work"}}
+{"entity": [2202, 4, 5, "WORK_OF_ART"], "ent_text": "Headline News", "linked_title": "All Headline News", "ent_id": "Q4728812", "class_num": 1, "classes": {"Q4830453": "business"}}
+{"entity": [2226, 3, 7, "WORK_OF_ART"], "ent_text": "`` Larry King Live ''", "linked_title": "Larry King Live", "ent_id": "Q1423559", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [2321, 7, 7, "WORK_OF_ART"], "ent_text": "Today", "linked_title": "Today (American TV program)", "ent_id": "Q130838", "class_num": 3, "classes": {"Q1358344": "newscast", "Q5398426": "television series", "Q17232649": "news website"}}
+{"entity": [2381, 12, 14, "WORK_OF_ART"], "ent_text": "Tom and Jerry", "linked_title": "Tom and Jerry", "ent_id": "Q131144", "class_num": 1, "classes": {"Q56884562": "animated film series"}}
+{"entity": [2457, 4, 4, "WORK_OF_ART"], "ent_text": "Newsnight", "linked_title": "Newsnight", "ent_id": "Q25869", "class_num": 1, "classes": {"Q15836186": "television news magazine"}}
+{"entity": [2531, 9, 17, "WORK_OF_ART"], "ent_text": "`` Tantrika '' Traveling the Road of Divine Love", "linked_title": "Revelations of Divine Love", "ent_id": "Q7317855", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [2601, 6, 8, "WORK_OF_ART"], "ent_text": "Larry King Live", "linked_title": "Larry King Live", "ent_id": "Q1423559", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [2603, 10, 17, "WORK_OF_ART"], "ent_text": "A Twisted Mind , The Andrew Luster Story", "linked_title": "Andrew Luster", "ent_id": "Q356195", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [2727, 31, 31, "WORK_OF_ART"], "ent_text": "Constitution", "linked_title": "Constitution of the United States", "ent_id": "Q11698", "class_num": 1, "classes": {"Q7755": "constitution"}}
+{"entity": [2746, 14, 18, "WORK_OF_ART"], "ent_text": "the Nobel Prize for Literature", "linked_title": "Nobel Prize in Literature", "ent_id": "Q37922", "class_num": 1, "classes": {"Q378427": "literary award"}}
+{"entity": [2762, 48, 50, "WORK_OF_ART"], "ent_text": "Waiting for Godot", "linked_title": "Waiting for Godot", "ent_id": "Q19871", "class_num": 2, "classes": {"Q25379": "play", "Q47461344": "written work"}}
+{"entity": [2873, 61, 66, "WORK_OF_ART"], "ent_text": "Stay , the Hand of Vengeance", "linked_title": "Call of Duty (book)", "ent_id": "Q5021637", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [2913, 8, 9, "WORK_OF_ART"], "ent_text": "Today Show", "linked_title": "Today (American TV program)", "ent_id": "Q130838", "class_num": 3, "classes": {"Q1358344": "newscast", "Q5398426": "television series", "Q17232649": "news website"}}
+{"entity": [2937, 11, 12, "WORK_OF_ART"], "ent_text": "The World", "linked_title": "The World (radio program)", "ent_id": "Q7775922", "class_num": 1, "classes": {"Q1555508": "radio program"}}
+{"entity": [3225, 9, 10, "WORK_OF_ART"], "ent_text": "Beidi Temple", "linked_title": "Mahabodhi Temple", "ent_id": "Q4513", "class_num": 1, "classes": {"Q5393308": "Buddhist temple"}}
+{"entity": [3274, 1, 1, "WORK_OF_ART"], "ent_text": "Nobel", "linked_title": "Nobel Prize", "ent_id": "Q7191", "class_num": 1, "classes": {"Q38033430": "class of award"}}
+{"entity": [3336, 25, 31, "WORK_OF_ART"], "ent_text": "the Great Cross of Juan Mora Fernandez", "linked_title": "Juan Mora Fern\u00e1ndez", "ent_id": "Q888005", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [3635, 1, 1, "WORK_OF_ART"], "ent_text": "Bible", "linked_title": "Bible", "ent_id": "Q1845", "class_num": 3, "classes": {"Q105420": "anthology", "Q179461": "religious text", "Q47461344": "written work"}}
+{"entity": [3781, 9, 12, "WORK_OF_ART"], "ent_text": "A Wild Sheep Chase", "linked_title": "A Wild Sheep Chase", "ent_id": "Q2279794", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [3783, 7, 9, "WORK_OF_ART"], "ent_text": "Johnny B. Goode", "linked_title": "Johnny B. Goode", "ent_id": "Q931481", "class_num": 1, "classes": {"Q134556": "single"}}
+{"entity": [3789, 2, 5, "WORK_OF_ART"], "ent_text": "A Wild Sheep Chase", "linked_title": "A Wild Sheep Chase", "ent_id": "Q2279794", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [3790, 11, 14, "WORK_OF_ART"], "ent_text": "A Wild Sheep Chase", "linked_title": "A Wild Sheep Chase", "ent_id": "Q2279794", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [3796, 6, 7, "WORK_OF_ART"], "ent_text": "Norwegian Wood", "linked_title": "Norwegian Wood (novel)", "ent_id": "Q751348", "class_num": 2, "classes": {"Q193955": "hardback", "Q47461344": "written work"}}
+{"entity": [3799, 5, 8, "WORK_OF_ART"], "ent_text": "You Gotta Have Wa", "linked_title": "Robert Whiting", "ent_id": "Q7351023", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [3807, 1, 2, "WORK_OF_ART"], "ent_text": "Funny Business", "linked_title": "Funny Business (TV series)", "ent_id": "Q5509357", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [3893, 0, 0, "WORK_OF_ART"], "ent_text": "DOONESBURY", "linked_title": "Doonesbury", "ent_id": "Q429433", "class_num": 1, "classes": {"Q838795": "comic strip"}}
+{"entity": [3929, 6, 8, "WORK_OF_ART"], "ent_text": "The Nine Tailors", "linked_title": "The Nine Tailors", "ent_id": "Q1815880", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [3978, 30, 34, "WORK_OF_ART"], "ent_text": "The Bells in Your Care", "linked_title": "We Call on Him", "ent_id": "Q7977434", "class_num": 1, "classes": {"Q7366": "song"}}
+{"entity": [4094, 13, 16, "WORK_OF_ART"], "ent_text": "The Federalist No. 48", "linked_title": "Federalist No. 48", "ent_id": "Q5440621", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [4103, 24, 25, "WORK_OF_ART"], "ent_text": "Citizen Lawmakers", "linked_title": "Citizen journalism", "ent_id": "Q848979", "class_num": 1, "classes": {"Q4894405": "journalism genre"}}
+{"entity": [4109, 14, 14, "WORK_OF_ART"], "ent_text": "Equivalents", "linked_title": "Equivalents", "ent_id": "Q5384733", "class_num": 1, "classes": {"Q20744439": "photograph series"}}
+{"entity": [4339, 0, 3, "WORK_OF_ART"], "ent_text": "`` Capital City ''", "linked_title": "Capital City (TV series)", "ent_id": "Q3656847", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4342, 9, 10, "WORK_OF_ART"], "ent_text": "Capital City", "linked_title": "Capital City (TV series)", "ent_id": "Q3656847", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4372, 5, 6, "WORK_OF_ART"], "ent_text": "Capital City", "linked_title": "Capital City (TV series)", "ent_id": "Q3656847", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4377, 12, 14, "WORK_OF_ART"], "ent_text": "Three 's Company", "linked_title": "Three's Company", "ent_id": "Q245996", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4377, 18, 21, "WORK_OF_ART"], "ent_text": "Too Close for Comfort", "linked_title": "Too Close for Comfort", "ent_id": "Q677187", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4377, 25, 27, "WORK_OF_ART"], "ent_text": "Check It Out", "linked_title": "Check It Out (British TV series)", "ent_id": "Q5089072", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [4378, 20, 23, "WORK_OF_ART"], "ent_text": "`` Capital City ''", "linked_title": "The Wonder City of Oz", "ent_id": "Q7775613", "class_num": 1, "classes": {"Q7725634": "literary work"}}
+{"entity": [4378, 38, 39, "WORK_OF_ART"], "ent_text": "Carry On", "linked_title": "Carry On (franchise)", "ent_id": "Q948916", "class_num": 2, "classes": {"Q24856": "film series", "Q196600": "media franchise"}}
+{"entity": [4383, 10, 12, "WORK_OF_ART"], "ent_text": "Carry On Trading", "linked_title": "Carry On (franchise)", "ent_id": "Q948916", "class_num": 2, "classes": {"Q24856": "film series", "Q196600": "media franchise"}}
+{"entity": [4484, 22, 26, "WORK_OF_ART"], "ent_text": "The End of the Day", "linked_title": "The End of the Day", "ent_id": "Q3208959", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [4486, 20, 21, "WORK_OF_ART"], "ent_text": "Sunday Journal", "linked_title": "Sunday Journal", "ent_id": "Q5674384", "class_num": 1, "classes": {"Q11032": "newspaper"}}
+{"entity": [4489, 12, 12, "WORK_OF_ART"], "ent_text": "Newsreel", "linked_title": "Newsreel", "ent_id": "Q735478", "class_num": 1, "classes": {"Q201658": "film genre"}}
+{"entity": [4491, 8, 12, "WORK_OF_ART"], "ent_text": "The March of Time ''", "linked_title": "The March of Time", "ent_id": "Q2412728", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [4658, 21, 21, "WORK_OF_ART"], "ent_text": "Week", "linked_title": "Week", "ent_id": "Q23387", "class_num": 2, "classes": {"Q1790144": "unit of time", "Q82047057": "UCUM derived unit"}}
+{"entity": [5330, 34, 34, "WORK_OF_ART"], "ent_text": "Moonlighting", "linked_title": "Moonlighting (TV series)", "ent_id": "Q471350", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [5508, 14, 31, "WORK_OF_ART"], "ent_text": "Three comments on ' do n't rush , be patient ' \" in Taiwan 's \" Daily Economy", "linked_title": "Economy of Taiwan", "ent_id": "Q715557", "class_num": 1, "classes": {"Q6456916": "national economy"}}
+{"entity": [7529, 9, 9, "WORK_OF_ART"], "ent_text": "Koran", "linked_title": "Quran", "ent_id": "Q428", "class_num": 2, "classes": {"Q179461": "religious text", "Q47461344": "written work"}}
+{"entity": [7775, 0, 9, "WORK_OF_ART"], "ent_text": "`` A View from the Eye of the Storm ''", "linked_title": "The Eye of the Storm (1970 film)", "ent_id": "Q5422703", "class_num": 1, "classes": {"Q506240": "television film"}}
+{"entity": [8079, 5, 8, "WORK_OF_ART"], "ent_text": "A Rumour of War", "linked_title": "A Rumor of War", "ent_id": "Q4659304", "class_num": 1, "classes": {"Q47461344": "written work"}}
+{"entity": [8099, 16, 18, "WORK_OF_ART"], "ent_text": "Disasters of War", "linked_title": "The Disasters of War", "ent_id": "Q1200522", "class_num": 1, "classes": {"Q19960510": "series of prints"}}
+{"entity": [8141, 9, 10, "WORK_OF_ART"], "ent_text": "Twilight Zone", "linked_title": "The Twilight Zone", "ent_id": "Q14329491", "class_num": 1, "classes": {"Q196600": "media franchise"}}
+{"entity": [8170, 11, 13, "WORK_OF_ART"], "ent_text": "The Dirty Dozen", "linked_title": "The Dirty Dozen", "ent_id": "Q470735", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [8173, 17, 18, "WORK_OF_ART"], "ent_text": "Kill Bill", "linked_title": "Kill Bill: Volume 1", "ent_id": "Q165325", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [8191, 14, 14, "WORK_OF_ART"], "ent_text": "simpsons", "linked_title": "The Simpsons", "ent_id": "Q886", "class_num": 2, "classes": {"Q581714": "animated series", "Q21188110": "American television sitcom"}}
+{"entity": [8193, 5, 6, "WORK_OF_ART"], "ent_text": "Kill Bills", "linked_title": "Kill Bill: Volume 1", "ent_id": "Q165325", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [8223, 16, 19, "WORK_OF_ART"], "ent_text": "the book of Luke", "linked_title": "Gospel of Luke", "ent_id": "Q39939", "class_num": 2, "classes": {"Q34274": "gospel", "Q29154430": "book of the Bible"}}
+{"entity": [8262, 4, 14, "WORK_OF_ART"], "ent_text": "Iraq : Beyond Abu Ghraib : Detention and torture in Iraq", "linked_title": "Abu Ghraib torture and prisoner abuse", "ent_id": "Q334720", "class_num": 3, "classes": {"Q135010": "war crime", "Q600571": "abuse", "Q934744": "political scandal"}}
+{"entity": [8264, 4, 9, "WORK_OF_ART"], "ent_text": "International Red Cross Report Section 7", "linked_title": "International Red Cross and Red Crescent Movement", "ent_id": "Q7178", "class_num": 2, "classes": {"Q336473": "aid agency", "Q1194093": "international non-governmental organization"}}
+{"entity": [8300, 0, 1, "WORK_OF_ART"], "ent_text": "Revelation 18", "linked_title": "Revelation 18", "ent_id": "Q12523863", "class_num": 1, "classes": {"Q29154515": "chapter of the Bible"}}
+{"entity": [8380, 29, 29, "WORK_OF_ART"], "ent_text": "OT", "linked_title": "Old Testament", "ent_id": "Q19786", "class_num": 3, "classes": {"Q179461": "religious text", "Q7725634": "literary work", "Q64689000": "testament"}}
+{"entity": [8460, 2, 2, "WORK_OF_ART"], "ent_text": "OT", "linked_title": "Old Testament", "ent_id": "Q19786", "class_num": 3, "classes": {"Q179461": "religious text", "Q7725634": "literary work", "Q64689000": "testament"}}
+{"entity": [8462, 12, 12, "WORK_OF_ART"], "ent_text": "Torah", "linked_title": "Torah", "ent_id": "Q34990", "class_num": 1, "classes": {"Q179461": "religious text"}}
+{"entity": [8483, 10, 14, "WORK_OF_ART"], "ent_text": "Bridge Over the River Kwai", "linked_title": "The Bridge on the River Kwai", "ent_id": "Q188718", "class_num": 1, "classes": {"Q11424": "film"}}

@@ -1,0 +1,835 @@
+{"entity": [98, 44, 45, "ORG"], "ent_text": "385th Brigade", "linked_title": "94th Division (People's Republic of China)", "ent_id": "Q4645963"}
+{"entity": [247, 8, 9, "ORG"], "ent_text": "Focus Today", "linked_title": "China Today (CCTV)", "ent_id": "Q5099933"}
+{"entity": [257, 9, 12, "ORG"], "ent_text": "the Chinese International Channel", "linked_title": "CTi International", "ent_id": "Q5014666"}
+{"entity": [1187, 8, 9, "ORG"], "ent_text": "Focus Today", "linked_title": "China Today (CCTV)", "ent_id": "Q5099933"}
+{"entity": [1752, 1, 1, "ORG"], "ent_text": "anti-Wal-Mart", "linked_title": "Wake Up Wal-Mart", "ent_id": "Q7960982"}
+{"entity": [1779, 0, 3, "ORG"], "ent_text": "Wal - Mart Watch", "linked_title": "Walmart Watch", "ent_id": "Q7963530"}
+{"entity": [2040, 5, 6, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [2046, 9, 10, "ORG"], "ent_text": "Green party", "linked_title": "Green party", "ent_id": "Q3778417"}
+{"entity": [3388, 3, 6, "ORG"], "ent_text": "the Complete Wellness Approach", "linked_title": "Relaxation technique", "ent_id": "Q955260"}
+{"entity": [3393, 0, 3, "ORG"], "ent_text": "The Complete Wellness Approach", "linked_title": "Comprehensive medication management", "ent_id": "Q65120375"}
+{"entity": [3703, 5, 5, "ORG"], "ent_text": "University", "linked_title": "University", "ent_id": "Q3918"}
+{"entity": [3844, 2, 3, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [3845, 17, 17, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [5065, 21, 23, "ORG"], "ent_text": "Ministry of Defense", "linked_title": "Ministry of Defence", "ent_id": "Q1788820"}
+{"entity": [5135, 7, 8, "ORG"], "ent_text": "Homeland Security", "linked_title": "Homeland security", "ent_id": "Q181467"}
+{"entity": [5174, 18, 18, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [5482, 3, 3, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [5729, 7, 8, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [5730, 12, 13, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [5839, 8, 10, "ORG"], "ent_text": "LSU medical school", "linked_title": "Louisiana State University School of Medicine", "ent_id": "Q6689308"}
+{"entity": [5878, 6, 8, "ORG"], "ent_text": "LSU medical school", "linked_title": "Louisiana State University School of Medicine", "ent_id": "Q6689308"}
+{"entity": [6066, 9, 9, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [6071, 3, 3, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [6141, 16, 16, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [6276, 26, 28, "ORG"], "ent_text": "Court of Appeals", "linked_title": "Appellate court", "ent_id": "Q4959031"}
+{"entity": [6279, 10, 11, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [6280, 1, 1, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [6292, 0, 1, "ORG"], "ent_text": "Homeland security", "linked_title": "Homeland security", "ent_id": "Q181467"}
+{"entity": [6293, 2, 3, "ORG"], "ent_text": "Homeland Security", "linked_title": "Homeland security", "ent_id": "Q181467"}
+{"entity": [6304, 3, 4, "ORG"], "ent_text": "Homeland Security", "linked_title": "Homeland security", "ent_id": "Q181467"}
+{"entity": [6457, 7, 7, "ORG"], "ent_text": "Falls", "linked_title": "Waterfall", "ent_id": "Q34038"}
+{"entity": [7121, 0, 0, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [7265, 17, 17, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [7336, 42, 44, "ORG"], "ent_text": "Progress For America", "linked_title": "Progress for America", "ent_id": "Q7248584"}
+{"entity": [7338, 17, 18, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [7390, 12, 14, "ORG"], "ent_text": "a Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [7427, 6, 6, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [7450, 2, 2, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [8216, 5, 5, "ORG"], "ent_text": "gallop", "linked_title": "Nielsen ratings", "ent_id": "Q1618101"}
+{"entity": [8287, 4, 4, "ORG"], "ent_text": "gallop", "linked_title": "Horse racing", "ent_id": "Q187916"}
+{"entity": [8537, 30, 32, "ORG"], "ent_text": "the permanent five", "linked_title": "Permanent members of the United Nations Security Council", "ent_id": "Q6688521"}
+{"entity": [8573, 6, 6, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [8574, 10, 10, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [8576, 4, 4, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [8921, 3, 6, "ORG"], "ent_text": "the Dubai Ports World", "linked_title": "Dubai Ports World controversy", "ent_id": "Q5310596"}
+{"entity": [8965, 12, 12, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [8977, 7, 7, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [8998, 7, 7, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [9086, 1, 1, "ORG"], "ent_text": "Patriots", "linked_title": "Patriot (American Revolution)", "ent_id": "Q1365374"}
+{"entity": [9171, 23, 23, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [9203, 1, 1, "ORG"], "ent_text": "Court", "linked_title": "Court", "ent_id": "Q41487"}
+{"entity": [9236, 3, 3, "ORG"], "ent_text": "Court", "linked_title": "Court", "ent_id": "Q41487"}
+{"entity": [9250, 42, 46, "ORG"], "ent_text": "the Terrorist Finance Tracking Program", "linked_title": "Terrorist Finance Tracking Program", "ent_id": "Q7703968"}
+{"entity": [9357, 5, 5, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [9511, 9, 9, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [9696, 8, 9, "ORG"], "ent_text": "Security Agency", "linked_title": "Security agency", "ent_id": "Q3238445"}
+{"entity": [9755, 4, 5, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [9834, 16, 16, "ORG"], "ent_text": "Court", "linked_title": "Court", "ent_id": "Q41487"}
+{"entity": [9865, 21, 21, "ORG"], "ent_text": "Court", "linked_title": "Court", "ent_id": "Q41487"}
+{"entity": [10128, 16, 19, "ORG"], "ent_text": "the Civil Administration Bureau", "linked_title": "Administrative divisions of Japan", "ent_id": "Q1850442"}
+{"entity": [10189, 4, 6, "ORG"], "ent_text": "the Seismology Bureau", "linked_title": "National Centre for Seismology", "ent_id": "Q27962427"}
+{"entity": [10218, 13, 13, "ORG"], "ent_text": "Committee", "linked_title": "Committee", "ent_id": "Q865588"}
+{"entity": [10220, 0, 3, "ORG"], "ent_text": "The National Seismology Bureau", "linked_title": "National Centre for Seismology", "ent_id": "Q27962427"}
+{"entity": [10245, 12, 16, "ORG"], "ent_text": "the Qinglong County Scientific Committee", "linked_title": "Revolutionary committee (China)", "ent_id": "Q7318739"}
+{"entity": [10374, 4, 7, "ORG"], "ent_text": "the National Seismology Bureau", "linked_title": "National Centre for Seismology", "ent_id": "Q27962427"}
+{"entity": [10813, 14, 14, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [10820, 10, 11, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10822, 6, 7, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10822, 24, 25, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10824, 5, 6, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10824, 14, 15, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10831, 2, 3, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10833, 16, 17, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10834, 6, 7, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10839, 13, 14, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10840, 11, 12, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10846, 7, 9, "ORG"], "ent_text": "Social Security 's", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10849, 12, 13, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10850, 20, 21, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [10852, 7, 8, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [11021, 9, 11, "ORG"], "ent_text": "the Canvassing Board", "linked_title": "Canvassing", "ent_id": "Q1033959"}
+{"entity": [11404, 0, 3, "ORG"], "ent_text": "The Yugoslav Election Commission", "linked_title": "Election commission", "ent_id": "Q935741"}
+{"entity": [11781, 8, 8, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [11863, 14, 14, "ORG"], "ent_text": "Jihad", "linked_title": "Jihad", "ent_id": "Q44311"}
+{"entity": [11992, 5, 9, "ORG"], "ent_text": "a Real Estate Investment Trust", "linked_title": "Real estate investment trust", "ent_id": "Q697852"}
+{"entity": [11992, 11, 11, "ORG"], "ent_text": "REAT", "linked_title": "Real estate investment trust", "ent_id": "Q697852"}
+{"entity": [11998, 37, 37, "ORG"], "ent_text": "REATs", "linked_title": "Derivative (finance)", "ent_id": "Q66295"}
+{"entity": [12078, 8, 9, "ORG"], "ent_text": "Circuit Court", "linked_title": "Circuit court", "ent_id": "Q6311907"}
+{"entity": [12160, 13, 13, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [12227, 28, 28, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [12408, 1, 1, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [12414, 1, 1, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [12624, 3, 3, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [12658, 3, 3, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [12835, 1, 1, "ORG"], "ent_text": "ImClone", "linked_title": "ImClone stock trading case", "ent_id": "Q6001775"}
+{"entity": [13013, 2, 3, "ORG"], "ent_text": "Homeland Security", "linked_title": "Homeland security", "ent_id": "Q181467"}
+{"entity": [13228, 6, 6, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [13300, 9, 9, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [13388, 0, 2, "ORG"], "ent_text": "The Central Command", "linked_title": "AFP Central Command", "ent_id": "Q4651592"}
+{"entity": [13413, 2, 2, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [13760, 2, 4, "ORG"], "ent_text": "Business Travel Coalition", "linked_title": "Business alliance", "ent_id": "Q3306732"}
+{"entity": [15023, 9, 9, "ORG"], "ent_text": "ImClone", "linked_title": "ImClone stock trading case", "ent_id": "Q6001775"}
+{"entity": [15120, 42, 43, "ORG"], "ent_text": "Islamic Jihad", "linked_title": "Jihad", "ent_id": "Q44311"}
+{"entity": [15329, 11, 13, "ORG"], "ent_text": "Islamic Resistance Movement", "linked_title": "Resistance movement", "ent_id": "Q138796"}
+{"entity": [15801, 3, 5, "ORG"], "ent_text": "the Magellan Fund", "linked_title": "Fidelity Magellan Fund", "ent_id": "Q6730078"}
+{"entity": [16221, 10, 11, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [16361, 25, 29, "ORG"], "ent_text": "the State Elections Canvasing Commission", "linked_title": "Oregon State Elections Division", "ent_id": "Q17048687"}
+{"entity": [16518, 6, 7, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [16610, 23, 24, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [16657, 1, 1, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [16664, 1, 1, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [16861, 3, 3, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [17007, 1, 1, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [17021, 7, 8, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [17151, 8, 9, "ORG"], "ent_text": "Socialist Party", "linked_title": "Socialist Party", "ent_id": "Q1182201"}
+{"entity": [17191, 0, 2, "ORG"], "ent_text": "The Nobel Committee", "linked_title": "Nobel Committee", "ent_id": "Q46446"}
+{"entity": [17268, 7, 7, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [17542, 6, 11, "ORG"], "ent_text": "the HIV AIDS Peri-natal Research Unit", "linked_title": "Office of AIDS Research", "ent_id": "Q7072287"}
+{"entity": [17763, 8, 8, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [18053, 21, 24, "ORG"], "ent_text": "the State Supreme Court", "linked_title": "State supreme court", "ent_id": "Q7603882"}
+{"entity": [18101, 2, 2, "ORG"], "ent_text": "PRI", "linked_title": "Primary Rate Interface", "ent_id": "Q519361"}
+{"entity": [18131, 12, 15, "ORG"], "ent_text": "the Presidential Pardons Commission", "linked_title": "Pardon", "ent_id": "Q537151"}
+{"entity": [18136, 13, 16, "ORG"], "ent_text": "the Presidential Pardons Commission", "linked_title": "Pardon", "ent_id": "Q537151"}
+{"entity": [18138, 0, 3, "ORG"], "ent_text": "The Presidential Pardons Commission", "linked_title": "Pardon", "ent_id": "Q537151"}
+{"entity": [18144, 13, 13, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [18175, 12, 14, "ORG"], "ent_text": "the Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [18180, 23, 23, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [18183, 11, 13, "ORG"], "ent_text": "the Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [18193, 27, 27, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [18241, 1, 1, "ORG"], "ent_text": "Tribunal", "linked_title": "Tribunal", "ent_id": "Q1412224"}
+{"entity": [18245, 13, 13, "ORG"], "ent_text": "Tribunal", "linked_title": "Tribunal", "ent_id": "Q1412224"}
+{"entity": [18275, 12, 12, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [18295, 6, 6, "ORG"], "ent_text": "Information", "linked_title": "Information", "ent_id": "Q11028"}
+{"entity": [18591, 37, 37, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [18603, 12, 13, "ORG"], "ent_text": "Port Authority", "linked_title": "Port authority", "ent_id": "Q652812"}
+{"entity": [18674, 2, 2, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [18891, 1, 1, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [19147, 1, 1, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [19516, 0, 0, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [19518, 5, 5, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [19572, 15, 17, "ORG"], "ent_text": "National Olympic Committees", "linked_title": "National Olympic Committee", "ent_id": "Q183288"}
+{"entity": [19602, 13, 14, "ORG"], "ent_text": "Special Forces", "linked_title": "Special forces", "ent_id": "Q234497"}
+{"entity": [19653, 16, 16, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [19704, 8, 8, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [19817, 8, 8, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [19817, 24, 24, "ORG"], "ent_text": "Defense", "linked_title": "Ministry of Defence", "ent_id": "Q1788820"}
+{"entity": [20079, 0, 0, "ORG"], "ent_text": "Defense", "linked_title": "Ministry of Defence", "ent_id": "Q1788820"}
+{"entity": [20199, 19, 21, "ORG"], "ent_text": "Taiwan Alumni Association", "linked_title": "Taiwan Academy", "ent_id": "Q18207938"}
+{"entity": [20199, 31, 33, "ORG"], "ent_text": "first Selection Committee", "linked_title": "Selection Committee", "ent_id": "Q7191972"}
+{"entity": [20199, 37, 38, "ORG"], "ent_text": "Preparatory Committee", "linked_title": "Selection Committee", "ent_id": "Q7191972"}
+{"entity": [20210, 25, 28, "ORG"], "ent_text": "Taiwan Universities Alumni Association", "linked_title": "Alumni association", "ent_id": "Q447877"}
+{"entity": [20212, 30, 34, "ORG"], "ent_text": "the Macau SAR Selection Committee", "linked_title": "Selection Committee", "ent_id": "Q7191972"}
+{"entity": [20213, 7, 11, "ORG"], "ent_text": "the Taiwan Universities Alumni Association", "linked_title": "Alumni association", "ent_id": "Q447877"}
+{"entity": [20217, 12, 12, "ORG"], "ent_text": "SAR", "linked_title": "Search and rescue", "ent_id": "Q741964"}
+{"entity": [20219, 52, 52, "ORG"], "ent_text": "SAR", "linked_title": "Search and rescue", "ent_id": "Q741964"}
+{"entity": [20222, 6, 10, "ORG"], "ent_text": "the Sino - Latino Foundation", "linked_title": "Asia Pacific Exchange and Co-operation Foundation", "ent_id": "Q4806413"}
+{"entity": [20232, 14, 16, "ORG"], "ent_text": "Universities Alumni Association", "linked_title": "Alumni association", "ent_id": "Q447877"}
+{"entity": [20311, 6, 11, "ORG"], "ent_text": "Margaret 's egg - tart bakery", "linked_title": "List of Chinese bakery products", "ent_id": "Q3054613"}
+{"entity": [20375, 3, 8, "ORG"], "ent_text": "the China Textile In - stitute", "linked_title": "Textile industry in China", "ent_id": "Q26869609"}
+{"entity": [20469, 0, 2, "ORG"], "ent_text": "G - Fun", "linked_title": "Procter and Gamble Chemicals", "ent_id": "Q7247497"}
+{"entity": [20547, 5, 9, "ORG"], "ent_text": "the China Textile Institute 's", "linked_title": "Textile industry in China", "ent_id": "Q26869609"}
+{"entity": [20551, 19, 21, "ORG"], "ent_text": "China Textiles Institute", "linked_title": "Textile industry in China", "ent_id": "Q26869609"}
+{"entity": [20552, 11, 14, "ORG"], "ent_text": "the Taiwan Textile Federation", "linked_title": "Chinese National Federation of Industries", "ent_id": "Q5100556"}
+{"entity": [20590, 0, 5, "ORG"], "ent_text": "The Taipei District Prosecutor 's Office", "linked_title": "Taiwan High Prosecutors Office", "ent_id": "Q7676537"}
+{"entity": [20725, 2, 2, "ORG"], "ent_text": "Unitas", "linked_title": "UNITAS", "ent_id": "Q624532"}
+{"entity": [20744, 8, 12, "ORG"], "ent_text": "the Yungho Wanghsi Primary School", "linked_title": "Seoul Chinese Primary School", "ent_id": "Q12624120"}
+{"entity": [20840, 7, 7, "ORG"], "ent_text": "FTV", "linked_title": "Free-to-view", "ent_id": "Q1421111"}
+{"entity": [20843, 20, 20, "ORG"], "ent_text": "FTV", "linked_title": "Free-to-view", "ent_id": "Q1421111"}
+{"entity": [20844, 13, 13, "ORG"], "ent_text": "FTV", "linked_title": "Free-to-view", "ent_id": "Q1421111"}
+{"entity": [20873, 1, 2, "ORG"], "ent_text": "ON programming", "linked_title": "Broadcast programming", "ent_id": "Q374638"}
+{"entity": [20943, 3, 5, "ORG"], "ent_text": "Joy Production Corporation", "linked_title": "Joy Compressor", "ent_id": "Q6297069"}
+{"entity": [21151, 10, 10, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of Singapore", "ent_id": "Q5015558"}
+{"entity": [21153, 25, 28, "ORG"], "ent_text": "the Ministry of Defense", "linked_title": "Ministry of Defence", "ent_id": "Q1788820"}
+{"entity": [21409, 58, 60, "ORG"], "ent_text": "the Coast Guard", "linked_title": "Coast guard", "ent_id": "Q1353040"}
+{"entity": [21420, 13, 15, "ORG"], "ent_text": "General Staff College", "linked_title": "Staff college", "ent_id": "Q1522839"}
+{"entity": [21438, 15, 15, "ORG"], "ent_text": "TMD", "linked_title": "Weapon of mass destruction", "ent_id": "Q49394"}
+{"entity": [21442, 16, 16, "ORG"], "ent_text": "TMD", "linked_title": "Demilitarized zone", "ent_id": "Q41691"}
+{"entity": [21443, 35, 35, "ORG"], "ent_text": "TMD", "linked_title": "Tip-magnetic driving", "ent_id": "Q7808758"}
+{"entity": [21457, 13, 13, "ORG"], "ent_text": "TMD", "linked_title": "Weapon of mass destruction", "ent_id": "Q49394"}
+{"entity": [21464, 9, 10, "ORG"], "ent_text": "Tien Ma", "linked_title": "DF-11", "ent_id": "Q2034589"}
+{"entity": [21474, 20, 24, "ORG"], "ent_text": "the \" mini-United Nations \"", "linked_title": "China and the United Nations", "ent_id": "Q2917181"}
+{"entity": [21489, 20, 24, "ORG"], "ent_text": "the \" mini-United Nations \"", "linked_title": "China and the United Nations", "ent_id": "Q2917181"}
+{"entity": [21666, 14, 16, "ORG"], "ent_text": "Stock Stabilization Fund", "linked_title": "Stabilization fund", "ent_id": "Q7595739"}
+{"entity": [21990, 2, 4, "ORG"], "ent_text": "College of Management", "linked_title": "Doctor of Management", "ent_id": "Q5287514"}
+{"entity": [22010, 33, 36, "ORG"], "ent_text": "Graduate School of Management", "linked_title": "Graduate school", "ent_id": "Q20820271"}
+{"entity": [22119, 18, 22, "ORG"], "ent_text": "the Department of Business Administration", "linked_title": "Business administration", "ent_id": "Q2043282"}
+{"entity": [22143, 6, 10, "ORG"], "ent_text": "Ta Ai Community Affairs Center", "linked_title": "Taipei Community Services Center", "ent_id": "Q7676284"}
+{"entity": [22178, 2, 2, "ORG"], "ent_text": "TCAC", "linked_title": "United Nations Disaster Assessment and Coordination", "ent_id": "Q1298620"}
+{"entity": [22195, 0, 0, "ORG"], "ent_text": "TCAC", "linked_title": "Tennessee Collegiate Athletic Conference", "ent_id": "Q7700042"}
+{"entity": [22200, 23, 27, "ORG"], "ent_text": "Ta Ai Community Affairs Center", "linked_title": "Taipei Community Services Center", "ent_id": "Q7676284"}
+{"entity": [22206, 1, 1, "ORG"], "ent_text": "TCAC", "linked_title": "Tennessee Collegiate Athletic Conference", "ent_id": "Q7700042"}
+{"entity": [22214, 6, 6, "ORG"], "ent_text": "TCAC", "linked_title": "Tennessee Collegiate Athletic Conference", "ent_id": "Q7700042"}
+{"entity": [22216, 1, 1, "ORG"], "ent_text": "TCAC", "linked_title": "Context-based access control", "ent_id": "Q1128692"}
+{"entity": [22246, 3, 3, "ORG"], "ent_text": "TCAC", "linked_title": "Community Action Agencies", "ent_id": "Q2989709"}
+{"entity": [22268, 12, 12, "ORG"], "ent_text": "TCAC", "linked_title": "United Nations Disaster Assessment and Coordination", "ent_id": "Q1298620"}
+{"entity": [22276, 2, 6, "ORG"], "ent_text": "Ta Ai Community Affairs Center", "linked_title": "Taipei Community Services Center", "ent_id": "Q7676284"}
+{"entity": [22732, 8, 13, "ORG"], "ent_text": "the Palau - ROC Friendship Association", "linked_title": "US\u2013China Peoples Friendship Association", "ent_id": "Q17040406"}
+{"entity": [22803, 9, 11, "ORG"], "ent_text": "Holdings Company Ltd.", "linked_title": "Company", "ent_id": "Q783794"}
+{"entity": [22937, 9, 9, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of Singapore", "ent_id": "Q5015558"}
+{"entity": [23567, 23, 25, "ORG"], "ent_text": "Foreign Affairs Committee", "linked_title": "National People's Congress Foreign Affairs Committee", "ent_id": "Q10891460"}
+{"entity": [23568, 46, 49, "ORG"], "ent_text": "Research and Planning Board", "linked_title": "Planning and zoning commission", "ent_id": "Q7201386"}
+{"entity": [24123, 38, 38, "ORG"], "ent_text": "CCA", "linked_title": "Canadian Conference of the Arts", "ent_id": "Q5029900"}
+{"entity": [24136, 10, 10, "ORG"], "ent_text": "CCA", "linked_title": "Canadian Conference of the Arts", "ent_id": "Q5029900"}
+{"entity": [24188, 0, 1, "ORG"], "ent_text": "American Tech", "linked_title": "Technology company", "ent_id": "Q18388277"}
+{"entity": [24205, 6, 7, "ORG"], "ent_text": "Wood Guitar", "linked_title": "Guitar", "ent_id": "Q6607"}
+{"entity": [24211, 15, 17, "ORG"], "ent_text": "KHS Musical Company", "linked_title": "KHS Musical Instruments", "ent_id": "Q6330356"}
+{"entity": [24343, 0, 0, "ORG"], "ent_text": "VIA", "linked_title": "Via (electronics)", "ent_id": "Q374105"}
+{"entity": [24348, 19, 19, "ORG"], "ent_text": "VIA", "linked_title": "Virtual Interface Architecture", "ent_id": "Q7934985"}
+{"entity": [24350, 5, 5, "ORG"], "ent_text": "VIA", "linked_title": "Virtual Interface Architecture", "ent_id": "Q7934985"}
+{"entity": [24459, 19, 19, "ORG"], "ent_text": "Casino", "linked_title": "Casino", "ent_id": "Q133215"}
+{"entity": [24920, 3, 4, "ORG"], "ent_text": "Career Magazine", "linked_title": "Professional magazine", "ent_id": "Q55630524"}
+{"entity": [25043, 13, 16, "ORG"], "ent_text": "the Sanchung Rotary Club", "linked_title": "Rotary Club of SoHo Hong Kong", "ent_id": "Q30066024"}
+{"entity": [25199, 0, 1, "ORG"], "ent_text": "Agora Garden", "linked_title": "AGORA", "ent_id": "Q1999997"}
+{"entity": [25485, 20, 20, "ORG"], "ent_text": "Association", "linked_title": "Lung Kong Tin Yee Association", "ent_id": "Q16259442"}
+{"entity": [25487, 10, 10, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [25487, 21, 21, "ORG"], "ent_text": "Association", "linked_title": "Trade association", "ent_id": "Q2178147"}
+{"entity": [25488, 4, 4, "ORG"], "ent_text": "Association", "linked_title": "Trade association", "ent_id": "Q2178147"}
+{"entity": [25506, 13, 13, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet (government)", "ent_id": "Q640506"}
+{"entity": [25507, 7, 7, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet (government)", "ent_id": "Q640506"}
+{"entity": [25512, 9, 9, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet (government)", "ent_id": "Q640506"}
+{"entity": [25522, 25, 25, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of the Philippines", "ent_id": "Q3409762"}
+{"entity": [25523, 28, 28, "ORG"], "ent_text": "Council", "linked_title": "Council", "ent_id": "Q4358176"}
+{"entity": [25525, 14, 14, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of Singapore", "ent_id": "Q5015558"}
+{"entity": [25529, 45, 45, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet (government)", "ent_id": "Q640506"}
+{"entity": [25535, 6, 6, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of Singapore", "ent_id": "Q5015558"}
+{"entity": [25536, 12, 12, "ORG"], "ent_text": "Cabinet", "linked_title": "Cabinet of Singapore", "ent_id": "Q5015558"}
+{"entity": [25576, 15, 19, "ORG"], "ent_text": "the Ministry of Foreign Affairs", "linked_title": "Ministry of Foreign Affairs", "ent_id": "Q20901295"}
+{"entity": [25600, 18, 22, "ORG"], "ent_text": "the Ministry of Foreign Affairs", "linked_title": "Ministry of Foreign Affairs", "ent_id": "Q20901295"}
+{"entity": [25668, 10, 12, "ORG"], "ent_text": "and painting department", "linked_title": "Chinese calligraphy", "ent_id": "Q6498317"}
+{"entity": [25672, 8, 10, "ORG"], "ent_text": "kind of man", "linked_title": "Man", "ent_id": "Q8441"}
+{"entity": [25676, 7, 8, "ORG"], "ent_text": "these innovations", "linked_title": "Chinese calligraphy", "ent_id": "Q6498317"}
+{"entity": [25929, 13, 15, "ORG"], "ent_text": "Public Television Service", "linked_title": "Public broadcasting", "ent_id": "Q26398"}
+{"entity": [25944, 11, 12, "ORG"], "ent_text": "Taiuan Publishing", "linked_title": "Books.com.tw", "ent_id": "Q10909407"}
+{"entity": [26152, 5, 10, "ORG"], "ent_text": "the International Family Life Education Center", "linked_title": "Family life education", "ent_id": "Q5433344"}
+{"entity": [26429, 6, 9, "ORG"], "ent_text": "the Swedish Royal Academy", "linked_title": "Swedish Royal Academies", "ent_id": "Q1310653"}
+{"entity": [26443, 1, 1, "ORG"], "ent_text": "Association", "linked_title": "Trade association", "ent_id": "Q2178147"}
+{"entity": [26594, 5, 8, "ORG"], "ent_text": "the Educational Reform Committee", "linked_title": "Education reform", "ent_id": "Q861536"}
+{"entity": [27116, 4, 4, "ORG"], "ent_text": "Energy", "linked_title": "Energy", "ent_id": "Q11379"}
+{"entity": [27117, 17, 17, "ORG"], "ent_text": "Candu", "linked_title": "CANDU reactor", "ent_id": "Q558181"}
+{"entity": [27125, 12, 14, "ORG"], "ent_text": "the Central Bank", "linked_title": "Central bank", "ent_id": "Q66344"}
+{"entity": [27209, 4, 5, "ORG"], "ent_text": "Communist Party", "linked_title": "Communist party", "ent_id": "Q233591"}
+{"entity": [27334, 1, 1, "ORG"], "ent_text": "company", "linked_title": "Company", "ent_id": "Q783794"}
+{"entity": [27343, 16, 17, "ORG"], "ent_text": "Communist Party", "linked_title": "Communist party", "ent_id": "Q233591"}
+{"entity": [27424, 2, 11, "ORG"], "ent_text": "the Basic Chemicals , Pharmaceuticals and Cosmetics Export Promotion Council", "linked_title": "Pharmaceutical Export Promotion Council", "ent_id": "Q7180731"}
+{"entity": [27472, 17, 17, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [27506, 29, 32, "ORG"], "ent_text": "New England Consulting Group", "linked_title": "Consulting firm", "ent_id": "Q2089936"}
+{"entity": [27570, 8, 8, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [27573, 54, 54, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [27575, 5, 7, "ORG"], "ent_text": "the Big Board", "linked_title": "Big bet", "ent_id": "Q4906711"}
+{"entity": [27584, 14, 15, "ORG"], "ent_text": "Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [27585, 10, 11, "ORG"], "ent_text": "Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [27592, 3, 4, "ORG"], "ent_text": "Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [27606, 5, 6, "ORG"], "ent_text": "Big Board", "linked_title": "Board of directors", "ent_id": "Q188628"}
+{"entity": [27646, 23, 23, "ORG"], "ent_text": "EMS", "linked_title": "Emergency medical services", "ent_id": "Q860447"}
+{"entity": [27647, 18, 18, "ORG"], "ent_text": "EMS", "linked_title": "Emergency medical services", "ent_id": "Q860447"}
+{"entity": [27716, 15, 16, "ORG"], "ent_text": "Supreme Soviet", "linked_title": "Supreme Soviet", "ent_id": "Q3091606"}
+{"entity": [27716, 25, 25, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [28034, 21, 23, "ORG"], "ent_text": "Texas Commerce Bank", "linked_title": "Texas Commerce Bank", "ent_id": "Q17143505"}
+{"entity": [28038, 9, 11, "ORG"], "ent_text": "Marine Drilling Co.", "linked_title": "Marine Well Containment Company", "ent_id": "Q20707435"}
+{"entity": [28071, 2, 4, "ORG"], "ent_text": "Arrow Roustabouts Inc.", "linked_title": "Arrow Global", "ent_id": "Q48965597"}
+{"entity": [28145, 8, 8, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [28312, 0, 0, "ORG"], "ent_text": "Council", "linked_title": "Council", "ent_id": "Q4358176"}
+{"entity": [28322, 2, 4, "ORG"], "ent_text": "Manufacturers ' Association", "linked_title": "Manufacturers Association of Israel", "ent_id": "Q3580673"}
+{"entity": [28340, 0, 0, "ORG"], "ent_text": "Fair", "linked_title": "Fair", "ent_id": "Q288514"}
+{"entity": [28469, 23, 26, "ORG"], "ent_text": "Congress of Peoples Deputies", "linked_title": "Congress of Soviets", "ent_id": "Q3056596"}
+{"entity": [28573, 12, 12, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [28613, 2, 4, "ORG"], "ent_text": "Supply Regulator Institute", "linked_title": "Regulatory agency", "ent_id": "Q1639780"}
+{"entity": [28645, 19, 22, "ORG"], "ent_text": "the Big Board 's", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [28653, 3, 5, "ORG"], "ent_text": "the Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [28659, 0, 1, "ORG"], "ent_text": "Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [28692, 18, 20, "ORG"], "ent_text": "Allied - Signal", "linked_title": "Allied Communications Publications", "ent_id": "Q55603699"}
+{"entity": [28743, 12, 12, "ORG"], "ent_text": "Budget", "linked_title": "Budget", "ent_id": "Q41263"}
+{"entity": [28786, 4, 5, "ORG"], "ent_text": "Big Board", "linked_title": "Salomon BIG", "ent_id": "Q7405629"}
+{"entity": [28789, 0, 1, "ORG"], "ent_text": "Big Board", "linked_title": "Supervisory board", "ent_id": "Q759969"}
+{"entity": [28790, 4, 7, "ORG"], "ent_text": "the Big Board 's", "linked_title": "Supervisory board", "ent_id": "Q759969"}
+{"entity": [28791, 4, 7, "ORG"], "ent_text": "Alliance of Floor Brokers", "linked_title": "Floor broker", "ent_id": "Q5460159"}
+{"entity": [28797, 0, 2, "ORG"], "ent_text": "The Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [28799, 13, 15, "ORG"], "ent_text": "the Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [28802, 8, 11, "ORG"], "ent_text": "Merrill Lynch & Co", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [28810, 0, 1, "ORG"], "ent_text": "Businessland Inc.", "linked_title": "ComputerLand", "ent_id": "Q5157400"}
+{"entity": [28848, 27, 30, "ORG"], "ent_text": "Merrill Lynch & Co.", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [28904, 11, 11, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [28972, 5, 5, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [28977, 5, 6, "ORG"], "ent_text": "State Bank", "linked_title": "State bank", "ent_id": "Q2324813"}
+{"entity": [28997, 1, 2, "ORG"], "ent_text": "Communist Party", "linked_title": "Communist party", "ent_id": "Q233591"}
+{"entity": [29047, 6, 8, "ORG"], "ent_text": "Tokyu Department Store", "linked_title": "Department store", "ent_id": "Q216107"}
+{"entity": [29058, 6, 7, "ORG"], "ent_text": "District Court", "linked_title": "United States district court", "ent_id": "Q1614849"}
+{"entity": [29130, 0, 4, "ORG"], "ent_text": "Occupational - Urgent Care Health", "linked_title": "Basic Occupational Health Services", "ent_id": "Q4866987"}
+{"entity": [29150, 15, 19, "ORG"], "ent_text": "the College Football Association 's", "linked_title": "College Football Association", "ent_id": "Q5146375"}
+{"entity": [29301, 0, 3, "ORG"], "ent_text": "Merrill Lynch & Co.", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [29321, 17, 22, "ORG"], "ent_text": "the Direct Marketing Association of America", "linked_title": "Direct marketing", "ent_id": "Q677073"}
+{"entity": [29338, 7, 10, "ORG"], "ent_text": "Communication Control System Ltd.", "linked_title": "Control communications", "ent_id": "Q5165852"}
+{"entity": [29338, 14, 17, "ORG"], "ent_text": "the Counter Spy Shop", "linked_title": "Counterintelligence", "ent_id": "Q501700"}
+{"entity": [29351, 4, 4, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [29437, 31, 34, "ORG"], "ent_text": "National Medical Care Inc", "linked_title": "National health insurance", "ent_id": "Q1519138"}
+{"entity": [29453, 6, 9, "ORG"], "ent_text": "J. Lawrence Hall Co.", "linked_title": "J & E Hall", "ent_id": "Q30681947"}
+{"entity": [29456, 0, 0, "ORG"], "ent_text": "J&L", "linked_title": "J&L Supply Co.", "ent_id": "Q6103550"}
+{"entity": [29471, 12, 13, "ORG"], "ent_text": "Intelsat VI", "linked_title": "Intelsat VI", "ent_id": "Q6044256"}
+{"entity": [29503, 0, 2, "ORG"], "ent_text": "U.S. Memories Inc.", "linked_title": "Memory card", "ent_id": "Q183731"}
+{"entity": [29510, 0, 1, "ORG"], "ent_text": "U.S. Memories", "linked_title": "Computer memory", "ent_id": "Q5830907"}
+{"entity": [29698, 10, 13, "ORG"], "ent_text": "Boston Safe Deposit 's", "linked_title": "Security deposit", "ent_id": "Q7445031"}
+{"entity": [29778, 4, 4, "ORG"], "ent_text": "Journal", "linked_title": "Newspaper", "ent_id": "Q11032"}
+{"entity": [29809, 0, 0, "ORG"], "ent_text": "TREASURY", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [29812, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [29814, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [29841, 0, 3, "ORG"], "ent_text": "The Ministry of Transportation", "linked_title": "Ministry of Transport", "ent_id": "Q2516426"}
+{"entity": [29867, 5, 5, "ORG"], "ent_text": "Recruit", "linked_title": "Recruitment", "ent_id": "Q899277"}
+{"entity": [29868, 17, 17, "ORG"], "ent_text": "Recruit", "linked_title": "Recruitment", "ent_id": "Q899277"}
+{"entity": [29869, 3, 4, "ORG"], "ent_text": "Upper House", "linked_title": "Upper house", "ent_id": "Q637846"}
+{"entity": [29870, 13, 13, "ORG"], "ent_text": "Recruit", "linked_title": "Recruit scandal", "ent_id": "Q372571"}
+{"entity": [29881, 8, 9, "ORG"], "ent_text": "Lower House", "linked_title": "Lower house", "ent_id": "Q375928"}
+{"entity": [29969, 26, 27, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [30253, 0, 3, "ORG"], "ent_text": "The Charter Revision Commission", "linked_title": "Constitutional reform in the Philippines", "ent_id": "Q5164333"}
+{"entity": [30276, 7, 14, "ORG"], "ent_text": "the Center for the Study of the Presidency", "linked_title": "Center for Congressional and Presidential Studies", "ent_id": "Q5059564"}
+{"entity": [30287, 18, 18, "ORG"], "ent_text": "Section", "linked_title": "Legislation", "ent_id": "Q49371"}
+{"entity": [30321, 14, 19, "ORG"], "ent_text": "the National Association of Securities Dealers", "linked_title": "Securities market participants (United States)", "ent_id": "Q30602223"}
+{"entity": [30342, 39, 42, "ORG"], "ent_text": "the National Market System", "linked_title": "National Market System", "ent_id": "Q6974257"}
+{"entity": [30343, 4, 4, "ORG"], "ent_text": "non-NMS", "linked_title": "Non-stock corporation", "ent_id": "Q7049051"}
+{"entity": [30371, 14, 14, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [30605, 7, 7, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [30656, 15, 17, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30660, 10, 12, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30663, 7, 9, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30665, 0, 2, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30667, 3, 5, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30677, 3, 5, "ORG"], "ent_text": "Princeton / Newport", "linked_title": "Princeton Newport Partners", "ent_id": "Q7244984"}
+{"entity": [30698, 5, 5, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [30702, 30, 30, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [30705, 25, 25, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [30811, 1, 3, "ORG"], "ent_text": "Board of Control", "linked_title": "Board of Control (municipal government)", "ent_id": "Q4931309"}
+{"entity": [30832, 18, 22, "ORG"], "ent_text": "Fleet & Leasing Management Inc.", "linked_title": "Fleet vehicle", "ent_id": "Q1432007"}
+{"entity": [30976, 0, 5, "ORG"], "ent_text": "The Thoroughbred Owners and Breeders Association", "linked_title": "Thoroughbred Owners and Breeders Association", "ent_id": "Q7796637"}
+{"entity": [30989, 10, 10, "ORG"], "ent_text": "Spendthrift", "linked_title": "Spendthrift", "ent_id": "Q3044834"}
+{"entity": [31010, 25, 25, "ORG"], "ent_text": "Spendthrift", "linked_title": "Spendthrift", "ent_id": "Q3044834"}
+{"entity": [31111, 6, 8, "ORG"], "ent_text": "Fuji Photo Film", "linked_title": "Photographic film", "ent_id": "Q6293"}
+{"entity": [31144, 6, 11, "ORG"], "ent_text": "the U.S. League of Savings Institutions", "linked_title": "Savings and loan association", "ent_id": "Q2091703"}
+{"entity": [31162, 13, 18, "ORG"], "ent_text": "the U.S. League of Savings Institutions", "linked_title": "Savings and loan association", "ent_id": "Q2091703"}
+{"entity": [31171, 10, 11, "ORG"], "ent_text": "District Court", "linked_title": "United States district court", "ent_id": "Q1614849"}
+{"entity": [31193, 6, 6, "ORG"], "ent_text": "Paxus", "linked_title": "PaX", "ent_id": "Q2044961"}
+{"entity": [31208, 12, 17, "ORG"], "ent_text": "the Japan Automobile Dealers ' Association", "linked_title": "Car dealership", "ent_id": "Q786803"}
+{"entity": [31293, 9, 10, "ORG"], "ent_text": "Storer Communications", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31294, 20, 20, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31295, 11, 11, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31296, 29, 29, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31297, 1, 1, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31300, 1, 1, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31300, 21, 21, "ORG"], "ent_text": "Storer", "linked_title": "Storer Communications", "ent_id": "Q6381804"}
+{"entity": [31342, 9, 9, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31344, 22, 22, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31349, 4, 4, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31383, 0, 0, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31384, 20, 22, "ORG"], "ent_text": "Resolution Funding Corp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [31387, 7, 7, "ORG"], "ent_text": "Refcorp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [31391, 7, 7, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31391, 31, 31, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31446, 7, 8, "ORG"], "ent_text": "Communist Party", "linked_title": "Communist party", "ent_id": "Q233591"}
+{"entity": [31449, 11, 11, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [31460, 16, 16, "ORG"], "ent_text": "Congress", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [31476, 14, 17, "ORG"], "ent_text": "Bank of America NT&SA", "linked_title": "Bank of America NT&SA", "ent_id": "Q4856033"}
+{"entity": [31506, 15, 15, "ORG"], "ent_text": "Phillips", "linked_title": "Phillips catalyst", "ent_id": "Q18746574"}
+{"entity": [31597, 33, 36, "ORG"], "ent_text": "Bard / EMS Electrosurgery", "linked_title": "Electrosurgery", "ent_id": "Q1563560"}
+{"entity": [31714, 0, 5, "ORG"], "ent_text": "The Association of Outplacement Consulting Firms", "linked_title": "Consulting firm", "ent_id": "Q2089936"}
+{"entity": [31716, 0, 1, "ORG"], "ent_text": "Triad Solutions", "linked_title": "Triad International", "ent_id": "Q56280481"}
+{"entity": [31728, 0, 0, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [31754, 16, 21, "ORG"], "ent_text": "the Japan Association of Travel Agents", "linked_title": "Travel agency", "ent_id": "Q217107"}
+{"entity": [31779, 9, 9, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31781, 4, 4, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31782, 23, 23, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31784, 3, 3, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31785, 11, 11, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31786, 10, 10, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31788, 8, 8, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31790, 4, 4, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31794, 8, 8, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31796, 1, 1, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31799, 12, 12, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31803, 5, 5, "ORG"], "ent_text": "Bank", "linked_title": "Bank", "ent_id": "Q22687"}
+{"entity": [31805, 18, 22, "ORG"], "ent_text": "Compania Nacional de Subsistencias Populares", "linked_title": "Compa\u00f1\u00eda Nacional de Subsistencias Populares", "ent_id": "Q5779716"}
+{"entity": [31805, 25, 25, "ORG"], "ent_text": "Conasupo", "linked_title": "Compa\u00f1\u00eda Nacional de Subsistencias Populares", "ent_id": "Q5779716"}
+{"entity": [31806, 0, 0, "ORG"], "ent_text": "Conasupo", "linked_title": "Compa\u00f1\u00eda Nacional de Subsistencias Populares", "ent_id": "Q5779716"}
+{"entity": [31808, 4, 4, "ORG"], "ent_text": "Conasupo", "linked_title": "Compa\u00f1\u00eda Nacional de Subsistencias Populares", "ent_id": "Q5779716"}
+{"entity": [31810, 0, 0, "ORG"], "ent_text": "Conasupo", "linked_title": "Compa\u00f1\u00eda Nacional de Subsistencias Populares", "ent_id": "Q5779716"}
+{"entity": [31836, 4, 4, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [31843, 8, 9, "ORG"], "ent_text": "Argus Research", "linked_title": "Argus (camera company)", "ent_id": "Q4789781"}
+{"entity": [31873, 11, 13, "ORG"], "ent_text": "Custom Marketing Group", "linked_title": "Custom media", "ent_id": "Q5196407"}
+{"entity": [31876, 21, 21, "ORG"], "ent_text": "Kraft", "linked_title": "Kraft paper", "ent_id": "Q1755609"}
+{"entity": [31881, 6, 7, "ORG"], "ent_text": "Magazine Group", "linked_title": "Magazine", "ent_id": "Q41298"}
+{"entity": [31932, 28, 29, "ORG"], "ent_text": "American Home", "linked_title": "American Home", "ent_id": "Q4744007"}
+{"entity": [31961, 11, 13, "ORG"], "ent_text": "Buddy L Corp.", "linked_title": "Buddy L", "ent_id": "Q16954331"}
+{"entity": [31962, 22, 23, "ORG"], "ent_text": "Buddy L", "linked_title": "Buddy L", "ent_id": "Q16954331"}
+{"entity": [31963, 6, 7, "ORG"], "ent_text": "Buddy L", "linked_title": "Buddy L", "ent_id": "Q16954331"}
+{"entity": [31977, 12, 12, "ORG"], "ent_text": "Mafia", "linked_title": "Mafia", "ent_id": "Q18550"}
+{"entity": [32036, 13, 14, "ORG"], "ent_text": "Energy Transportation", "linked_title": "GE Energy Financial Services", "ent_id": "Q5513278"}
+{"entity": [32060, 4, 4, "ORG"], "ent_text": "LSI", "linked_title": "Linguistic Systems", "ent_id": "Q17117951"}
+{"entity": [32080, 26, 27, "ORG"], "ent_text": "Litigation Sciences", "linked_title": "Litigation strategy", "ent_id": "Q17099358"}
+{"entity": [32104, 16, 18, "ORG"], "ent_text": "Hambrecht & Quist", "linked_title": "Hambrecht & Quist", "ent_id": "Q5644255"}
+{"entity": [32183, 19, 21, "ORG"], "ent_text": "Chamber of Commerce", "linked_title": "Chamber of commerce", "ent_id": "Q1123526"}
+{"entity": [32204, 31, 31, "ORG"], "ent_text": "Rolodex", "linked_title": "Rolodex", "ent_id": "Q1476656"}
+{"entity": [32318, 7, 10, "ORG"], "ent_text": "Merrill Lynch & Co.", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [32320, 19, 19, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [32338, 34, 34, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [32608, 15, 15, "ORG"], "ent_text": "Eagle", "linked_title": "Eagle (United States coin)", "ent_id": "Q832721"}
+{"entity": [32613, 19, 19, "ORG"], "ent_text": "Bonds", "linked_title": "Bond (finance)", "ent_id": "Q11693"}
+{"entity": [32687, 26, 31, "ORG"], "ent_text": "the North American Securities Administrators Association", "linked_title": "North American Securities Administrators Association", "ent_id": "Q7053867"}
+{"entity": [32751, 30, 30, "ORG"], "ent_text": "affiliates", "linked_title": "Affiliate (commerce)", "ent_id": "Q2374515"}
+{"entity": [32860, 0, 1, "ORG"], "ent_text": "U.S. Memories", "linked_title": "Computer memory", "ent_id": "Q5830907"}
+{"entity": [32871, 9, 10, "ORG"], "ent_text": "U.S. Memories", "linked_title": "Computer memory", "ent_id": "Q5830907"}
+{"entity": [32893, 6, 6, "ORG"], "ent_text": "Operations", "linked_title": "Directorate of Operations (CIA)", "ent_id": "Q257399"}
+{"entity": [33124, 1, 1, "ORG"], "ent_text": "Phillips", "linked_title": "Phillips catalyst", "ent_id": "Q18746574"}
+{"entity": [33204, 2, 4, "ORG"], "ent_text": "Resolution Funding Corp.", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [33205, 16, 16, "ORG"], "ent_text": "Refcorp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [33214, 0, 0, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [33215, 0, 0, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [33237, 21, 21, "ORG"], "ent_text": "Treasurys", "linked_title": "United States Treasury security", "ent_id": "Q1561771"}
+{"entity": [33245, 16, 16, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [33592, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [33594, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [33640, 6, 6, "ORG"], "ent_text": "Budget", "linked_title": "Budget", "ent_id": "Q41263"}
+{"entity": [33665, 34, 35, "ORG"], "ent_text": "RTS Inc.", "linked_title": "Recycle Track Systems", "ent_id": "Q60750217"}
+{"entity": [33666, 0, 1, "ORG"], "ent_text": "LDI Corp.", "linked_title": "Dual-listed company", "ent_id": "Q498289"}
+{"entity": [33683, 19, 19, "ORG"], "ent_text": "Reform", "linked_title": "SEIU Member Activists for Reform Today", "ent_id": "Q7389685"}
+{"entity": [33702, 8, 13, "ORG"], "ent_text": "the California Student Aid Commission 's", "linked_title": "Cal Grant", "ent_id": "Q5018143"}
+{"entity": [33702, 21, 23, "ORG"], "ent_text": "National Technical Schools", "linked_title": "Technical school", "ent_id": "Q59419153"}
+{"entity": [33703, 0, 4, "ORG"], "ent_text": "The California Student Aid Commission", "linked_title": "Cal Grant", "ent_id": "Q5018143"}
+{"entity": [33703, 15, 17, "ORG"], "ent_text": "National Technical Schools", "linked_title": "Technical school", "ent_id": "Q59419153"}
+{"entity": [33706, 26, 28, "ORG"], "ent_text": "National Technical Schools", "linked_title": "Technical school", "ent_id": "Q59419153"}
+{"entity": [33805, 19, 19, "ORG"], "ent_text": "Premiere", "linked_title": "Premiere", "ent_id": "Q204854"}
+{"entity": [33820, 7, 9, "ORG"], "ent_text": "the Russian Samovar", "linked_title": "Samovar", "ent_id": "Q224418"}
+{"entity": [33915, 26, 29, "ORG"], "ent_text": "Medical Service Partners Inc.", "linked_title": "Medical tourism agent", "ent_id": "Q17091479"}
+{"entity": [33949, 0, 2, "ORG"], "ent_text": "Video Telecom Corp.", "linked_title": "Videotelephony", "ent_id": "Q854954"}
+{"entity": [33983, 23, 23, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [33995, 30, 30, "ORG"], "ent_text": "Deltec", "linked_title": "Deltec Racing Team", "ent_id": "Q27962134"}
+{"entity": [34015, 31, 33, "ORG"], "ent_text": "Integrated Resources Inc.", "linked_title": "Integrated reporting", "ent_id": "Q6043153"}
+{"entity": [34015, 39, 41, "ORG"], "ent_text": "Resorts International Inc.", "linked_title": "Resorts International", "ent_id": "Q30589291"}
+{"entity": [34022, 6, 7, "ORG"], "ent_text": "Resorts International", "linked_title": "Resorts International", "ent_id": "Q30589291"}
+{"entity": [34027, 48, 51, "ORG"], "ent_text": "Merrill Lynch & Co", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [34179, 19, 19, "ORG"], "ent_text": "nurseries", "linked_title": "Plant nursery", "ent_id": "Q155511"}
+{"entity": [34189, 0, 2, "ORG"], "ent_text": "The Big Board", "linked_title": "Big Three (credit rating agencies)", "ent_id": "Q4906536"}
+{"entity": [34278, 10, 10, "ORG"], "ent_text": "Recruit", "linked_title": "Recruit scandal", "ent_id": "Q372571"}
+{"entity": [34309, 6, 7, "ORG"], "ent_text": "Pre-College Division", "linked_title": "Music school", "ent_id": "Q1021290"}
+{"entity": [34344, 4, 4, "ORG"], "ent_text": "Sinfonia", "linked_title": "Sinfonia", "ent_id": "Q377141"}
+{"entity": [34476, 6, 6, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [34685, 3, 3, "ORG"], "ent_text": "Budget", "linked_title": "Budget", "ent_id": "Q41263"}
+{"entity": [34691, 0, 0, "ORG"], "ent_text": "Urban", "linked_title": "Urban Radio Broadcasting", "ent_id": "Q7899989"}
+{"entity": [34694, 19, 24, "ORG"], "ent_text": "the House Telecommunications and Finance Subcommittee", "linked_title": "United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies", "ent_id": "Q7889937"}
+{"entity": [34694, 26, 29, "ORG"], "ent_text": "the Senate Securities Subcommittee", "linked_title": "United States Senate Banking Subcommittee on Securities, Insurance, and Investment", "ent_id": "Q7891246"}
+{"entity": [34700, 6, 9, "ORG"], "ent_text": "the Senate Securities Subcommittee", "linked_title": "United States Senate Banking Subcommittee on Securities, Insurance, and Investment", "ent_id": "Q7891246"}
+{"entity": [34705, 3, 6, "ORG"], "ent_text": "the Senate Securities Subcommittee", "linked_title": "United States Senate Banking Subcommittee on Securities, Insurance, and Investment", "ent_id": "Q7891246"}
+{"entity": [34707, 12, 17, "ORG"], "ent_text": "the House Telecommunications and Finance Subcommittee", "linked_title": "United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies", "ent_id": "Q7889937"}
+{"entity": [34764, 2, 4, "ORG"], "ent_text": "Bowne & Co.", "linked_title": "Bowne & Co.", "ent_id": "Q4951366"}
+{"entity": [34822, 5, 7, "ORG"], "ent_text": "Reproductive Health Services", "linked_title": "Reproductive health", "ent_id": "Q1981388"}
+{"entity": [34828, 28, 30, "ORG"], "ent_text": "Reproductive Health Services", "linked_title": "Reproductive health", "ent_id": "Q1981388"}
+{"entity": [34831, 16, 20, "ORG"], "ent_text": "St. Louis County Circuit Court", "linked_title": "Circuit court", "ent_id": "Q6311907"}
+{"entity": [34958, 0, 0, "ORG"], "ent_text": "Defense", "linked_title": "Ministry of Defence", "ent_id": "Q1788820"}
+{"entity": [35040, 0, 0, "ORG"], "ent_text": "TREASURY", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35042, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [35044, 2, 4, "ORG"], "ent_text": "Telerate Systems Inc", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [35146, 16, 18, "ORG"], "ent_text": "the Big Board", "linked_title": "Salomon BIG", "ent_id": "Q7405629"}
+{"entity": [35150, 0, 1, "ORG"], "ent_text": "Hibernia Corp.", "linked_title": "Hibernia National Bank", "ent_id": "Q16975666"}
+{"entity": [35150, 17, 17, "ORG"], "ent_text": "HIB", "linked_title": "Hibernia National Bank", "ent_id": "Q16975666"}
+{"entity": [35167, 0, 0, "ORG"], "ent_text": "Immunex", "linked_title": "The Immune Response Corporation", "ent_id": "Q60741145"}
+{"entity": [35173, 0, 3, "ORG"], "ent_text": "Union Tank Car Co.", "linked_title": "Union Tank Car Company", "ent_id": "Q7886151"}
+{"entity": [35175, 18, 18, "ORG"], "ent_text": "Telelawyer", "linked_title": "Telehealth", "ent_id": "Q46994"}
+{"entity": [35186, 13, 13, "ORG"], "ent_text": "Cane", "linked_title": "Assistive cane", "ent_id": "Q1264324"}
+{"entity": [35347, 11, 14, "ORG"], "ent_text": "the Crime Control Institute", "linked_title": "Crime control", "ent_id": "Q5185258"}
+{"entity": [35351, 15, 18, "ORG"], "ent_text": "the Crime Control Institute", "linked_title": "Crime control", "ent_id": "Q5185258"}
+{"entity": [35382, 37, 37, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35389, 13, 15, "ORG"], "ent_text": "Digital Microwave Corp", "linked_title": "Digital terrestrial television", "ent_id": "Q1083894"}
+{"entity": [35417, 14, 14, "ORG"], "ent_text": "GRE", "linked_title": "GRE (company)", "ent_id": "Q5514439"}
+{"entity": [35418, 11, 11, "ORG"], "ent_text": "GRE", "linked_title": "GRE (company)", "ent_id": "Q5514439"}
+{"entity": [35419, 5, 5, "ORG"], "ent_text": "GRE", "linked_title": "GRE (company)", "ent_id": "Q5514439"}
+{"entity": [35427, 18, 19, "ORG"], "ent_text": "Quilted Giraffe", "linked_title": "The Quilted Giraffe", "ent_id": "Q19864203"}
+{"entity": [35472, 1, 3, "ORG"], "ent_text": "the Quilted Giraffe", "linked_title": "The Quilted Giraffe", "ent_id": "Q19864203"}
+{"entity": [35527, 9, 9, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35527, 13, 16, "ORG"], "ent_text": "Merrill Lynch & Co.", "linked_title": "Merrill Lynch & Co.", "ent_id": "Q65088647"}
+{"entity": [35539, 17, 17, "ORG"], "ent_text": "Treasurys", "linked_title": "United States Treasury security", "ent_id": "Q1561771"}
+{"entity": [35548, 0, 2, "ORG"], "ent_text": "Resolution Funding Corp.", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [35548, 6, 6, "ORG"], "ent_text": "Refcorp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [35550, 10, 10, "ORG"], "ent_text": "Refcorp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [35555, 5, 5, "ORG"], "ent_text": "Refcorp", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [35557, 7, 7, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35564, 4, 4, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35565, 4, 4, "ORG"], "ent_text": "Treasurys", "linked_title": "United States Treasury security", "ent_id": "Q1561771"}
+{"entity": [35567, 0, 0, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35595, 6, 7, "ORG"], "ent_text": "Better Book", "linked_title": "Better Books", "ent_id": "Q3639144"}
+{"entity": [35642, 0, 4, "ORG"], "ent_text": "Shanghai Investment & Trust Co.", "linked_title": "Shanghai International Group", "ent_id": "Q7488463"}
+{"entity": [35810, 0, 3, "ORG"], "ent_text": "Citizens & Southern Corp.", "linked_title": "Citizens & Southern National Bank", "ent_id": "Q5122650"}
+{"entity": [35813, 0, 0, "ORG"], "ent_text": "Citizens", "linked_title": "Citizens & Southern National Bank", "ent_id": "Q5122650"}
+{"entity": [35813, 19, 20, "ORG"], "ent_text": "Security Pacific", "linked_title": "Security Pacific Bank", "ent_id": "Q7444977"}
+{"entity": [35814, 0, 2, "ORG"], "ent_text": "Security Pacific 's", "linked_title": "Security Pacific Bank", "ent_id": "Q7444977"}
+{"entity": [35815, 15, 18, "ORG"], "ent_text": "Vision Banc Savings Association", "linked_title": "Savings and loan association", "ent_id": "Q2091703"}
+{"entity": [35824, 3, 3, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [35826, 0, 2, "ORG"], "ent_text": "Resolution Funding Corp.", "linked_title": "Resolution Funding Corporation", "ent_id": "Q7315685"}
+{"entity": [35830, 0, 3, "ORG"], "ent_text": "Associated Natural Gas Corp.", "linked_title": "Associated petroleum gas", "ent_id": "Q17004269"}
+{"entity": [35835, 0, 2, "ORG"], "ent_text": "Immune Response Corp.", "linked_title": "The Immune Response Corporation", "ent_id": "Q60741145"}
+{"entity": [35867, 0, 1, "ORG"], "ent_text": "Airline Aviation", "linked_title": "Airline", "ent_id": "Q46970"}
+{"entity": [35889, 31, 33, "ORG"], "ent_text": "Jeep / Eagle", "linked_title": "Jeep-Eagle", "ent_id": "Q6172899"}
+{"entity": [35890, 23, 28, "ORG"], "ent_text": "O'Dwyer's Directory of Public Relations Firms", "linked_title": "J. R. O'Dwyer Company", "ent_id": "Q16997509"}
+{"entity": [35902, 0, 3, "ORG"], "ent_text": "The Jamaica Tourist Board", "linked_title": "Tourism in the Caribbean", "ent_id": "Q7829233"}
+{"entity": [35905, 16, 17, "ORG"], "ent_text": "Ad Ventures", "linked_title": "Advertising agency", "ent_id": "Q216931"}
+{"entity": [35906, 4, 5, "ORG"], "ent_text": "Ad Ventures", "linked_title": "Advertising agency", "ent_id": "Q216931"}
+{"entity": [36010, 26, 27, "ORG"], "ent_text": "Midland Montagu", "linked_title": "Samuel Montagu & Co.", "ent_id": "Q7412208"}
+{"entity": [36097, 4, 7, "ORG"], "ent_text": "the Management Appeals Committee", "linked_title": "Video Appeals Committee", "ent_id": "Q7927801"}
+{"entity": [36111, 3, 7, "ORG"], "ent_text": "the System Board of Adjustment", "linked_title": "Contract adjustment board", "ent_id": "Q5165662"}
+{"entity": [36160, 0, 1, "ORG"], "ent_text": "Misawa Homes", "linked_title": "Housing in Japan", "ent_id": "Q3088415"}
+{"entity": [36271, 8, 9, "ORG"], "ent_text": "Industrial Equity", "linked_title": "Venture equity", "ent_id": "Q60761361"}
+{"entity": [36335, 7, 7, "ORG"], "ent_text": "Ebasco", "linked_title": "Electric Bond and Share Company", "ent_id": "Q65090795"}
+{"entity": [36344, 5, 7, "ORG"], "ent_text": "Security Bureau Inc.", "linked_title": "Security company", "ent_id": "Q1116826"}
+{"entity": [36356, 0, 0, "ORG"], "ent_text": "Signal", "linked_title": "Signal", "ent_id": "Q174984"}
+{"entity": [36398, 7, 8, "ORG"], "ent_text": "Profit Systems", "linked_title": "Profit sharing", "ent_id": "Q1419726"}
+{"entity": [36399, 0, 1, "ORG"], "ent_text": "Profit Systems", "linked_title": "Profit motive", "ent_id": "Q3265969"}
+{"entity": [36422, 4, 4, "ORG"], "ent_text": "Quantum", "linked_title": "Quantum", "ent_id": "Q46344"}
+{"entity": [36425, 3, 4, "ORG"], "ent_text": "District Court", "linked_title": "United States district court", "ent_id": "Q1614849"}
+{"entity": [36427, 9, 11, "ORG"], "ent_text": "Telectronics Holding Ltd.", "linked_title": "Telectronics", "ent_id": "Q7696114"}
+{"entity": [36466, 31, 32, "ORG"], "ent_text": "Immunex Corp.", "linked_title": "The Immune Response Corporation", "ent_id": "Q60741145"}
+{"entity": [36473, 24, 24, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [36503, 23, 23, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [36585, 5, 6, "ORG"], "ent_text": "Telerate Inc.", "linked_title": "Telerate", "ent_id": "Q3517331"}
+{"entity": [36600, 17, 17, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [36612, 17, 20, "ORG"], "ent_text": "Samuel Montagu & Co.", "linked_title": "Samuel Montagu & Co.", "ent_id": "Q7412208"}
+{"entity": [36724, 0, 1, "ORG"], "ent_text": "CalMat Co.", "linked_title": "California University of Management and Technology", "ent_id": "Q5021158"}
+{"entity": [36725, 0, 0, "ORG"], "ent_text": "CalMat", "linked_title": "California University of Management and Technology", "ent_id": "Q5021158"}
+{"entity": [36733, 31, 34, "ORG"], "ent_text": "Bill 's Sports Collectibles", "linked_title": "Sports memorabilia", "ent_id": "Q7579927"}
+{"entity": [36738, 22, 25, "ORG"], "ent_text": "Papa 's Sports Cards", "linked_title": "Jersey cards", "ent_id": "Q6184992"}
+{"entity": [36801, 5, 5, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [36831, 32, 32, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [36901, 23, 28, "ORG"], "ent_text": "the North American Securities Administrators Association", "linked_title": "North American Securities Administrators Association", "ent_id": "Q7053867"}
+{"entity": [36902, 5, 5, "ORG"], "ent_text": "NASAA", "linked_title": "North American Securities Administrators Association", "ent_id": "Q7053867"}
+{"entity": [36906, 23, 29, "ORG"], "ent_text": "the International Association of Registered Financial Planners", "linked_title": "Chartered Financial Planner", "ent_id": "Q17113375"}
+{"entity": [36916, 9, 9, "ORG"], "ent_text": "IAFP", "linked_title": "Independent Accountability Panel", "ent_id": "Q60755154"}
+{"entity": [36933, 0, 0, "ORG"], "ent_text": "NASAA", "linked_title": "North American Securities Administrators Association", "ent_id": "Q7053867"}
+{"entity": [36936, 0, 0, "ORG"], "ent_text": "NASAA", "linked_title": "North American Securities Administrators Association", "ent_id": "Q7053867"}
+{"entity": [37034, 7, 9, "ORG"], "ent_text": "Property Management Systems", "linked_title": "Property management system", "ent_id": "Q3257934"}
+{"entity": [37070, 2, 2, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [37154, 25, 26, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37218, 34, 34, "ORG"], "ent_text": "Office", "linked_title": "Office", "ent_id": "Q12823105"}
+{"entity": [37352, 32, 32, "ORG"], "ent_text": "Tillinghast", "linked_title": "Tillinghast", "ent_id": "Q7802857"}
+{"entity": [37408, 25, 30, "ORG"], "ent_text": "the National Council on Compensation Insurance", "linked_title": "National Council on Compensation Insurance", "ent_id": "Q6971961"}
+{"entity": [37471, 8, 9, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37471, 16, 17, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37476, 14, 15, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37479, 8, 9, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37529, 7, 9, "ORG"], "ent_text": "Fur Vault Inc.", "linked_title": "Fur Act", "ent_id": "Q55612153"}
+{"entity": [37609, 18, 19, "ORG"], "ent_text": "Ferembal S.A", "linked_title": "Ferroelectric RAM", "ent_id": "Q703656"}
+{"entity": [37614, 0, 1, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37615, 6, 7, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37619, 6, 7, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37620, 15, 16, "ORG"], "ent_text": "Social Security", "linked_title": "Social security", "ent_id": "Q2483208"}
+{"entity": [37638, 8, 8, "ORG"], "ent_text": "Treasury", "linked_title": "Treasury", "ent_id": "Q10756188"}
+{"entity": [37682, 11, 14, "ORG"], "ent_text": "the Abortion Rights League", "linked_title": "Abortion Rights (organisation)", "ent_id": "Q4668428"}
+{"entity": [37784, 28, 30, "ORG"], "ent_text": "the Abortion Report", "linked_title": "Abortion debate", "ent_id": "Q2549098"}
+{"entity": [37833, 14, 14, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [37837, 7, 7, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [37855, 3, 4, "ORG"], "ent_text": "Bond Corp.", "linked_title": "Bond (finance)", "ent_id": "Q11693"}
+{"entity": [37943, 9, 12, "ORG"], "ent_text": "Society of Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37947, 6, 9, "ORG"], "ent_text": "the Orange Workers '", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37953, 38, 40, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37956, 17, 19, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37957, 0, 2, "ORG"], "ent_text": "The Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37958, 6, 8, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37964, 0, 2, "ORG"], "ent_text": "The Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37975, 7, 9, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37981, 0, 2, "ORG"], "ent_text": "The Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37982, 22, 25, "ORG"], "ent_text": "the Orange Workers '", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37990, 6, 8, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37991, 5, 6, "ORG"], "ent_text": "Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37995, 26, 27, "ORG"], "ent_text": "Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [37996, 11, 12, "ORG"], "ent_text": "Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [38002, 20, 22, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [38010, 4, 6, "ORG"], "ent_text": "the Orange Workers", "linked_title": "Vereniging van Oranjewerkers", "ent_id": "Q7921230"}
+{"entity": [38029, 1, 1, "ORG"], "ent_text": "Labor", "linked_title": "Ministry of Labour", "ent_id": "Q12813215"}
+{"entity": [38052, 0, 1, "ORG"], "ent_text": "Detroit Edison", "linked_title": "DTE Electric Company", "ent_id": "Q5265919"}
+{"entity": [38070, 14, 14, "ORG"], "ent_text": "Amcap", "linked_title": "AB InBev brands", "ent_id": "Q6008710"}
+{"entity": [38104, 2, 2, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38110, 33, 33, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38126, 12, 12, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38128, 3, 3, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38134, 3, 3, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38148, 4, 4, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38161, 22, 22, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38182, 0, 0, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38220, 13, 14, "ORG"], "ent_text": "Liaison Committee", "linked_title": "Liaison Committee", "ent_id": "Q6539440"}
+{"entity": [38225, 6, 6, "ORG"], "ent_text": "CDL", "linked_title": "Christian Democrats for Freedom", "ent_id": "Q3697434"}
+{"entity": [38228, 10, 10, "ORG"], "ent_text": "CDL", "linked_title": "Common Data Link", "ent_id": "Q5153326"}
+{"entity": [38228, 31, 31, "ORG"], "ent_text": "CDL", "linked_title": "Common Data Link", "ent_id": "Q5153326"}
+{"entity": [38312, 21, 22, "ORG"], "ent_text": "Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [38339, 5, 5, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38342, 15, 15, "ORG"], "ent_text": "Recognition", "linked_title": "National symbols of Croatia", "ent_id": "Q7661213"}
+{"entity": [38345, 11, 11, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38346, 21, 21, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38348, 12, 12, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38350, 0, 0, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38351, 3, 3, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38355, 8, 8, "ORG"], "ent_text": "Recognition", "linked_title": "Recognition (tax)", "ent_id": "Q7302600"}
+{"entity": [38356, 0, 0, "ORG"], "ent_text": "Prospect", "linked_title": "Prospect (sports)", "ent_id": "Q3407718"}
+{"entity": [38442, 32, 32, "ORG"], "ent_text": "unions", "linked_title": "Trade union", "ent_id": "Q178790"}
+{"entity": [38468, 10, 12, "ORG"], "ent_text": "G - 2", "linked_title": "G-2 (intelligence)", "ent_id": "Q20203049"}
+{"entity": [38514, 7, 7, "ORG"], "ent_text": "mafia", "linked_title": "Mafia", "ent_id": "Q18550"}
+{"entity": [38515, 8, 10, "ORG"], "ent_text": "G - 2", "linked_title": "G-2 (intelligence)", "ent_id": "Q20203049"}
+{"entity": [38644, 3, 3, "ORG"], "ent_text": "Politburo", "linked_title": "Politburo", "ent_id": "Q309118"}
+{"entity": [38676, 1, 1, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [38690, 10, 10, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [38694, 17, 17, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38694, 29, 29, "ORG"], "ent_text": "Marines", "linked_title": "Marines", "ent_id": "Q1898583"}
+{"entity": [38695, 70, 70, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38700, 6, 6, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38701, 10, 10, "ORG"], "ent_text": "RDF", "linked_title": "Radio direction finder", "ent_id": "Q173904"}
+{"entity": [38720, 18, 18, "ORG"], "ent_text": "Navy", "linked_title": "Navy", "ent_id": "Q4508"}
+{"entity": [38726, 16, 16, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38726, 34, 34, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38743, 17, 17, "ORG"], "ent_text": "Army", "linked_title": "Army", "ent_id": "Q37726"}
+{"entity": [38746, 5, 7, "ORG"], "ent_text": "Market Data Retrieval", "linked_title": "Market data", "ent_id": "Q3036837"}
+{"entity": [38746, 12, 16, "ORG"], "ent_text": "School and College Construction Reports", "linked_title": "Building information modeling", "ent_id": "Q842017"}
+{"entity": [38749, 0, 2, "ORG"], "ent_text": "Market Data Retrieval", "linked_title": "Market data", "ent_id": "Q3036837"}
+{"entity": [38763, 2, 6, "ORG"], "ent_text": "the Middle East Economic Survey", "linked_title": "Middle East Economic Survey", "ent_id": "Q6841333"}
+{"entity": [38774, 13, 17, "ORG"], "ent_text": "Are Paev -LRB- Business Paper", "linked_title": "Commercial paper", "ent_id": "Q1211555"}
+{"entity": [38853, 0, 0, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [38921, 3, 4, "ORG"], "ent_text": "Shanghai Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [38922, 21, 22, "ORG"], "ent_text": "Shanghai Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [38956, 17, 18, "ORG"], "ent_text": "Torch Plan", "linked_title": "National Torch Movement", "ent_id": "Q6025277"}
+{"entity": [39009, 24, 26, "ORG"], "ent_text": "the Asian Department", "linked_title": "Department of Asian Affairs (People's Republic of China)", "ent_id": "Q5260156"}
+{"entity": [39020, 4, 8, "ORG"], "ent_text": "the Bonded Area Management Bureau", "linked_title": "Bonded warehouse", "ent_id": "Q5257004"}
+{"entity": [39044, 5, 8, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [39045, 6, 9, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [39048, 4, 7, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [39049, 3, 6, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [39053, 3, 10, "ORG"], "ent_text": "the Reform and Development Research Institute of China", "linked_title": "China Development Institute", "ent_id": "Q30693522"}
+{"entity": [39122, 5, 8, "ORG"], "ent_text": "the Customs Head Office", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39175, 29, 33, "ORG"], "ent_text": "the China Trade Promotion Council", "linked_title": "China Council for the Promotion of International Trade", "ent_id": "Q5099646"}
+{"entity": [39186, 8, 8, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39358, 8, 12, "ORG"], "ent_text": "the Shanghai Municipal Planning Commission", "linked_title": "Planning and zoning commission", "ent_id": "Q7201386"}
+{"entity": [39378, 0, 2, "ORG"], "ent_text": "The Traditional Foundation", "linked_title": "Traditional investments", "ent_id": "Q7832348"}
+{"entity": [39397, 9, 15, "ORG"], "ent_text": "the Chinese People 's Foreign Friendship Association", "linked_title": "Chinese People's Association for Friendship with Foreign Countries", "ent_id": "Q5100588"}
+{"entity": [39414, 6, 8, "ORG"], "ent_text": "Goubuli Steamed Bun", "linked_title": "Goubuli", "ent_id": "Q906326"}
+{"entity": [39421, 4, 8, "ORG"], "ent_text": "the Foreign Capital Financial Organization", "linked_title": "Global financial system", "ent_id": "Q574833"}
+{"entity": [39421, 21, 23, "ORG"], "ent_text": "Beijing Representative Office", "linked_title": "Representative office", "ent_id": "Q7314257"}
+{"entity": [39501, 5, 9, "ORG"], "ent_text": "Institute of Traditional Chinese Medicine", "linked_title": "Traditional Chinese medicine", "ent_id": "Q200253"}
+{"entity": [39727, 37, 41, "ORG"], "ent_text": "Ministry of Machine Building Industry", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [39754, 0, 2, "ORG"], "ent_text": "The EU Committee", "linked_title": "European Union Committee", "ent_id": "Q5413332"}
+{"entity": [39755, 17, 18, "ORG"], "ent_text": "European Committee", "linked_title": "European Committees", "ent_id": "Q5412409"}
+{"entity": [39760, 17, 19, "ORG"], "ent_text": "the EU Committee", "linked_title": "European Union Committee", "ent_id": "Q5413332"}
+{"entity": [39764, 8, 12, "ORG"], "ent_text": "the EU Council of Ministers", "linked_title": "Committee of Ministers of the Council of Europe", "ent_id": "Q2735723"}
+{"entity": [39784, 17, 20, "ORG"], "ent_text": "Import and Export Bank", "linked_title": "Export\u2013Import Bank", "ent_id": "Q55643863"}
+{"entity": [39834, 13, 14, "ORG"], "ent_text": "Torch Program", "linked_title": "Torch", "ent_id": "Q327954"}
+{"entity": [39841, 4, 5, "ORG"], "ent_text": "Tianjin Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39841, 32, 33, "ORG"], "ent_text": "Tianjin Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39843, 40, 40, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39847, 8, 8, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [39862, 11, 13, "ORG"], "ent_text": "Federal District Court", "linked_title": "United States district court", "ent_id": "Q1614849"}
+{"entity": [39893, 5, 5, "ORG"], "ent_text": "Ocean", "linked_title": "Ocean", "ent_id": "Q9430"}
+{"entity": [39894, 15, 19, "ORG"], "ent_text": "the Shantou Ultrasonic Printing Company", "linked_title": "Laser printing", "ent_id": "Q67972035"}
+{"entity": [39894, 38, 39, "ORG"], "ent_text": "ISO 9000", "linked_title": "ISO 9000", "ent_id": "Q206008"}
+{"entity": [40033, 5, 6, "ORG"], "ent_text": "Customs Bureau", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40042, 4, 10, "ORG"], "ent_text": "New Region 's Economy and Trade Bureau", "linked_title": "New areas", "ent_id": "Q15911903"}
+{"entity": [40105, 27, 27, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40107, 13, 13, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40108, 1, 1, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40110, 63, 63, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40111, 3, 3, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40112, 12, 13, "ORG"], "ent_text": "National Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40114, 8, 8, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40115, 11, 11, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40115, 51, 51, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40116, 20, 20, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40117, 5, 5, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40117, 22, 22, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40118, 4, 4, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40118, 28, 29, "ORG"], "ent_text": "National Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40119, 19, 19, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40123, 11, 11, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40126, 6, 6, "ORG"], "ent_text": "State", "linked_title": "State (polity)", "ent_id": "Q7275"}
+{"entity": [40128, 6, 6, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40128, 25, 25, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40129, 34, 34, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40132, 14, 14, "ORG"], "ent_text": "120", "linked_title": "Stock", "ent_id": "Q1196314"}
+{"entity": [40135, 0, 0, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40136, 13, 13, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40172, 14, 14, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40172, 21, 21, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40172, 63, 63, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40220, 15, 15, "ORG"], "ent_text": "Customs", "linked_title": "Customs", "ent_id": "Q182290"}
+{"entity": [40287, 12, 18, "ORG"], "ent_text": "Wu Jia Economic Consulting Company , Ltd.", "linked_title": "CCID Consulting", "ent_id": "Q5009587"}
+{"entity": [40329, 44, 44, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40355, 7, 11, "ORG"], "ent_text": "the Xiamen Special Economic Zone", "linked_title": "Xiamen Special Economic Zone", "ent_id": "Q8044112"}
+{"entity": [40357, 0, 4, "ORG"], "ent_text": "The Xiamen Special Economic Zone", "linked_title": "Xiamen Special Economic Zone", "ent_id": "Q8044112"}
+{"entity": [40388, 30, 30, "ORG"], "ent_text": "State", "linked_title": "State-owned enterprise", "ent_id": "Q270791"}
+{"entity": [40447, 16, 16, "ORG"], "ent_text": "State", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40448, 18, 18, "ORG"], "ent_text": "non-State-owned", "linked_title": "State ownership", "ent_id": "Q2396633"}
+{"entity": [40505, 9, 12, "ORG"], "ent_text": "the General Textile Association", "linked_title": "Textile industry in China", "ent_id": "Q26869609"}
+{"entity": [40538, 6, 10, "ORG"], "ent_text": "the State Housing Reform Office", "linked_title": "Dansk Almennyttigt Boligselskab", "ent_id": "Q5221058"}
+{"entity": [40541, 41, 41, "ORG"], "ent_text": "State", "linked_title": "State (polity)", "ent_id": "Q7275"}
+{"entity": [40598, 2, 4, "ORG"], "ent_text": "National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [40600, 7, 9, "ORG"], "ent_text": "National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [40601, 29, 32, "ORG"], "ent_text": "Transformation and Expansion Project", "linked_title": "Business transformation", "ent_id": "Q5001958"}
+{"entity": [40605, 2, 5, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [40606, 19, 21, "ORG"], "ent_text": "the Development Bank", "linked_title": "Development finance institution", "ent_id": "Q5266746"}
+{"entity": [40644, 7, 10, "ORG"], "ent_text": "\" Shenzhen Expressway \"", "linked_title": "Shenshan Expressway", "ent_id": "Q7494316"}
+{"entity": [40648, 4, 5, "ORG"], "ent_text": "Two Congresses", "linked_title": "Two Centenaries", "ent_id": "Q17163894"}
+{"entity": [40649, 9, 9, "ORG"], "ent_text": "Congresses", "linked_title": "Congress", "ent_id": "Q2495862"}
+{"entity": [40651, 9, 13, "ORG"], "ent_text": "the \" Two Congresses \"", "linked_title": "Two Centenaries", "ent_id": "Q17163894"}
+{"entity": [40652, 6, 10, "ORG"], "ent_text": "the \" Two Congresses \"", "linked_title": "Two Centenaries", "ent_id": "Q17163894"}
+{"entity": [40708, 20, 23, "ORG"], "ent_text": "State Department News Office", "linked_title": "News agency", "ent_id": "Q192283"}
+{"entity": [40781, 7, 11, "ORG"], "ent_text": "External Economy and Trade Committees", "linked_title": "External sector", "ent_id": "Q5422049"}
+{"entity": [40817, 7, 9, "ORG"], "ent_text": "the Research Committee", "linked_title": "Research-on-Research Committee", "ent_id": "Q7315052"}
+{"entity": [40854, 0, 3, "ORG"], "ent_text": "The Wuhan Representative Office", "linked_title": "Representative office", "ent_id": "Q7314257"}
+{"entity": [40854, 5, 9, "ORG"], "ent_text": "the Holland Trade Promotion Association", "linked_title": "Trade promotion (international trade)", "ent_id": "Q7832068"}
+{"entity": [40855, 7, 11, "ORG"], "ent_text": "the Holland Trade Promotion Association", "linked_title": "Trade promotion (international trade)", "ent_id": "Q7832068"}
+{"entity": [40863, 12, 15, "ORG"], "ent_text": "the Wuhan Representative Office", "linked_title": "Representative office", "ent_id": "Q7314257"}
+{"entity": [40958, 14, 17, "ORG"], "ent_text": "the National Executive Council", "linked_title": "Executive Council (South Africa)", "ent_id": "Q5419808"}
+{"entity": [41009, 43, 45, "ORG"], "ent_text": "Central Propaganda Department", "linked_title": "Central Propaganda Department of the Communist Party of Vietnam", "ent_id": "Q10737750"}
+{"entity": [41023, 22, 22, "ORG"], "ent_text": "Party", "linked_title": "Party", "ent_id": "Q200538"}
+{"entity": [41043, 11, 11, "ORG"], "ent_text": "Party", "linked_title": "Party", "ent_id": "Q200538"}
+{"entity": [41048, 0, 0, "ORG"], "ent_text": "Party", "linked_title": "Party", "ent_id": "Q200538"}
+{"entity": [41054, 19, 20, "ORG"], "ent_text": "Sanhuan Press", "linked_title": "Chinese Literature Press", "ent_id": "Q19839988"}
+{"entity": [41063, 1, 4, "ORG"], "ent_text": "Wannan Flower - drum", "linked_title": "Flower-drum opera", "ent_id": "Q3141818"}
+{"entity": [41153, 15, 18, "ORG"], "ent_text": "the Work Affairs Department", "linked_title": "Work unit", "ent_id": "Q1165188"}
+{"entity": [41153, 36, 42, "ORG"], "ent_text": "the Shanghai Number One Yiming Food Factory", "linked_title": "Liangyou Group", "ent_id": "Q39086052"}
+{"entity": [41153, 60, 65, "ORG"], "ent_text": "the Shanghai Number Two design branch", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41153, 67, 69, "ORG"], "ent_text": "First Machine Ministry", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41156, 19, 22, "ORG"], "ent_text": "the First Machine Ministry", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41156, 26, 32, "ORG"], "ent_text": "the Wuhan Hot Work Machinery Research Agency", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41156, 34, 37, "ORG"], "ent_text": "the First Machine Ministry", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41156, 48, 51, "ORG"], "ent_text": "the Foreign Affairs Department", "linked_title": "Ministry of Foreign Affairs", "ent_id": "Q20901295"}
+{"entity": [41156, 53, 56, "ORG"], "ent_text": "the First Machine Ministry", "linked_title": "First Ministry of Machine Building", "ent_id": "Q5453345"}
+{"entity": [41164, 45, 48, "ORG"], "ent_text": "the Central Military Commission", "linked_title": "Central Military Commission of the Communist Party of Vietnam", "ent_id": "Q1107357"}
+{"entity": [41169, 3, 6, "ORG"], "ent_text": "Shanghai Foreign Language College", "linked_title": "Shanghai Foreign Language School", "ent_id": "Q7488446"}
+{"entity": [41170, 18, 23, "ORG"], "ent_text": "the Ministry of the Machine Industry", "linked_title": "Ministry of Machine Tool and Tool Building Industry", "ent_id": "Q48841113"}
+{"entity": [41174, 1, 2, "ORG"], "ent_text": "Foreign Affairs", "linked_title": "Foreign relations", "ent_id": "Q610018"}
+{"entity": [41228, 5, 7, "ORG"], "ent_text": "Russian Space Bureau", "linked_title": "Space industry of Russia", "ent_id": "Q2894490"}
+{"entity": [41240, 18, 21, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [41242, 8, 11, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [41246, 10, 13, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [41248, 0, 2, "ORG"], "ent_text": "The Development Bank", "linked_title": "Development finance institution", "ent_id": "Q5266746"}
+{"entity": [41254, 6, 11, "ORG"], "ent_text": "the \" National Development Bank 's", "linked_title": "Papua and New Guinea Development Bank", "ent_id": "Q55628558"}
+{"entity": [41254, 28, 30, "ORG"], "ent_text": "National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [41255, 4, 7, "ORG"], "ent_text": "the National Development Bank", "linked_title": "National development bank", "ent_id": "Q6972269"}
+{"entity": [41303, 47, 49, "ORG"], "ent_text": "the Liaison Group", "linked_title": "Liaison Committee", "ent_id": "Q6539440"}
+{"entity": [41308, 44, 46, "ORG"], "ent_text": "the Liaison Group", "linked_title": "Liaison Committee", "ent_id": "Q6539440"}
+{"entity": [41500, 25, 26, "ORG"], "ent_text": "International Trade", "linked_title": "International trade", "ent_id": "Q178803"}
+{"entity": [41515, 9, 19, "ORG"], "ent_text": "the National Committee for commemorating the United Nations ' 50th anniversary", "linked_title": "Seventieth anniversary of the United Nations", "ent_id": "Q24907498"}
+{"entity": [41606, 36, 50, "ORG"], "ent_text": "the \" Working Regulations For Chinese - Indian Foreign Affairs and Military Expert Group \"", "linked_title": "Five Principles of Peaceful Coexistence", "ent_id": "Q1255047"}
+{"entity": [41763, 11, 15, "ORG"], "ent_text": "the Business Invitation Working Department", "linked_title": "Call for bids", "ent_id": "Q837379"}
+{"entity": [41775, 4, 6, "ORG"], "ent_text": "the Executive Committee", "linked_title": "Executive Committee of the Palestine Liberation Organization", "ent_id": "Q280466"}
+{"entity": [41779, 17, 19, "ORG"], "ent_text": "Electric Power Department", "linked_title": "Electric utility", "ent_id": "Q1326624"}
+{"entity": [41812, 31, 36, "ORG"], "ent_text": "the American Knowledge Information Network Company", "linked_title": "American Information Exchange", "ent_id": "Q4744124"}
+{"entity": [41826, 11, 18, "ORG"], "ent_text": "the Chinese National Federation of Returned Overseas Chinese", "linked_title": "Chinese People's Association for Friendship with Foreign Countries", "ent_id": "Q5100588"}
+{"entity": [41826, 34, 43, "ORG"], "ent_text": "the Overseas Chinese International Cultural Exchange Promotion Association of China", "linked_title": "Chinese People's Association for Friendship with Foreign Countries", "ent_id": "Q5100588"}
+{"entity": [41904, 14, 16, "ORG"], "ent_text": "the Central Government", "linked_title": "Central government", "ent_id": "Q1320217"}
+{"entity": [41984, 15, 20, "ORG"], "ent_text": "the Huai River Water Works Committee", "linked_title": "Huai River Water Resources Commission", "ent_id": "Q5925109"}
+{"entity": [41995, 24, 26, "ORG"], "ent_text": "Advanced Studies Department", "linked_title": "Departments of the Communist Party of the Soviet Union", "ent_id": "Q5260552"}
+{"entity": [41995, 31, 33, "ORG"], "ent_text": "Graduate Student Department", "linked_title": "Graduate school", "ent_id": "Q20820271"}
+{"entity": [42004, 19, 20, "ORG"], "ent_text": "Communist Party", "linked_title": "Communist party", "ent_id": "Q233591"}
+{"entity": [42009, 34, 37, "ORG"], "ent_text": "the Foreign Affairs Ministry", "linked_title": "Ministry of Foreign Affairs", "ent_id": "Q20901295"}
+{"entity": [42065, 17, 18, "ORG"], "ent_text": "Northwest troop", "linked_title": "Northwest Russia", "ent_id": "Q4412459"}
+{"entity": [42068, 2, 3, "ORG"], "ent_text": "Northwest troop", "linked_title": "Northwest Russia", "ent_id": "Q4412459"}
+{"entity": [42078, 6, 7, "ORG"], "ent_text": "Foreign Affairs", "linked_title": "Foreign relations", "ent_id": "Q610018"}
+{"entity": [42107, 23, 26, "ORG"], "ent_text": "Economy and Trade Committee", "linked_title": "Economic and monetary union", "ent_id": "Q825026"}
+{"entity": [42107, 76, 80, "ORG"], "ent_text": "the China Trade Promotion Council", "linked_title": "China Council for the Promotion of International Trade", "ent_id": "Q5099646"}
+{"entity": [42270, 15, 17, "ORG"], "ent_text": "the Executive Committee", "linked_title": "National Executive Committee of the African National Congress", "ent_id": "Q6972513"}
+{"entity": [42852, 17, 17, "ORG"], "ent_text": "have", "linked_title": "As some day it may happen", "ent_id": "Q15947960"}
+{"entity": [47749, 1, 3, "ORG"], "ent_text": "Interns For Peace", "linked_title": "Interns for Peace", "ent_id": "Q6056149"}
+{"entity": [47751, 1, 3, "ORG"], "ent_text": "Interns For Peace", "linked_title": "Interns for Peace", "ent_id": "Q6056149"}
+{"entity": [53005, 6, 8, "ORG"], "ent_text": "Writer 's Market", "linked_title": "Writer's Market", "ent_id": "Q8038430"}
+{"entity": [53183, 4, 6, "ORG"], "ent_text": "N P R", "linked_title": "M.U.R.", "ent_id": "Q6712288"}
+{"entity": [53653, 58, 60, "ORG"], "ent_text": "the Supreme Court", "linked_title": "Supreme court", "ent_id": "Q190752"}
+{"entity": [53706, 2, 5, "ORG"], "ent_text": "the Court of Appeals", "linked_title": "United States courts of appeals", "ent_id": "Q1641851"}
+{"entity": [53717, 67, 70, "ORG"], "ent_text": "the Court of Appeals", "linked_title": "United States courts of appeals", "ent_id": "Q1641851"}
+{"entity": [53718, 24, 27, "ORG"], "ent_text": "the Court of Appeals", "linked_title": "Court of Appeals of the Philippines", "ent_id": "Q2664559"}
+{"entity": [53801, 5, 5, "ORG"], "ent_text": "Operations", "linked_title": "Operations (military staff)", "ent_id": "Q12411096"}
+{"entity": [53812, 2, 2, "ORG"], "ent_text": "Operations", "linked_title": "Rail transport operations", "ent_id": "Q769493"}
+{"entity": [53885, 2, 4, "ORG"], "ent_text": "Saudi News Agency", "linked_title": "News agency", "ent_id": "Q192283"}
+{"entity": [53893, 4, 6, "ORG"], "ent_text": "the Public Tribunal", "linked_title": "Public inquiry", "ent_id": "Q20669447"}
+{"entity": [54376, 7, 14, "ORG"], "ent_text": "the International Committee for the Defense of Saddam", "linked_title": "Emergency Committee for Iraq", "ent_id": "Q5370576"}
+{"entity": [54405, 7, 7, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [54498, 19, 20, "ORG"], "ent_text": "General Security", "linked_title": "General Directorate of Public Security", "ent_id": "Q12184113"}
+{"entity": [54604, 88, 88, "ORG"], "ent_text": "Parliament", "linked_title": "Parliament", "ent_id": "Q35749"}
+{"entity": [54706, 30, 33, "ORG"], "ent_text": "the Israeli Commercial Delegation", "linked_title": "Israel Export Institute", "ent_id": "Q6086932"}
+{"entity": [55052, 5, 7, "ORG"], "ent_text": "the Sidq Company", "linked_title": "The Saudi Industrial Development Fund (SIDF)", "ent_id": "Q12220302"}
+{"entity": [55068, 97, 97, "ORG"], "ent_text": "Exchange", "linked_title": "Exchange (organized market)", "ent_id": "Q179076"}
+{"entity": [55147, 48, 48, "ORG"], "ent_text": "Company", "linked_title": "Company", "ent_id": "Q783794"}
+{"entity": [55189, 53, 53, "ORG"], "ent_text": "Research", "linked_title": "Research", "ent_id": "Q42240"}
+{"entity": [55515, 10, 10, "ORG"], "ent_text": "tomorrow", "linked_title": "Tomorrow (time)", "ent_id": "Q1209716"}
+{"entity": [55591, 17, 20, "ORG"], "ent_text": "the Aga City Council", "linked_title": "American Civic Association", "ent_id": "Q4743401"}
+{"entity": [55738, 35, 35, "ORG"], "ent_text": "Occupation", "linked_title": "Military occupation", "ent_id": "Q188686"}
+{"entity": [55766, 11, 13, "ORG"], "ent_text": "the Reconstruction Council", "linked_title": "Lebanese Council for Development and Reconstruction", "ent_id": "Q6510877"}
+{"entity": [55799, 5, 5, "ORG"], "ent_text": "SKII", "linked_title": "Ski Lift International", "ent_id": "Q7534869"}
+{"entity": [55875, 20, 22, "ORG"], "ent_text": "the Community Association", "linked_title": "Community association", "ent_id": "Q3751466"}
+{"entity": [55881, 0, 2, "ORG"], "ent_text": "The community association", "linked_title": "Community association", "ent_id": "Q3751466"}
+{"entity": [55882, 0, 2, "ORG"], "ent_text": "The community association", "linked_title": "Community association", "ent_id": "Q3751466"}
+{"entity": [55887, 16, 18, "ORG"], "ent_text": "the Provincial Committee", "linked_title": "Provincial party standing committee", "ent_id": "Q19840549"}
+{"entity": [55908, 9, 11, "ORG"], "ent_text": "the Community Association", "linked_title": "Community association", "ent_id": "Q3751466"}
+{"entity": [56250, 22, 25, "ORG"], "ent_text": "the Writers ' Association", "linked_title": "Vietnam Writers' Association", "ent_id": "Q7928578"}
+{"entity": [56253, 8, 11, "ORG"], "ent_text": "the Writers ' Association", "linked_title": "Vietnam Writers' Association", "ent_id": "Q7928578"}
+{"entity": [56600, 121, 122, "ORG"], "ent_text": "Luneng Group", "linked_title": "Baoneng Group", "ent_id": "Q30950768"}
+{"entity": [56617, 12, 14, "ORG"], "ent_text": "Luneng Group 's", "linked_title": "Baoneng Group", "ent_id": "Q30950768"}
+{"entity": [56747, 12, 14, "ORG"], "ent_text": "the Northwest Army", "linked_title": "Northeastern Army", "ent_id": "Q4412440"}
+{"entity": [56747, 16, 18, "ORG"], "ent_text": "the Gui Army", "linked_title": "Guiyi Circuit", "ent_id": "Q3916378"}
+{"entity": [56883, 6, 7, "ORG"], "ent_text": "Chunqiu Airline", "linked_title": "Chunyun", "ent_id": "Q3275022"}
+{"entity": [56888, 6, 7, "ORG"], "ent_text": "Chunqiu Airline", "linked_title": "Chunyun", "ent_id": "Q3275022"}
+{"entity": [57141, 14, 16, "ORG"], "ent_text": "the Beijing Association", "linked_title": "China Association", "ent_id": "Q17001642"}
+{"entity": [57378, 0, 1, "ORG"], "ent_text": "Financial Bureau", "linked_title": "Payroll service bureau", "ent_id": "Q14472468"}
+{"entity": [57380, 23, 25, "ORG"], "ent_text": "Transportation Administrative Bureau", "linked_title": "Transportation authority", "ent_id": "Q7834360"}
+{"entity": [57406, 49, 52, "ORG"], "ent_text": "Computer Recycling Initiative 's", "linked_title": "Computer recycling", "ent_id": "Q3243428"}
+{"entity": [57414, 5, 10, "ORG"], "ent_text": "the Virginia Recycling Markets Development Council", "linked_title": "Recycling cooperative", "ent_id": "Q7303388"}
+{"entity": [57505, 3, 5, "ORG"], "ent_text": "E-Tech Recycling Inc", "linked_title": "Computer recycling", "ent_id": "Q3243428"}
+{"entity": [57719, 17, 17, "ORG"], "ent_text": "CTB", "linked_title": "California Transportation Commission", "ent_id": "Q5021145"}
+{"entity": [57864, 14, 14, "ORG"], "ent_text": "NoSrawlTax.org", "linked_title": "NoSQL", "ent_id": "Q82231"}
+{"entity": [57888, 2, 2, "ORG"], "ent_text": "NST", "linked_title": "NST (company)", "ent_id": "Q6955372"}
+{"entity": [57933, 1, 1, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [57945, 1, 1, "ORG"], "ent_text": "House", "linked_title": "House", "ent_id": "Q3947"}
+{"entity": [57946, 51, 51, "ORG"], "ent_text": "Senate", "linked_title": "Senate", "ent_id": "Q2570643"}
+{"entity": [58179, 0, 0, "ORG"], "ent_text": "VRS", "linked_title": "Video relay service", "ent_id": "Q3308380"}
+{"entity": [58231, 35, 35, "ORG"], "ent_text": "VRS", "linked_title": "Video relay service", "ent_id": "Q3308380"}
+{"entity": [58321, 21, 21, "ORG"], "ent_text": "Legislature", "linked_title": "Legislature", "ent_id": "Q11204"}
+{"entity": [58333, 1, 3, "ORG"], "ent_text": "Board of Supervisors", "linked_title": "Board of supervisors", "ent_id": "Q1175507"}
+{"entity": [58354, 11, 14, "ORG"], "ent_text": "a Board of Supervisors", "linked_title": "Board of supervisors", "ent_id": "Q1175507"}
+{"entity": [58355, 3, 5, "ORG"], "ent_text": "a County Board", "linked_title": "County board", "ent_id": "Q5177786"}
+{"entity": [58436, 15, 15, "ORG"], "ent_text": "WaPo", "linked_title": "World Anti-Piracy Observatory", "ent_id": "Q3348453"}
+{"entity": [58444, 2, 2, "ORG"], "ent_text": "WaPo", "linked_title": "World Anti-Piracy Observatory", "ent_id": "Q3348453"}
+{"entity": [59156, 12, 21, "ORG"], "ent_text": "the Washington National Guard 's 1st Battalion 303rd Armored Regiment", "linked_title": "303rd Cavalry Regiment (United States)", "ent_id": "Q39071102"}
+{"entity": [59173, 0, 1, "ORG"], "ent_text": "Jihad Army", "linked_title": "Jaysh al-Jihad", "ent_id": "Q19879212"}
+{"entity": [59311, 2, 3, "ORG"], "ent_text": "Al Zawraa", "linked_title": "Al-Zawraa TV", "ent_id": "Q4703374"}
+{"entity": [59431, 33, 36, "ORG"], "ent_text": "Congressional Policy Advisory Board", "linked_title": "United States congressional committee", "ent_id": "Q476190"}
+{"entity": [59434, 8, 9, "ORG"], "ent_text": "Rumsfeld Commission", "linked_title": "Rumsfeld Commission", "ent_id": "Q5152778"}
+{"entity": [59446, 15, 16, "ORG"], "ent_text": "General Staff", "linked_title": "Staff (military)", "ent_id": "Q6813432"}
+{"entity": [59460, 12, 12, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [59465, 18, 22, "ORG"], "ent_text": "the Office of Net Assessment", "linked_title": "Office of Net Assessment", "ent_id": "Q7079278"}
+{"entity": [59474, 41, 41, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [59483, 21, 21, "ORG"], "ent_text": "Pentagon", "linked_title": "Pentagon", "ent_id": "Q127840"}
+{"entity": [59492, 31, 31, "ORG"], "ent_text": "Executive", "linked_title": "Executive (government)", "ent_id": "Q35798"}
+{"entity": [59522, 14, 16, "ORG"], "ent_text": "Blackwell Security Corporation", "linked_title": "Security company", "ent_id": "Q1116826"}
+{"entity": [59774, 19, 19, "ORG"], "ent_text": "UPGA", "linked_title": "Uganda People's Army", "ent_id": "Q7877622"}
+{"entity": [59775, 9, 9, "ORG"], "ent_text": "UPGA", "linked_title": "Eagle, Globe, and Anchor", "ent_id": "Q1276730"}
+{"entity": [59824, 8, 8, "ORG"], "ent_text": "UPGA", "linked_title": "Girl Guides Australia", "ent_id": "Q5564386"}
+{"entity": [59847, 12, 12, "ORG"], "ent_text": "UPGA", "linked_title": "Uganda People's Army", "ent_id": "Q7877622"}

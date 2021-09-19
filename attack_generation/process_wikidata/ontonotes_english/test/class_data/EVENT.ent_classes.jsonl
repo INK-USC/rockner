@@ -1,0 +1,58 @@
+{"entity": [40, 21, 22, "EVENT"], "ent_text": "New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [40, 27, 28, "EVENT"], "ent_text": "New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [40, 35, 37, "EVENT"], "ent_text": "the New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [196, 9, 10, "EVENT"], "ent_text": "New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [432, 5, 5, "EVENT"], "ent_text": "Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [587, 18, 19, "EVENT"], "ent_text": "Plame Gate", "linked_title": "Plame affair", "ent_id": "Q749501", "classes": {"Q12761956": "affair"}}
+{"entity": [897, 22, 22, "EVENT"], "ent_text": "Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [897, 24, 24, "EVENT"], "ent_text": "Rita", "linked_title": "Hurricane Rita", "ent_id": "Q737890", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [903, 0, 0, "EVENT"], "ent_text": "Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [903, 2, 2, "EVENT"], "ent_text": "Rita", "linked_title": "Hurricane Rita", "ent_id": "Q737890", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [950, 6, 6, "EVENT"], "ent_text": "Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [950, 8, 8, "EVENT"], "ent_text": "Rita", "linked_title": "Hurricane Rita", "ent_id": "Q737890", "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [1701, 5, 7, "EVENT"], "ent_text": "the special Olympics", "linked_title": "Special Olympics", "ent_id": "Q1043220", "classes": {"Q163740": "nonprofit organization"}}
+{"entity": [2155, 8, 11, "EVENT"], "ent_text": "the Country Music Awards", "linked_title": "Country Music Association Awards", "ent_id": "Q1137234", "classes": {"Q1364556": "music award"}}
+{"entity": [2395, 3, 3, "EVENT"], "ent_text": "Bonnaroo", "linked_title": "Bonnaroo Music Festival", "ent_id": "Q2984221", "classes": {"Q868557": "music festival"}}
+{"entity": [2397, 0, 0, "EVENT"], "ent_text": "Bonnaroo", "linked_title": "Bonnaroo Music Festival", "ent_id": "Q2984221", "classes": {"Q868557": "music festival"}}
+{"entity": [2406, 20, 20, "EVENT"], "ent_text": "Bonnaroo", "linked_title": "Bonnaroo Music Festival", "ent_id": "Q2984221", "classes": {"Q868557": "music festival"}}
+{"entity": [2477, 19, 21, "EVENT"], "ent_text": "Operation Iraqi Freedom", "linked_title": "Iraq War", "ent_id": "Q545449", "classes": {"Q467011": "invasion", "Q831663": "military campaign", "Q2001676": "military offensive"}}
+{"entity": [2649, 12, 12, "EVENT"], "ent_text": "Oz-fest", "linked_title": "Ozzfest", "ent_id": "Q722072", "classes": {"Q868557": "music festival"}}
+{"entity": [2656, 5, 5, "EVENT"], "ent_text": "Oz-fest", "linked_title": "Ozzfest", "ent_id": "Q722072", "classes": {"Q868557": "music festival"}}
+{"entity": [2719, 16, 18, "EVENT"], "ent_text": "9 / 11", "linked_title": "September 11 attacks", "ent_id": "Q10806", "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [2732, 22, 25, "EVENT"], "ent_text": "the Second World War", "linked_title": "World War II", "ent_id": "Q362", "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [3038, 5, 7, "EVENT"], "ent_text": "the Cultural Revolution", "linked_title": "Cultural Revolution", "ent_id": "Q8690", "classes": {"Q10931": "revolution", "Q13418847": "historical event"}}
+{"entity": [3039, 23, 25, "EVENT"], "ent_text": "the Cultural Revolution", "linked_title": "Cultural Revolution", "ent_id": "Q8690", "classes": {"Q10931": "revolution", "Q13418847": "historical event"}}
+{"entity": [3068, 15, 17, "EVENT"], "ent_text": "the Gulf War", "linked_title": "Gulf War", "ent_id": "Q37643", "classes": {"Q198": "war"}}
+{"entity": [3073, 4, 6, "EVENT"], "ent_text": "the Gulf War", "linked_title": "Gulf War", "ent_id": "Q37643", "classes": {"Q198": "war"}}
+{"entity": [3181, 10, 13, "EVENT"], "ent_text": "the Pacific Rim Conference", "linked_title": "Pacific Rim", "ent_id": "Q102605225", "classes": {"Q82794": "geographic region"}}
+{"entity": [3276, 24, 28, "EVENT"], "ent_text": "the 1967 Middle East war", "linked_title": "Six-Day War", "ent_id": "Q49077", "classes": {"Q198": "war"}}
+{"entity": [3299, 11, 14, "EVENT"], "ent_text": "Chinese New Year 's", "linked_title": "Chinese New Year", "ent_id": "Q131772", "classes": {"Q1197685": "public holiday", "Q1472127": "spring festival"}}
+{"entity": [3338, 6, 9, "EVENT"], "ent_text": "the Chinese New Year", "linked_title": "Chinese New Year", "ent_id": "Q131772", "classes": {"Q1197685": "public holiday", "Q1472127": "spring festival"}}
+{"entity": [3527, 9, 12, "EVENT"], "ent_text": "the May Fourth Movement", "linked_title": "May Fourth Movement", "ent_id": "Q279790", "classes": {"Q273120": "protest"}}
+{"entity": [3771, 1, 5, "EVENT"], "ent_text": "the Sino - French war", "linked_title": "Sino-French War", "ent_id": "Q706183", "classes": {"Q198": "war"}}
+{"entity": [3829, 2, 2, "EVENT"], "ent_text": "Christmas", "linked_title": "Christmas", "ent_id": "Q19809", "classes": {"Q1197685": "public holiday", "Q5440532": "federal holiday", "Q60075825": "Christian holy day"}}
+{"entity": [3829, 27, 29, "EVENT"], "ent_text": "Wax Apple Festival", "linked_title": "Lantern Festival", "ent_id": "Q718636", "classes": {"Q132241": "festival"}}
+{"entity": [3853, 17, 20, "EVENT"], "ent_text": "the Wax Apple Festival", "linked_title": "Wizard of Oz festival", "ent_id": "Q8028748", "classes": {"Q132241": "festival"}}
+{"entity": [3879, 13, 16, "EVENT"], "ent_text": "the Wax Apple Festival", "linked_title": "Wax gourd", "ent_id": "Q652206", "classes": {"Q16521": "taxon"}}
+{"entity": [4472, 35, 37, "EVENT"], "ent_text": "March on Washington", "linked_title": "March on Washington for Jobs and Freedom", "ent_id": "Q1128871", "classes": {"Q15631336": "protest march"}}
+{"entity": [5501, 11, 17, "EVENT"], "ent_text": "a Tumen River Area International Tourism Conference", "linked_title": "Tumen, Jilin", "ent_id": "Q713323", "classes": {"Q1070990": "county-level city"}}
+{"entity": [5511, 5, 11, "EVENT"], "ent_text": "the Russian Tumen River Region Negotiation Conference", "linked_title": "China\u2013North Korea\u2013Russia tripoint", "ent_id": "Q55392937", "classes": {"Q27345018": "international tripoint"}}
+{"entity": [5540, 31, 37, "EVENT"], "ent_text": "the East China Export Goods Trade Fair", "linked_title": "Canton Fair", "ent_id": "Q548358", "classes": {"Q57305": "trade fair"}}
+{"entity": [5578, 6, 18, "EVENT"], "ent_text": "negotiation conference on cooperation between east and west China and investment and trade", "linked_title": "Economic Cooperation Framework Agreement", "ent_id": "Q706392", "classes": {"Q131569": "treaty"}}
+{"entity": [5932, 5, 11, "EVENT"], "ent_text": "Far East and South Pacific Disabled Games", "linked_title": "FESPIC Games", "ent_id": "Q150147", "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [5955, 49, 52, "EVENT"], "ent_text": "the Special Olympic Games", "linked_title": "Special Olympics World Games", "ent_id": "Q15056133", "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [5959, 3, 8, "EVENT"], "ent_text": "Asia - Pacific Special Olympic Games", "linked_title": "Special Olympics", "ent_id": "Q1043220", "classes": {"Q163740": "nonprofit organization"}}
+{"entity": [5963, 7, 10, "EVENT"], "ent_text": "the Far South Games", "linked_title": "FESPIC Games", "ent_id": "Q150147", "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [5965, 9, 13, "EVENT"], "ent_text": "the Far South Sports Meet", "linked_title": "Special Olympics World Games", "ent_id": "Q15056133", "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [7399, 32, 36, "EVENT"], "ent_text": "the Mother of All Battles", "linked_title": "Gulf War", "ent_id": "Q37643", "classes": {"Q198": "war"}}
+{"entity": [7798, 10, 11, "EVENT"], "ent_text": "New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [7801, 12, 13, "EVENT"], "ent_text": "New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [7804, 6, 6, "EVENT"], "ent_text": "Christmas", "linked_title": "Christmas", "ent_id": "Q19809", "classes": {"Q1197685": "public holiday", "Q5440532": "federal holiday", "Q60075825": "Christian holy day"}}
+{"entity": [7820, 54, 56, "EVENT"], "ent_text": "New Year 's", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [7823, 2, 2, "EVENT"], "ent_text": "Christmas", "linked_title": "Christmas", "ent_id": "Q19809", "classes": {"Q1197685": "public holiday", "Q5440532": "federal holiday", "Q60075825": "Christian holy day"}}
+{"entity": [7823, 6, 6, "EVENT"], "ent_text": "Christmas", "linked_title": "Christmas", "ent_id": "Q19809", "classes": {"Q1197685": "public holiday", "Q5440532": "federal holiday", "Q60075825": "Christian holy day"}}
+{"entity": [7826, 21, 23, "EVENT"], "ent_text": "the New Year", "linked_title": "New Year", "ent_id": "Q34812", "classes": {"Q1197685": "public holiday"}}
+{"entity": [8121, 19, 21, "EVENT"], "ent_text": "World War II", "linked_title": "World War II", "ent_id": "Q362", "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8128, 0, 0, "EVENT"], "ent_text": "Watergate", "linked_title": "Watergate scandal", "ent_id": "Q42761", "classes": {"Q934744": "political scandal"}}
+{"entity": [8172, 9, 9, "EVENT"], "ent_text": "Superbowl", "linked_title": "Superbowl of Wrestling", "ent_id": "Q7643073", "classes": {"Q17317604": "professional wrestling event"}}
+{"entity": [8181, 18, 20, "EVENT"], "ent_text": "the Iraq war", "linked_title": "Iraq War", "ent_id": "Q545449", "classes": {"Q467011": "invasion", "Q831663": "military campaign", "Q2001676": "military offensive"}}

@@ -1,0 +1,171 @@
+{"entity": [399, 8, 9, "LOC"], "ent_text": "South China", "linked_title": "South China", "ent_id": "Q1038564", "classes": {"Q15642541": "human-geographic territorial entity"}}
+{"entity": [399, 11, 12, "LOC"], "ent_text": "Southwest China", "linked_title": "Southwest China", "ent_id": "Q1190484", "classes": {"Q1666245": "region of China"}}
+{"entity": [399, 15, 16, "LOC"], "ent_text": "Northeast China", "linked_title": "Northeast China", "ent_id": "Q1057925", "classes": {"Q1496967": "territorial entity"}}
+{"entity": [400, 11, 12, "LOC"], "ent_text": "Northwest China", "linked_title": "Northwest China", "ent_id": "Q1153001", "classes": {"Q1666245": "region of China"}}
+{"entity": [400, 21, 22, "LOC"], "ent_text": "North China", "linked_title": "North China", "ent_id": "Q1046848", "classes": {"Q1666245": "region of China"}}
+{"entity": [401, 3, 4, "LOC"], "ent_text": "Southwest China", "linked_title": "Southwest China", "ent_id": "Q1190484", "classes": {"Q1666245": "region of China"}}
+{"entity": [401, 19, 21, "LOC"], "ent_text": "the Yangtze River", "linked_title": "Yangtze", "ent_id": "Q5413", "classes": {"Q4022": "river"}}
+{"entity": [402, 3, 4, "LOC"], "ent_text": "North China", "linked_title": "North China", "ent_id": "Q1046848", "classes": {"Q1666245": "region of China"}}
+{"entity": [403, 23, 24, "LOC"], "ent_text": "Northwest China", "linked_title": "Northwest China", "ent_id": "Q1153001", "classes": {"Q1666245": "region of China"}}
+{"entity": [404, 12, 13, "LOC"], "ent_text": "South China", "linked_title": "South China", "ent_id": "Q1038564", "classes": {"Q15642541": "human-geographic territorial entity"}}
+{"entity": [406, 9, 11, "LOC"], "ent_text": "the Huai River", "linked_title": "Huai River", "ent_id": "Q213576", "classes": {"Q4022": "river"}}
+{"entity": [488, 34, 34, "LOC"], "ent_text": "Hill", "linked_title": "The Hill (newspaper)", "ent_id": "Q7739683", "classes": {"Q11032": "newspaper"}}
+{"entity": [488, 42, 43, "LOC"], "ent_text": "Capitol Hill", "linked_title": "Capitol Hill", "ent_id": "Q2305815", "classes": {"Q570116": "tourist attraction", "Q12063697": "neighborhood of Washington, D.C.", "Q15243209": "historic district"}}
+{"entity": [492, 12, 12, "LOC"], "ent_text": "Hill", "linked_title": "The Hill (newspaper)", "ent_id": "Q7739683", "classes": {"Q11032": "newspaper"}}
+{"entity": [977, 8, 9, "LOC"], "ent_text": "Central America", "linked_title": "Central America", "ent_id": "Q27611", "classes": {"Q855697": "subcontinent"}}
+{"entity": [1081, 7, 9, "LOC"], "ent_text": "the Passaic River", "linked_title": "Passaic River", "ent_id": "Q2055835", "classes": {"Q4022": "river"}}
+{"entity": [1165, 21, 21, "LOC"], "ent_text": "Asian", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [1166, 2, 2, "LOC"], "ent_text": "Asian", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [1179, 3, 6, "LOC"], "ent_text": "the sea of Japan", "linked_title": "Sea of Japan", "ent_id": "Q27092", "classes": {"Q165": "sea"}}
+{"entity": [1227, 52, 52, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [1239, 17, 17, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [1239, 21, 23, "LOC"], "ent_text": "the Korean peninsula", "linked_title": "Korean Peninsula", "ent_id": "Q483134", "classes": {"Q34763": "peninsula"}}
+{"entity": [1323, 13, 13, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [1338, 5, 5, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [1406, 1, 1, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [1429, 10, 10, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [2039, 11, 11, "LOC"], "ent_text": "Mideast", "linked_title": "Tennessee", "ent_id": "Q1509", "classes": {"Q35657": "state of the United States"}}
+{"entity": [2052, 10, 10, "LOC"], "ent_text": "Mideast", "linked_title": "Mid-Atlantic (United States)", "ent_id": "Q632014", "classes": {"Q82794": "geographic region"}}
+{"entity": [2056, 2, 4, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2081, 13, 14, "LOC"], "ent_text": "Wind Cave", "linked_title": "Wind Cave National Park", "ent_id": "Q1334313", "classes": {"Q34918903": "National Park of the United States"}}
+{"entity": [2086, 12, 12, "LOC"], "ent_text": "West", "linked_title": "West", "ent_id": "Q679", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [2089, 8, 9, "LOC"], "ent_text": "Wind Cave", "linked_title": "Wind Cave National Park", "ent_id": "Q1334313", "classes": {"Q34918903": "National Park of the United States"}}
+{"entity": [2206, 20, 22, "LOC"], "ent_text": "the Barents Sea", "linked_title": "Barents Sea", "ent_id": "Q45823", "classes": {"Q165": "sea", "Q204894": "marginal sea"}}
+{"entity": [2208, 14, 16, "LOC"], "ent_text": "the Persian Gulf", "linked_title": "Persian Gulf", "ent_id": "Q34675", "classes": {"Q165": "sea"}}
+{"entity": [2210, 11, 13, "LOC"], "ent_text": "the Persian Gulf", "linked_title": "Persian Gulf", "ent_id": "Q34675", "classes": {"Q165": "sea"}}
+{"entity": [2241, 3, 4, "LOC"], "ent_text": "Aden Harbor", "linked_title": "Aden", "ent_id": "Q131694", "classes": {"Q515": "city", "Q486972": "human settlement", "Q1549591": "big city"}}
+{"entity": [2283, 4, 4, "LOC"], "ent_text": "Balkans", "linked_title": "Balkans", "ent_id": "Q23522", "classes": {"Q34763": "peninsula", "Q3502482": "cultural region"}}
+{"entity": [2311, 20, 20, "LOC"], "ent_text": "Mideast", "linked_title": "Libya", "ent_id": "Q1016", "classes": {"Q6256": "country", "Q3624078": "sovereign state", "Q51576574": "Mediterranean country"}}
+{"entity": [2406, 37, 37, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [2799, 8, 10, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2799, 12, 14, "LOC"], "ent_text": "the Arabian Peninsula", "linked_title": "Arabian Peninsula", "ent_id": "Q31945", "classes": {"Q34763": "peninsula", "Q3502482": "cultural region"}}
+{"entity": [2863, 10, 11, "LOC"], "ent_text": "Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2866, 48, 50, "LOC"], "ent_text": "the Persian Gulf", "linked_title": "Persian Gulf", "ent_id": "Q34675", "classes": {"Q165": "sea"}}
+{"entity": [2878, 16, 18, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2879, 21, 23, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2881, 14, 16, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2886, 19, 21, "LOC"], "ent_text": "the Arabian Peninsula", "linked_title": "Arabian Peninsula", "ent_id": "Q31945", "classes": {"Q34763": "peninsula", "Q3502482": "cultural region"}}
+{"entity": [2888, 67, 69, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2892, 5, 7, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2895, 7, 9, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [2934, 9, 9, "LOC"], "ent_text": "Balkan", "linked_title": "Balkans", "ent_id": "Q23522", "classes": {"Q34763": "peninsula", "Q3502482": "cultural region"}}
+{"entity": [2993, 24, 24, "LOC"], "ent_text": "Africa", "linked_title": "Africa", "ent_id": "Q15", "classes": {"Q5107": "continent"}}
+{"entity": [2994, 4, 4, "LOC"], "ent_text": "Africa", "linked_title": "Africa", "ent_id": "Q15", "classes": {"Q5107": "continent"}}
+{"entity": [3069, 10, 10, "LOC"], "ent_text": "West", "linked_title": "Western world", "ent_id": "Q160381", "classes": {"Q3622002": "geographical area"}}
+{"entity": [3122, 11, 13, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [3154, 14, 15, "LOC"], "ent_text": "Red Sea", "linked_title": "Red Sea", "ent_id": "Q23406", "classes": {"Q165": "sea"}}
+{"entity": [3182, 1, 2, "LOC"], "ent_text": "Pacific Rim", "linked_title": "Pacific Rim", "ent_id": "Q102605225", "classes": {"Q82794": "geographic region"}}
+{"entity": [3183, 5, 6, "LOC"], "ent_text": "South Asia", "linked_title": "South Asia", "ent_id": "Q771405", "classes": {"Q82794": "geographic region"}}
+{"entity": [3185, 17, 18, "LOC"], "ent_text": "South Asia", "linked_title": "South Asia", "ent_id": "Q771405", "classes": {"Q82794": "geographic region"}}
+{"entity": [3220, 17, 17, "LOC"], "ent_text": "West", "linked_title": "Western world", "ent_id": "Q160381", "classes": {"Q3622002": "geographical area"}}
+{"entity": [3221, 12, 12, "LOC"], "ent_text": "West", "linked_title": "West", "ent_id": "Q679", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [3222, 4, 5, "LOC"], "ent_text": "West Coast", "linked_title": "West Coast of the United States", "ent_id": "Q12606", "classes": {"Q93352": "coast"}}
+{"entity": [3278, 16, 17, "LOC"], "ent_text": "Red Sea", "linked_title": "Red Sea", "ent_id": "Q23406", "classes": {"Q165": "sea"}}
+{"entity": [3333, 23, 24, "LOC"], "ent_text": "Pearl River", "linked_title": "Pearl River (China)", "ent_id": "Q201463", "classes": {"Q4022": "river"}}
+{"entity": [3414, 14, 15, "LOC"], "ent_text": "Taiwan Town", "linked_title": "Taipei", "ent_id": "Q1867", "classes": {"Q515": "city", "Q5119": "capital", "Q1549591": "big city", "Q1637706": "city with millions of inhabitants", "Q2225003": "special municipality", "Q10876480": "Capital of Republic of China (Taiwan)"}}
+{"entity": [3435, 16, 18, "LOC"], "ent_text": "the Legislative Yuan", "linked_title": "Legislative Yuan", "ent_id": "Q715869", "classes": {"Q7138926": "parliament building", "Q37002670": "unicameral legislature"}}
+{"entity": [3522, 8, 8, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [3607, 18, 18, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [3656, 18, 18, "LOC"], "ent_text": "Cross-Strait", "linked_title": "Cross-Strait relations", "ent_id": "Q591903", "classes": {"Q166542": "international relations", "Q15221623": "bilateral relation"}}
+{"entity": [3698, 9, 10, "LOC"], "ent_text": "Mt. Kuanyin", "linked_title": "Mount Guanyin (New Taipei)", "ent_id": "Q14657877", "classes": {"Q8502": "mountain"}}
+{"entity": [3711, 9, 10, "LOC"], "ent_text": "Chungcheng Road", "linked_title": "Chungcheng", "ent_id": "Q5116366", "classes": {"Q82799": "name"}}
+{"entity": [3711, 23, 24, "LOC"], "ent_text": "Huwei Street", "linked_title": "Huzhou", "ent_id": "Q42664", "classes": {"Q748149": "prefecture-level city", "Q1549591": "big city", "Q1637706": "city with millions of inhabitants"}}
+{"entity": [3723, 12, 13, "LOC"], "ent_text": "Southeast Asia", "linked_title": "Southeast Asia", "ent_id": "Q11708", "classes": {"Q82794": "geographic region"}}
+{"entity": [3726, 7, 7, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [3737, 4, 5, "LOC"], "ent_text": "Sanmin Street", "linked_title": "Sanmin District", "ent_id": "Q713142", "classes": {"Q705296": "district of Taiwan"}}
+{"entity": [3748, 3, 5, "LOC"], "ent_text": "the Tatun Mountains", "linked_title": "Tatra Mountains", "ent_id": "Q194263", "classes": {"Q46831": "mountain range", "Q3491088": "mesoregion"}}
+{"entity": [3759, 10, 12, "LOC"], "ent_text": "the Taiwan Strait", "linked_title": "Taiwan Strait", "ent_id": "Q127031", "classes": {"Q37901": "strait"}}
+{"entity": [3805, 10, 10, "LOC"], "ent_text": "Kuantu", "linked_title": "Taipei", "ent_id": "Q1867", "classes": {"Q515": "city", "Q5119": "capital", "Q1549591": "big city", "Q1637706": "city with millions of inhabitants", "Q2225003": "special municipality", "Q10876480": "Capital of Republic of China (Taiwan)"}}
+{"entity": [3805, 20, 22, "LOC"], "ent_text": "the Taiwan Strait", "linked_title": "Taiwan Strait", "ent_id": "Q127031", "classes": {"Q37901": "strait"}}
+{"entity": [3805, 36, 38, "LOC"], "ent_text": "the Tanshui River", "linked_title": "Tamsui River", "ent_id": "Q2420747", "classes": {"Q4022": "river"}}
+{"entity": [3808, 7, 7, "LOC"], "ent_text": "Kuroshio", "linked_title": "Kuroshio Current", "ent_id": "Q53842", "classes": {"Q129558": "ocean current"}}
+{"entity": [3809, 8, 10, "LOC"], "ent_text": "the Tanshui River", "linked_title": "Tamsui River", "ent_id": "Q2420747", "classes": {"Q4022": "river"}}
+{"entity": [3810, 43, 43, "LOC"], "ent_text": "Shalun", "linked_title": "Sha Tin", "ent_id": "Q855463", "classes": {"Q123705": "neighborhood"}}
+{"entity": [3810, 61, 62, "LOC"], "ent_text": "Antiques Street", "linked_title": "Portland Street", "ent_id": "Q7232053", "classes": {"Q34442": "road", "Q79007": "street", "Q83620": "thoroughfare"}}
+{"entity": [3810, 65, 66, "LOC"], "ent_text": "Chungcheng Road", "linked_title": "Chungcheng", "ent_id": "Q5116366", "classes": {"Q82799": "name"}}
+{"entity": [3840, 4, 4, "LOC"], "ent_text": "South", "linked_title": "South", "ent_id": "Q667", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [3862, 4, 5, "LOC"], "ent_text": "Linpien River", "linked_title": "Libungan River", "ent_id": "Q25053523", "classes": {"Q4022": "river"}}
+{"entity": [3875, 39, 39, "LOC"], "ent_text": "East", "linked_title": "East", "ent_id": "Q684", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [3875, 45, 45, "LOC"], "ent_text": "West", "linked_title": "West", "ent_id": "Q679", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [3898, 6, 9, "LOC"], "ent_text": "Tapeng Bay Scenic Area", "linked_title": "Discovery Bay Coastal Park", "ent_id": "Q5281868", "classes": {"Q473972": "protected area"}}
+{"entity": [3907, 17, 19, "LOC"], "ent_text": "the Linpien River", "linked_title": "Linbian River", "ent_id": "Q6550302", "classes": {"Q4022": "river"}}
+{"entity": [4013, 24, 25, "LOC"], "ent_text": "Southeast Asia", "linked_title": "Southeast Asia", "ent_id": "Q11708", "classes": {"Q82794": "geographic region"}}
+{"entity": [4085, 22, 22, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4179, 8, 10, "LOC"], "ent_text": "the Gulf Coast", "linked_title": "Gulf Coast of the United States", "ent_id": "Q55241", "classes": {"Q93352": "coast", "Q21079854": "vernacular region"}}
+{"entity": [4180, 10, 11, "LOC"], "ent_text": "Western Europe", "linked_title": "Western Europe", "ent_id": "Q27496", "classes": {"Q82794": "geographic region"}}
+{"entity": [4180, 22, 22, "LOC"], "ent_text": "bloc", "linked_title": "Eastern Bloc", "ent_id": "Q170541", "classes": {"Q43229": "organization"}}
+{"entity": [4195, 26, 26, "LOC"], "ent_text": "bloc", "linked_title": "United States", "ent_id": "Q30", "classes": {"Q6256": "country", "Q43702": "federation", "Q1489259": "superpower", "Q1520223": "constitutional republic", "Q3624078": "sovereign state", "Q5255892": "democratic republic", "Q99541706": "historical unrecognized state"}}
+{"entity": [4221, 10, 13, "LOC"], "ent_text": "the Great Plains '", "linked_title": "Great Plains", "ent_id": "Q12707", "classes": {"Q82794": "geographic region", "Q160091": "plain"}}
+{"entity": [4237, 9, 11, "LOC"], "ent_text": "the Great Plains", "linked_title": "Great Plains", "ent_id": "Q12707", "classes": {"Q82794": "geographic region", "Q160091": "plain"}}
+{"entity": [4251, 15, 15, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4252, 18, 18, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4260, 9, 10, "LOC"], "ent_text": "North Sea", "linked_title": "North Sea", "ent_id": "Q1693", "classes": {"Q165": "sea"}}
+{"entity": [4266, 22, 24, "LOC"], "ent_text": "the North Sea", "linked_title": "North Sea", "ent_id": "Q1693", "classes": {"Q165": "sea"}}
+{"entity": [4386, 9, 10, "LOC"], "ent_text": "Long Island", "linked_title": "Long Island", "ent_id": "Q18438", "classes": {"Q23442": "island", "Q2610088": "moraine"}}
+{"entity": [4602, 21, 23, "LOC"], "ent_text": "San Joaquin Valley", "linked_title": "San Joaquin Valley", "ent_id": "Q964198", "classes": {"Q39816": "valley"}}
+{"entity": [4647, 17, 17, "LOC"], "ent_text": "Jupiter", "linked_title": "Jupiter", "ent_id": "Q319", "classes": {"Q30014": "outer planet", "Q121750": "gas giant"}}
+{"entity": [4663, 18, 21, "LOC"], "ent_text": "the Gulf of Mexico", "linked_title": "Gulf of Mexico", "ent_id": "Q12630", "classes": {"Q1322134": "gulf"}}
+{"entity": [4712, 7, 7, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4714, 28, 28, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4714, 35, 35, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4747, 2, 2, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4750, 6, 6, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [4759, 24, 26, "LOC"], "ent_text": "Great Barrier Reef", "linked_title": "Great Barrier Reef", "ent_id": "Q7343", "classes": {"Q11292": "coral reef"}}
+{"entity": [4769, 15, 16, "LOC"], "ent_text": "Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [4769, 27, 29, "LOC"], "ent_text": "Western Europe 's", "linked_title": "Western world", "ent_id": "Q160381", "classes": {"Q3622002": "geographical area"}}
+{"entity": [4782, 25, 26, "LOC"], "ent_text": "Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [4801, 33, 34, "LOC"], "ent_text": "Great Lakes", "linked_title": "Great Lakes", "ent_id": "Q7347", "classes": {"Q25498657": "group of interconnected lakes"}}
+{"entity": [4804, 31, 33, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [4817, 13, 13, "LOC"], "ent_text": "Midwest", "linked_title": "Midwestern United States", "ent_id": "Q186545", "classes": {"Q82794": "geographic region"}}
+{"entity": [4819, 1, 1, "LOC"], "ent_text": "Northeast", "linked_title": "Northeastern United States", "ent_id": "Q24460", "classes": {"Q82794": "geographic region"}}
+{"entity": [4822, 9, 9, "LOC"], "ent_text": "South", "linked_title": "Southern United States", "ent_id": "Q49042", "classes": {"Q518261": "cultural area", "Q57766005": "United States census region"}}
+{"entity": [4822, 11, 11, "LOC"], "ent_text": "West", "linked_title": "Western United States", "ent_id": "Q12612", "classes": {"Q82794": "geographic region"}}
+{"entity": [4824, 5, 5, "LOC"], "ent_text": "South", "linked_title": "Southern United States", "ent_id": "Q49042", "classes": {"Q518261": "cultural area", "Q57766005": "United States census region"}}
+{"entity": [4824, 7, 7, "LOC"], "ent_text": "West", "linked_title": "West", "ent_id": "Q679", "classes": {"Q23718": "cardinal direction"}}
+{"entity": [4824, 11, 11, "LOC"], "ent_text": "Northeast", "linked_title": "Northeastern United States", "ent_id": "Q24460", "classes": {"Q82794": "geographic region"}}
+{"entity": [4824, 13, 13, "LOC"], "ent_text": "Midwest", "linked_title": "Midwestern United States", "ent_id": "Q186545", "classes": {"Q82794": "geographic region"}}
+{"entity": [4825, 5, 7, "LOC"], "ent_text": "the Sun Belt", "linked_title": "Sun Belt", "ent_id": "Q1058501", "classes": {"Q1496967": "territorial entity"}}
+{"entity": [4902, 11, 13, "LOC"], "ent_text": "the Borscht Belt", "linked_title": "Borscht Belt", "ent_id": "Q894184", "classes": {"Q82794": "geographic region"}}
+{"entity": [5026, 29, 29, "LOC"], "ent_text": "Northeast", "linked_title": "Northeastern United States", "ent_id": "Q24460", "classes": {"Q82794": "geographic region"}}
+{"entity": [5450, 10, 10, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [5459, 4, 6, "LOC"], "ent_text": "the Da river", "linked_title": "Dajing River", "ent_id": "Q5209881", "classes": {"Q4022": "river"}}
+{"entity": [5501, 30, 31, "LOC"], "ent_text": "Changbai Mountain", "linked_title": "Changbai Mountains", "ent_id": "Q512139", "classes": {"Q46831": "mountain range"}}
+{"entity": [5502, 19, 22, "LOC"], "ent_text": "the Tumen River region", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5504, 25, 29, "LOC"], "ent_text": "the Tumen River region 's", "linked_title": "Xinjiang", "ent_id": "Q34800", "classes": {"Q57362": "autonomous region of the People's Republic of China"}}
+{"entity": [5505, 1, 2, "LOC"], "ent_text": "Tumen River", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5505, 10, 12, "LOC"], "ent_text": "the Tumen Delta", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5509, 18, 19, "LOC"], "ent_text": "Tumen River", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5510, 30, 32, "LOC"], "ent_text": "Tumen River region", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5512, 48, 51, "LOC"], "ent_text": "the Northeast Asia region", "linked_title": "Northeast Asia", "ent_id": "Q27243", "classes": {"Q82794": "geographic region"}}
+{"entity": [5520, 7, 10, "LOC"], "ent_text": "the Tumen River region", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5520, 22, 23, "LOC"], "ent_text": "Tumen River", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5522, 35, 36, "LOC"], "ent_text": "Tumen River", "linked_title": "Tumen River", "ent_id": "Q55499", "classes": {"Q4022": "river"}}
+{"entity": [5522, 54, 55, "LOC"], "ent_text": "Northeast Asia", "linked_title": "Northeast Asia", "ent_id": "Q27243", "classes": {"Q82794": "geographic region"}}
+{"entity": [5529, 14, 15, "LOC"], "ent_text": "Southeast Asia", "linked_title": "Southeast Asia", "ent_id": "Q11708", "classes": {"Q82794": "geographic region"}}
+{"entity": [5529, 17, 17, "LOC"], "ent_text": "Oceania", "linked_title": "Oceania", "ent_id": "Q538", "classes": {"Q5107": "continent", "Q944816": "biogeographic realm"}}
+{"entity": [5529, 19, 20, "LOC"], "ent_text": "Latin America", "linked_title": "Latin America", "ent_id": "Q12585", "classes": {"Q82794": "geographic region"}}
+{"entity": [5529, 22, 24, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [5557, 9, 11, "LOC"], "ent_text": "Chishui river valley", "linked_title": "Chishui River", "ent_id": "Q1074840", "classes": {"Q4022": "river"}}
+{"entity": [5558, 5, 7, "LOC"], "ent_text": "the Chishui river", "linked_title": "Chishui River", "ent_id": "Q1074840", "classes": {"Q4022": "river"}}
+{"entity": [5602, 55, 56, "LOC"], "ent_text": "Allah Mountain", "linked_title": "Allahuekber Mountains", "ent_id": "Q2359589", "classes": {"Q46831": "mountain range"}}
+{"entity": [5666, 25, 26, "LOC"], "ent_text": "Yellow River", "linked_title": "Yellow River", "ent_id": "Q7355", "classes": {"Q4022": "river"}}
+{"entity": [5816, 37, 39, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [5818, 13, 13, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [5822, 11, 11, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [5827, 35, 37, "LOC"], "ent_text": "the Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [5828, 8, 9, "LOC"], "ent_text": "Middle East", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [5857, 24, 26, "LOC"], "ent_text": "the Zhujiang Delta", "linked_title": "Pearl River (China)", "ent_id": "Q201463", "classes": {"Q4022": "river"}}
+{"entity": [5884, 17, 17, "LOC"], "ent_text": "Asia", "linked_title": "Asia", "ent_id": "Q48", "classes": {"Q5107": "continent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [5884, 22, 22, "LOC"], "ent_text": "Europe", "linked_title": "Europe", "ent_id": "Q46", "classes": {"Q5107": "continent"}}
+{"entity": [5891, 8, 11, "LOC"], "ent_text": "the Latin American region", "linked_title": "Americas", "ent_id": "Q828", "classes": {"Q55833": "supercontinent", "Q2418896": "continental area and surrounding islands"}}
+{"entity": [5895, 3, 4, "LOC"], "ent_text": "Latin America", "linked_title": "Latin America", "ent_id": "Q12585", "classes": {"Q82794": "geographic region"}}
+{"entity": [5896, 27, 28, "LOC"], "ent_text": "Latin America", "linked_title": "Latin America", "ent_id": "Q12585", "classes": {"Q82794": "geographic region"}}
+{"entity": [5925, 38, 38, "LOC"], "ent_text": "Caohejing", "linked_title": "Caohejing Hi-Tech Park station", "ent_id": "Q985941", "classes": {"Q928830": "metro station", "Q22808403": "station located underground"}}
+{"entity": [7487, 5, 5, "LOC"], "ent_text": "Earth", "linked_title": "Earth", "ent_id": "Q2", "classes": {"Q3504248": "inner planet"}}
+{"entity": [7595, 27, 27, "LOC"], "ent_text": "Earth", "linked_title": "Earth", "ent_id": "Q2", "classes": {"Q3504248": "inner planet"}}
+{"entity": [7917, 12, 12, "LOC"], "ent_text": "Saturn", "linked_title": "Saturn", "ent_id": "Q193", "classes": {"Q30014": "outer planet", "Q121750": "gas giant"}}
+{"entity": [7962, 17, 20, "LOC"], "ent_text": "2301 North Uhle Street", "linked_title": "North Capitol Street", "ent_id": "Q7054364", "classes": {"Q34442": "road"}}
+{"entity": [8164, 7, 7, "LOC"], "ent_text": "Oz", "linked_title": "Oz (2000 AD)", "ent_id": "Q7116408", "classes": {"Q1964689": "fictional city"}}
+{"entity": [8164, 9, 9, "LOC"], "ent_text": "Neverland", "linked_title": "Neverland", "ent_id": "Q1646867", "classes": {"Q1145276": "fictional country", "Q6619693": "fictional island"}}
+{"entity": [8184, 8, 8, "LOC"], "ent_text": "mideast", "linked_title": "Middle East", "ent_id": "Q7204", "classes": {"Q82794": "geographic region", "Q3502482": "cultural region"}}
+{"entity": [8217, 17, 17, "LOC"], "ent_text": "Neverland", "linked_title": "Neverland", "ent_id": "Q1646867", "classes": {"Q1145276": "fictional country", "Q6619693": "fictional island"}}

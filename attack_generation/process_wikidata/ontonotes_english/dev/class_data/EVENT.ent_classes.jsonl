@@ -1,0 +1,119 @@
+{"entity": [138, 22, 25, "EVENT"], "ent_text": "Discover Hong Kong Year", "linked_title": "Prehistoric Hong Kong", "ent_id": "Q7239931", "class_num": 1, "classes": {"Q11514315": "historical period"}}
+{"entity": [146, 6, 8, "EVENT"], "ent_text": "Symphony of Lights", "linked_title": "A Symphony of Lights", "ent_id": "Q1068874", "class_num": 1, "classes": {"Q15275719": "recurring event"}}
+{"entity": [147, 18, 21, "EVENT"], "ent_text": "Discover Hong Kong Year", "linked_title": "History of Hong Kong", "ent_id": "Q733116", "class_num": 1, "classes": {"Q17524420": "aspect of history"}}
+{"entity": [152, 11, 14, "EVENT"], "ent_text": "Discover Hong Kong Year", "linked_title": "List of Hong Kong Disneyland attractions", "ent_id": "Q11667668", "class_num": 1, "classes": {"Q13406463": "Wikimedia list article"}}
+{"entity": [189, 0, 2, "EVENT"], "ent_text": "The Wonder Tour", "linked_title": "Wonder World Tour (Miley Cyrus)", "ent_id": "Q1510100", "class_num": 1, "classes": {"Q1573906": "concert tour"}}
+{"entity": [206, 4, 8, "EVENT"], "ent_text": "Ningxia Investment and Trade Fair", "linked_title": "China International Fair for Investment and Trade", "ent_id": "Q5099740", "class_num": 1, "classes": {"Q15275719": "recurring event"}}
+{"entity": [251, 7, 9, "EVENT"], "ent_text": "World War Two", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [255, 22, 24, "EVENT"], "ent_text": "World War Two", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [260, 2, 4, "EVENT"], "ent_text": "World War Two", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [284, 6, 8, "EVENT"], "ent_text": "World War Two", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [301, 6, 8, "EVENT"], "ent_text": "World War Two", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [372, 15, 16, "EVENT"], "ent_text": "Hurricane Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "class_num": 1, "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [374, 30, 33, "EVENT"], "ent_text": "the nine eleven attack", "linked_title": "September 11 attacks", "ent_id": "Q10806", "class_num": 4, "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [402, 9, 10, "EVENT"], "ent_text": "Hurricane Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "class_num": 1, "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [415, 9, 10, "EVENT"], "ent_text": "Hurricane Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "class_num": 1, "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [416, 17, 17, "EVENT"], "ent_text": "Katrina", "linked_title": "Hurricane Katrina", "ent_id": "Q16422", "class_num": 1, "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [421, 1, 2, "EVENT"], "ent_text": "Hurricane Rita", "linked_title": "Hurricane Rita", "ent_id": "Q737890", "class_num": 1, "classes": {"Q63100611": "category 5 hurricane"}}
+{"entity": [817, 9, 10, "EVENT"], "ent_text": "Nine Eleven", "linked_title": "September 11 attacks", "ent_id": "Q10806", "class_num": 4, "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [1211, 6, 8, "EVENT"], "ent_text": "Operation Quick Strike", "linked_title": "Operation Steel Curtain", "ent_id": "Q642100", "class_num": 2, "classes": {"Q178561": "battle", "Q645883": "military operation"}}
+{"entity": [1535, 11, 13, "EVENT"], "ent_text": "the Cultural Revolution", "linked_title": "Cultural Revolution", "ent_id": "Q8690", "class_num": 2, "classes": {"Q10931": "revolution", "Q13418847": "historical event"}}
+{"entity": [1553, 1, 3, "EVENT"], "ent_text": "the Cultural Revolution", "linked_title": "Cultural Revolution", "ent_id": "Q8690", "class_num": 2, "classes": {"Q10931": "revolution", "Q13418847": "historical event"}}
+{"entity": [1689, 2, 5, "EVENT"], "ent_text": "the Great Cultural Revolution", "linked_title": "Cultural Revolution", "ent_id": "Q8690", "class_num": 2, "classes": {"Q10931": "revolution", "Q13418847": "historical event"}}
+{"entity": [1874, 1, 2, "EVENT"], "ent_text": "Xi'an Incident", "linked_title": "Xi'an Incident", "ent_id": "Q244941", "class_num": 2, "classes": {"Q511866": "mutiny", "Q18669875": "incident"}}
+{"entity": [2136, 6, 8, "EVENT"], "ent_text": "the Cold War", "linked_title": "Cold War", "ent_id": "Q8683", "class_num": 3, "classes": {"Q864113": "proxy war", "Q1469686": "perpetual war", "Q4176199": "cold war"}}
+{"entity": [2220, 18, 18, "EVENT"], "ent_text": "Travelgate", "linked_title": "White House travel office controversy", "ent_id": "Q7994928", "class_num": 1, "classes": {"Q1190554": "occurrence"}}
+{"entity": [2759, 12, 12, "EVENT"], "ent_text": "Tianenmen", "linked_title": "Tiananmen", "ent_id": "Q83973", "class_num": 1, "classes": {"Q53060": "gate"}}
+{"entity": [2877, 3, 5, "EVENT"], "ent_text": "World War I", "linked_title": "World War I", "ent_id": "Q361", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [2877, 13, 15, "EVENT"], "ent_text": "World War I", "linked_title": "World War I", "ent_id": "Q361", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [2969, 28, 29, "EVENT"], "ent_text": "Cold War", "linked_title": "Cold War", "ent_id": "Q8683", "class_num": 3, "classes": {"Q864113": "proxy war", "Q1469686": "perpetual war", "Q4176199": "cold war"}}
+{"entity": [3020, 12, 14, "EVENT"], "ent_text": "World Series Championship", "linked_title": "World Series", "ent_id": "Q265538", "class_num": 3, "classes": {"Q500834": "tournament", "Q7889609": "United States Championships", "Q56829666": "baseball competition"}}
+{"entity": [3063, 13, 14, "EVENT"], "ent_text": "Stanley Cup", "linked_title": "Stanley Cup", "ent_id": "Q211872", "class_num": 2, "classes": {"Q618779": "award", "Q13406554": "sports competition"}}
+{"entity": [3115, 25, 29, "EVENT"], "ent_text": "the 1967 Middle East war", "linked_title": "Six-Day War", "ent_id": "Q49077", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [3243, 50, 55, "EVENT"], "ent_text": "The New President and Cross-Strait Relations", "linked_title": "2018 North Korea\u2013United States Singapore Summit", "ent_id": "Q50396434", "class_num": 1, "classes": {"Q1072326": "summit"}}
+{"entity": [3278, 3, 5, "EVENT"], "ent_text": "the Tiananmen massacre", "linked_title": "1989 Tiananmen Square protests", "ent_id": "Q99717", "class_num": 2, "classes": {"Q175331": "demonstration", "Q1679887": "student protest"}}
+{"entity": [3340, 32, 33, "EVENT"], "ent_text": "Typhoon Bilis", "linked_title": "Typhoon Bilis (2000)", "ent_id": "Q15547468", "class_num": 1, "classes": {"Q79602": "cyclone"}}
+{"entity": [3388, 6, 6, "EVENT"], "ent_text": "Paralympics", "linked_title": "Paralympic Games", "ent_id": "Q73633", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3391, 24, 26, "EVENT"], "ent_text": "an Olympic games", "linked_title": "Olympic Games", "ent_id": "Q5389", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3392, 34, 37, "EVENT"], "ent_text": "the Paralympic Arts Festival", "linked_title": "Paralympic Games", "ent_id": "Q73633", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3393, 24, 24, "EVENT"], "ent_text": "Paralympics", "linked_title": "Paralympic Games", "ent_id": "Q73633", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3394, 4, 4, "EVENT"], "ent_text": "Paralympics", "linked_title": "Paralympic Games", "ent_id": "Q73633", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3397, 7, 7, "EVENT"], "ent_text": "Paralympics", "linked_title": "Paralympic Games", "ent_id": "Q73633", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [3661, 2, 6, "EVENT"], "ent_text": "21 September earthquake of 1999", "linked_title": "1999 Jiji earthquake", "ent_id": "Q714320", "class_num": 1, "classes": {"Q7944": "earthquake"}}
+{"entity": [3678, 7, 11, "EVENT"], "ent_text": "the Sino - Japanese war", "linked_title": "First Sino-Japanese War", "ent_id": "Q178687", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [4049, 8, 12, "EVENT"], "ent_text": "the Constitutional Convention of 1787", "linked_title": "Constitutional Convention (United States)", "ent_id": "Q405475", "class_num": 1, "classes": {"Q267995": "constitutional convention"}}
+{"entity": [4197, 4, 6, "EVENT"], "ent_text": "the World Series", "linked_title": "World Series", "ent_id": "Q265538", "class_num": 3, "classes": {"Q500834": "tournament", "Q7889609": "United States Championships", "Q56829666": "baseball competition"}}
+{"entity": [4200, 6, 9, "EVENT"], "ent_text": "The Pretty Big One", "linked_title": "The Big \"C\"", "ent_id": "Q7717476", "class_num": 1, "classes": {"Q12060132": "hillside letter"}}
+{"entity": [4340, 10, 13, "EVENT"], "ent_text": "the crash of 1987", "linked_title": "The End (Red Dwarf)", "ent_id": "Q7732049", "class_num": 1, "classes": {"Q21191270": "television series episode"}}
+{"entity": [4479, 4, 6, "EVENT"], "ent_text": "post-World War II", "linked_title": "Post-war", "ent_id": "Q1201472", "class_num": 1, "classes": {"Q595523": "notion"}}
+{"entity": [4774, 12, 18, "EVENT"], "ent_text": "Convention on International Trade in Endangered Species", "linked_title": "CITES", "ent_id": "Q191836", "class_num": 2, "classes": {"Q43229": "organization", "Q6934728": "multilateral treaty"}}
+{"entity": [5054, 9, 10, "EVENT"], "ent_text": "Black Monday", "linked_title": "Black Monday", "ent_id": "Q26124530", "class_num": 1, "classes": {"Q13406463": "Wikimedia list article"}}
+{"entity": [5468, 50, 54, "EVENT"], "ent_text": "the Phnom Penh Airplane Disaster", "linked_title": "1948 KLM Constellation air disaster", "ent_id": "Q2334343", "class_num": 1, "classes": {"Q744913": "aviation accident"}}
+{"entity": [5468, 80, 84, "EVENT"], "ent_text": "the Phnom Penh Military Conflicts", "linked_title": "Cambodian Civil War", "ent_id": "Q817206", "class_num": 1, "classes": {"Q8465": "civil war"}}
+{"entity": [5628, 6, 7, "EVENT"], "ent_text": "Spring Festival", "linked_title": "Chinese New Year", "ent_id": "Q131772", "class_num": 2, "classes": {"Q1197685": "public holiday", "Q1472127": "spring festival"}}
+{"entity": [5631, 10, 12, "EVENT"], "ent_text": "the Spring Festival", "linked_title": "The Spring Festival", "ent_id": "Q16689746", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [5667, 5, 9, "EVENT"], "ent_text": "the Global Chinese Physics Meeting", "linked_title": "Frontiers of Physics", "ent_id": "Q3029917", "class_num": 1, "classes": {"Q5633421": "scientific journal"}}
+{"entity": [5668, 18, 21, "EVENT"], "ent_text": "Global Chinese Physics Convention", "linked_title": "Chinese Physical Society", "ent_id": "Q9384228", "class_num": 2, "classes": {"Q748019": "scientific society", "Q2085381": "publisher"}}
+{"entity": [5681, 47, 51, "EVENT"], "ent_text": "the Wang - Gu Talks", "linked_title": "Gary Wang", "ent_id": "Q13677685", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [5690, 1, 6, "EVENT"], "ent_text": "the \" QianDao Lake Incident \"", "linked_title": "Qiandao Lake incident", "ent_id": "Q7267628", "class_num": 1, "classes": {"Q2334719": "legal case"}}
+{"entity": [5695, 8, 13, "EVENT"], "ent_text": "the \" QianDao Lake Incident \"", "linked_title": "Qiandao Lake incident", "ent_id": "Q7267628", "class_num": 1, "classes": {"Q2334719": "legal case"}}
+{"entity": [5734, 34, 36, "EVENT"], "ent_text": "National Member Congress", "linked_title": "National People's Congress", "ent_id": "Q19211", "class_num": 3, "classes": {"Q35749": "parliament", "Q37002670": "unicameral legislature", "Q98676607": "state level institution"}}
+{"entity": [5771, 29, 31, "EVENT"], "ent_text": "World Gymnastics Championships", "linked_title": "World Artistic Gymnastics Championships", "ent_id": "Q1191199", "class_num": 1, "classes": {"Q18608583": "recurring sporting event"}}
+{"entity": [6218, 6, 6, "EVENT"], "ent_text": "Pesach", "linked_title": "Moshe Pesach", "ent_id": "Q19840562", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [6270, 3, 3, "EVENT"], "ent_text": "Pesach", "linked_title": "Moshe Pesach", "ent_id": "Q19840562", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [6280, 8, 8, "EVENT"], "ent_text": "Pesach", "linked_title": "Moshe Pesach", "ent_id": "Q19840562", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [6964, 10, 10, "EVENT"], "ent_text": "Christmas", "linked_title": "Christmas", "ent_id": "Q19809", "class_num": 3, "classes": {"Q1197685": "public holiday", "Q5440532": "federal holiday", "Q60075825": "Christian holy day"}}
+{"entity": [7002, 8, 9, "EVENT"], "ent_text": "Rosh Hashanah", "linked_title": "Rosh Hashanah", "ent_id": "Q131028", "class_num": 3, "classes": {"Q34812": "New Year", "Q94920": "Jewish holiday", "Q1197685": "public holiday"}}
+{"entity": [7003, 2, 2, "EVENT"], "ent_text": "Sukkoth", "linked_title": "Sukkot", "ent_id": "Q182242", "class_num": 2, "classes": {"Q1197685": "public holiday", "Q1517900": "Three Pilgrimage Festivals"}}
+{"entity": [7164, 8, 9, "EVENT"], "ent_text": "Rosh Hashanah", "linked_title": "Rosh Hashanah", "ent_id": "Q131028", "class_num": 3, "classes": {"Q34812": "New Year", "Q94920": "Jewish holiday", "Q1197685": "public holiday"}}
+{"entity": [7174, 9, 11, "EVENT"], "ent_text": "New Year 's", "linked_title": "New Year", "ent_id": "Q34812", "class_num": 1, "classes": {"Q1197685": "public holiday"}}
+{"entity": [7193, 0, 0, "EVENT"], "ent_text": "Passover", "linked_title": "Passover", "ent_id": "Q121393", "class_num": 1, "classes": {"Q1517900": "Three Pilgrimage Festivals"}}
+{"entity": [7570, 6, 7, "EVENT"], "ent_text": "1967 War", "linked_title": "Six-Day War", "ent_id": "Q49077", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [7584, 13, 15, "EVENT"], "ent_text": "the June War", "linked_title": "Six-Day War", "ent_id": "Q49077", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [7584, 20, 22, "EVENT"], "ent_text": "the October War", "linked_title": "Yom Kippur War", "ent_id": "Q49100", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [7584, 64, 66, "EVENT"], "ent_text": "the October War", "linked_title": "Yom Kippur War", "ent_id": "Q49100", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [7643, 14, 20, "EVENT"], "ent_text": "\" The Sun that Never Sets \"", "linked_title": "The East Is Red (1965 film)", "ent_id": "Q1241340", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [7645, 14, 20, "EVENT"], "ent_text": "\" The Sun that Never Sets \"", "linked_title": "The East Is Red (1965 film)", "ent_id": "Q1241340", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [7647, 2, 6, "EVENT"], "ent_text": "The Sun that Never Sets", "linked_title": "The Sun Never Sets (TV series)", "ent_id": "Q11278212", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [7662, 57, 63, "EVENT"], "ent_text": "\" The Sun that Never Sets \"", "linked_title": "The Sun Never Sets (TV series)", "ent_id": "Q11278212", "class_num": 1, "classes": {"Q15416": "television program"}}
+{"entity": [7663, 33, 34, "EVENT"], "ent_text": "Long March", "linked_title": "Long March", "ent_id": "Q46333", "class_num": 1, "classes": {"Q1760704": "withdrawal"}}
+{"entity": [7781, 14, 18, "EVENT"], "ent_text": "the Israeli - Arab conflict", "linked_title": "Arab\u2013Israeli conflict", "ent_id": "Q8669", "class_num": 1, "classes": {"Q180684": "conflict"}}
+{"entity": [7787, 9, 12, "EVENT"], "ent_text": "Israeli - Arab conflict", "linked_title": "Arab\u2013Israeli conflict", "ent_id": "Q8669", "class_num": 1, "classes": {"Q180684": "conflict"}}
+{"entity": [7789, 5, 9, "EVENT"], "ent_text": "the Iran - Iraq war", "linked_title": "Iran\u2013Iraq War", "ent_id": "Q82664", "class_num": 3, "classes": {"Q198": "war", "Q194465": "annexation", "Q474138": "war of aggression"}}
+{"entity": [7818, 24, 26, "EVENT"], "ent_text": "World War III", "linked_title": "World War III", "ent_id": "Q363", "class_num": 4, "classes": {"Q103495": "world war", "Q201424": "nuclear war", "Q781546": "logical possibility", "Q64728935": "future event"}}
+{"entity": [7822, 2, 3, "EVENT"], "ent_text": "September 11", "linked_title": "September 11 attacks", "ent_id": "Q10806", "class_num": 4, "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [7872, 8, 9, "EVENT"], "ent_text": "September 11", "linked_title": "September 11 attacks", "ent_id": "Q10806", "class_num": 4, "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [7886, 11, 12, "EVENT"], "ent_text": "September 11", "linked_title": "September 11 attacks", "ent_id": "Q10806", "class_num": 4, "classes": {"Q217327": "suicide attack", "Q750215": "mass murder", "Q898712": "aircraft hijacking", "Q2223653": "terrorist attack"}}
+{"entity": [7894, 8, 8, "EVENT"], "ent_text": "holocaust", "linked_title": "The Holocaust", "ent_id": "Q2763", "class_num": 1, "classes": {"Q41397": "genocide"}}
+{"entity": [7906, 5, 7, "EVENT"], "ent_text": "the Iraq war", "linked_title": "Iraq War", "ent_id": "Q545449", "class_num": 3, "classes": {"Q467011": "invasion", "Q831663": "military campaign", "Q2001676": "military offensive"}}
+{"entity": [8035, 10, 12, "EVENT"], "ent_text": "World War II", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8040, 9, 9, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8041, 3, 3, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8043, 0, 0, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8044, 6, 7, "EVENT"], "ent_text": "Abu Sifa", "linked_title": "Sa'id ibn Jubayr", "ent_id": "Q1842675", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [8044, 10, 10, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8045, 3, 3, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8045, 14, 15, "EVENT"], "ent_text": "Iraq war", "linked_title": "Iraq War", "ent_id": "Q545449", "class_num": 3, "classes": {"Q467011": "invasion", "Q831663": "military campaign", "Q2001676": "military offensive"}}
+{"entity": [8048, 18, 18, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8055, 10, 10, "EVENT"], "ent_text": "Haditha", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8055, 16, 16, "EVENT"], "ent_text": "Hadithas", "linked_title": "Haditha", "ent_id": "Q944368", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8105, 42, 42, "EVENT"], "ent_text": "holocaust", "linked_title": "The Holocaust", "ent_id": "Q2763", "class_num": 1, "classes": {"Q41397": "genocide"}}
+{"entity": [8169, 6, 6, "EVENT"], "ent_text": "WW2", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8205, 3, 3, "EVENT"], "ent_text": "WW2", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8245, 1, 3, "EVENT"], "ent_text": "World War II", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8280, 9, 9, "EVENT"], "ent_text": "911", "linked_title": "Porsche 911", "ent_id": "Q219357", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [8316, 0, 2, "EVENT"], "ent_text": "The Boer war", "linked_title": "Second Boer War", "ent_id": "Q215112", "class_num": 1, "classes": {"Q198": "war"}}
+{"entity": [8317, 0, 0, "EVENT"], "ent_text": "WWI", "linked_title": "World War I", "ent_id": "Q361", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8318, 0, 0, "EVENT"], "ent_text": "WWII", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8321, 6, 8, "EVENT"], "ent_text": "the Tiger Force", "linked_title": "Tiger Force", "ent_id": "Q1520826", "class_num": 1, "classes": {"Q234497": "special forces"}}
+{"entity": [8344, 1, 1, "EVENT"], "ent_text": "WWII", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8381, 4, 4, "EVENT"], "ent_text": "Hiroshima", "linked_title": "Hiroshima", "ent_id": "Q34664", "class_num": 7, "classes": {"Q515": "city", "Q1549591": "big city", "Q1637706": "city with millions of inhabitants", "Q1749269": "city designated by government ordinance", "Q2264924": "port settlement", "Q11521076": "Q11521076", "Q65589340": "capital of a prefecture of Japan"}}
+{"entity": [8381, 6, 6, "EVENT"], "ent_text": "Nagasaki", "linked_title": "Nagasaki", "ent_id": "Q38234", "class_num": 3, "classes": {"Q1137833": "core city of Japan", "Q1549591": "big city", "Q65589340": "capital of a prefecture of Japan"}}
+{"entity": [8385, 9, 9, "EVENT"], "ent_text": "WW2", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8386, 24, 24, "EVENT"], "ent_text": "Vietnam", "linked_title": "Vietnam", "ent_id": "Q881", "class_num": 3, "classes": {"Q6256": "country", "Q849866": "communist state", "Q3624078": "sovereign state"}}
+{"entity": [8386, 27, 27, "EVENT"], "ent_text": "Fallujah", "linked_title": "Fallujah", "ent_id": "Q191170", "class_num": 2, "classes": {"Q515": "city", "Q1549591": "big city"}}
+{"entity": [8386, 29, 30, "EVENT"], "ent_text": "Abu Graib", "linked_title": "Abu Ghraib", "ent_id": "Q335021", "class_num": 1, "classes": {"Q486972": "human settlement"}}
+{"entity": [8386, 32, 32, "EVENT"], "ent_text": "Hadifa", "linked_title": "Hafar Al-Batin", "ent_id": "Q27400", "class_num": 1, "classes": {"Q66661665": "governorate of Saudi Arabia"}}
+{"entity": [8386, 37, 37, "EVENT"], "ent_text": "Iraq", "linked_title": "Iraq", "ent_id": "Q796", "class_num": 2, "classes": {"Q6256": "country", "Q3624078": "sovereign state"}}
+{"entity": [8406, 13, 13, "EVENT"], "ent_text": "WWII", "linked_title": "World War II", "ent_id": "Q362", "class_num": 2, "classes": {"Q103495": "world war", "Q11514315": "historical period"}}
+{"entity": [8411, 2, 3, "EVENT"], "ent_text": "Abu Ghraib", "linked_title": "Abu Ghraib", "ent_id": "Q335021", "class_num": 1, "classes": {"Q486972": "human settlement"}}

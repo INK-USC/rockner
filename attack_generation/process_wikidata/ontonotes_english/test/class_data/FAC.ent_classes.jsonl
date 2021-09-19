@@ -1,0 +1,126 @@
+{"entity": [11, 19, 20, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Shangqing Bridge", "ent_id": "Q7488565", "classes": {"Q537127": "road bridge"}}
+{"entity": [11, 22, 25, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [35, 11, 12, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingyue Yangtze River Bridge", "ent_id": "Q3396998", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [48, 33, 34, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [48, 36, 39, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [48, 50, 51, "FAC"], "ent_text": "Chaoyang Road", "linked_title": "Chaoyang Road (Beijing)", "ent_id": "Q11092663", "classes": {"Q34442": "road"}}
+{"entity": [48, 53, 54, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [48, 57, 60, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [101, 4, 6, "FAC"], "ent_text": "that Jingguang Bridge", "linked_title": "Jingyue Yangtze River Bridge", "ent_id": "Q3396998", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [122, 25, 27, "FAC"], "ent_text": "the Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [122, 29, 32, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [136, 18, 20, "FAC"], "ent_text": "the Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [136, 22, 25, "FAC"], "ent_text": "the Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [136, 32, 34, "FAC"], "ent_text": "Third Ring Road", "linked_title": "Third Ring Road (Moscow)", "ent_id": "Q1259260", "classes": {"Q34442": "road"}}
+{"entity": [138, 7, 9, "FAC"], "ent_text": "Second Ring Road", "linked_title": "2nd Ring Road", "ent_id": "Q210412", "classes": {"Q510662": "ring road"}}
+{"entity": [138, 11, 13, "FAC"], "ent_text": "Fourth Ring Road", "linked_title": "Ring 5 (Copenhagen)", "ent_id": "Q3275004", "classes": {"Q46622": "controlled-access highway"}}
+{"entity": [140, 19, 20, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [140, 22, 23, "FAC"], "ent_text": "Changhong Bridge", "linked_title": "Changhong", "ent_id": "Q4036041", "classes": {"Q4830453": "business"}}
+{"entity": [157, 11, 15, "FAC"], "ent_text": "the China World Trade Center", "linked_title": "The China World Trade Center", "ent_id": "Q1642373", "classes": {"Q1497364": "building complex"}}
+{"entity": [159, 33, 37, "FAC"], "ent_text": "the China World Trade Center", "linked_title": "The China World Trade Center", "ent_id": "Q1642373", "classes": {"Q1497364": "building complex"}}
+{"entity": [165, 7, 10, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "Third Ring Road (Moscow)", "ent_id": "Q1259260", "classes": {"Q34442": "road"}}
+{"entity": [166, 2, 3, "FAC"], "ent_text": "Chaoyang Road", "linked_title": "Chaoyang Road (Beijing)", "ent_id": "Q11092663", "classes": {"Q34442": "road"}}
+{"entity": [168, 3, 4, "FAC"], "ent_text": "Chaoyang Road", "linked_title": "Chaoyang Road (Beijing)", "ent_id": "Q11092663", "classes": {"Q34442": "road"}}
+{"entity": [168, 18, 21, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "Third Ring Road (Moscow)", "ent_id": "Q1259260", "classes": {"Q34442": "road"}}
+{"entity": [168, 51, 54, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "Third Ring Road (Moscow)", "ent_id": "Q1259260", "classes": {"Q34442": "road"}}
+{"entity": [169, 2, 3, "FAC"], "ent_text": "Chaoyang Road", "linked_title": "Chaoyang Road (Beijing)", "ent_id": "Q11092663", "classes": {"Q34442": "road"}}
+{"entity": [173, 14, 15, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingyue Yangtze River Bridge", "ent_id": "Q3396998", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [175, 4, 7, "FAC"], "ent_text": "the Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [175, 16, 17, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingguang Expressway", "ent_id": "Q17016669", "classes": {"Q34442": "road"}}
+{"entity": [191, 8, 11, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "Third Ring Road (Moscow)", "ent_id": "Q1259260", "classes": {"Q34442": "road"}}
+{"entity": [194, 10, 13, "FAC"], "ent_text": "East Second Ring Road", "linked_title": "Inner Ring Road (Shanghai)", "ent_id": "Q6035541", "classes": {"Q510662": "ring road"}}
+{"entity": [194, 15, 18, "FAC"], "ent_text": "East Fourth Ring Road", "linked_title": "G1503 Shanghai Ring Expressway", "ent_id": "Q786042", "classes": {"Q2154027": "motorway ring road"}}
+{"entity": [194, 20, 22, "FAC"], "ent_text": "West Dawang Road", "linked_title": "Bukidnon\u2013Davao Road", "ent_id": "Q56284025", "classes": {"Q34442": "road"}}
+{"entity": [200, 14, 17, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [200, 22, 23, "FAC"], "ent_text": "Guanghua Bridge", "linked_title": "Guanghui Bridge", "ent_id": "Q17025080", "classes": {"Q158438": "arch bridge"}}
+{"entity": [200, 34, 35, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingyue Yangtze River Bridge", "ent_id": "Q3396998", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [208, 4, 5, "FAC"], "ent_text": "Jingguang Bridge", "linked_title": "Jingzhou Yangtze River Bridge", "ent_id": "Q11773514", "classes": {"Q158555": "cable-stayed bridge", "Q537127": "road bridge"}}
+{"entity": [289, 42, 45, "FAC"], "ent_text": "East Third Ring Road", "linked_title": "3rd Ring Road (Beijing)", "ent_id": "Q2668502", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [599, 14, 14, "FAC"], "ent_text": "Pennsylvania", "linked_title": "Pennsylvania", "ent_id": "Q1400", "classes": {"Q35657": "state of the United States"}}
+{"entity": [688, 14, 15, "FAC"], "ent_text": "Khobar Towers", "linked_title": "Khobar Towers bombing", "ent_id": "Q2869983", "classes": {"Q891854": "bomb attack"}}
+{"entity": [695, 28, 29, "FAC"], "ent_text": "Khobar Towers", "linked_title": "Khobar Towers bombing", "ent_id": "Q2869983", "classes": {"Q891854": "bomb attack"}}
+{"entity": [740, 34, 35, "FAC"], "ent_text": "Khobar Towers", "linked_title": "Khobar Towers bombing", "ent_id": "Q2869983", "classes": {"Q891854": "bomb attack"}}
+{"entity": [752, 16, 18, "FAC"], "ent_text": "the Khobar Towers", "linked_title": "Khobar Towers bombing", "ent_id": "Q2869983", "classes": {"Q891854": "bomb attack"}}
+{"entity": [790, 13, 16, "FAC"], "ent_text": "interstate ninety - four", "linked_title": "Interstate 90", "ent_id": "Q94958", "classes": {"Q34442": "road"}}
+{"entity": [1058, 19, 20, "FAC"], "ent_text": "Times Square", "linked_title": "Times Square", "ent_id": "Q11259", "classes": {"Q123705": "neighborhood", "Q174782": "square", "Q570116": "tourist attraction"}}
+{"entity": [2055, 6, 8, "FAC"], "ent_text": "the State Department", "linked_title": "United States Department of State", "ent_id": "Q789915", "classes": {"Q910252": "United States federal executive department", "Q20901295": "foreign affairs ministry"}}
+{"entity": [2117, 6, 9, "FAC"], "ent_text": "Wind Cave National Park", "linked_title": "Wind Cave National Park", "ent_id": "Q1334313", "classes": {"Q34918903": "National Park of the United States"}}
+{"entity": [2154, 8, 8, "FAC"], "ent_text": "Pentagon", "linked_title": "The Pentagon", "ent_id": "Q11208", "classes": {"Q570116": "tourist attraction", "Q1021645": "office building", "Q7540126": "headquarters", "Q16831714": "government building"}}
+{"entity": [2224, 21, 23, "FAC"], "ent_text": "Five - Right", "linked_title": "Go-around", "ent_id": "Q1267249", "classes": {"Q1281158": "flight maneuver"}}
+{"entity": [2439, 5, 6, "FAC"], "ent_text": "Baghdad Airport", "linked_title": "Baghdad International Airport", "ent_id": "Q304438", "classes": {"Q644371": "international airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [2460, 5, 6, "FAC"], "ent_text": "Wall Street", "linked_title": "Wall Street", "ent_id": "Q11690", "classes": {"Q79007": "street"}}
+{"entity": [2463, 3, 6, "FAC"], "ent_text": "the Long Beach Airport", "linked_title": "Long Beach Airport", "ent_id": "Q1431943", "classes": {"Q1248784": "airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [2509, 7, 8, "FAC"], "ent_text": "West Wing", "linked_title": "West Wing", "ent_id": "Q1932621", "classes": {"Q1021645": "office building", "Q1125776": "wing"}}
+{"entity": [2524, 2, 4, "FAC"], "ent_text": "that City Hall", "linked_title": "Orlando City Hall", "ent_id": "Q7103069", "classes": {"Q543654": "city hall"}}
+{"entity": [2597, 17, 18, "FAC"], "ent_text": "Wall Street", "linked_title": "Wall Street", "ent_id": "Q11690", "classes": {"Q79007": "street"}}
+{"entity": [2745, 16, 17, "FAC"], "ent_text": "Red Square", "linked_title": "Red Square", "ent_id": "Q41116", "classes": {"Q174782": "square", "Q570116": "tourist attraction"}}
+{"entity": [2781, 6, 8, "FAC"], "ent_text": "the White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [2848, 10, 12, "FAC"], "ent_text": "the White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [2864, 11, 13, "FAC"], "ent_text": "the White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [2864, 16, 16, "FAC"], "ent_text": "Pentagon", "linked_title": "The Pentagon", "ent_id": "Q11208", "classes": {"Q570116": "tourist attraction", "Q1021645": "office building", "Q7540126": "headquarters", "Q16831714": "government building"}}
+{"entity": [2864, 18, 20, "FAC"], "ent_text": "the State Department", "linked_title": "United States Department of State", "ent_id": "Q789915", "classes": {"Q910252": "United States federal executive department", "Q20901295": "foreign affairs ministry"}}
+{"entity": [2871, 17, 18, "FAC"], "ent_text": "Aden Harbor", "linked_title": "Aden", "ent_id": "Q131694", "classes": {"Q515": "city", "Q486972": "human settlement", "Q1549591": "big city"}}
+{"entity": [3125, 6, 9, "FAC"], "ent_text": "the Norfolk Naval station", "linked_title": "Naval Station Norfolk", "ent_id": "Q1627684", "classes": {"Q331367": "submarine base", "Q1324633": "naval base", "Q1745026": "naval arsenal"}}
+{"entity": [3155, 12, 14, "FAC"], "ent_text": "the Aden Harbor", "linked_title": "Aden", "ent_id": "Q131694", "classes": {"Q515": "city", "Q486972": "human settlement", "Q1549591": "big city"}}
+{"entity": [3169, 6, 8, "FAC"], "ent_text": "the United Nations", "linked_title": "United Nations", "ent_id": "Q1065", "classes": {"Q245065": "intergovernmental organization", "Q484652": "international organization", "Q1896989": "subject of international law"}}
+{"entity": [3177, 7, 9, "FAC"], "ent_text": "the United Nations", "linked_title": "United Nations", "ent_id": "Q1065", "classes": {"Q245065": "intergovernmental organization", "Q484652": "international organization", "Q1896989": "subject of international law"}}
+{"entity": [3204, 8, 9, "FAC"], "ent_text": "Khan Younus", "linked_title": "Khan Yunis Camp", "ent_id": "Q6400104", "classes": {"Q622499": "refugee camp"}}
+{"entity": [3214, 19, 19, "FAC"], "ent_text": "Juragua", "linked_title": "Juragua Nuclear Power Plant", "ent_id": "Q1520114", "classes": {"Q1570262": "unfinished building", "Q21514702": "abandoned project"}}
+{"entity": [3216, 4, 4, "FAC"], "ent_text": "Juragua", "linked_title": "Juragua Nuclear Power Plant", "ent_id": "Q1520114", "classes": {"Q1570262": "unfinished building", "Q21514702": "abandoned project"}}
+{"entity": [3217, 10, 10, "FAC"], "ent_text": "Chernobyl", "linked_title": "Chernobyl Nuclear Power Plant", "ent_id": "Q215419", "classes": {"Q134447": "nuclear power station"}}
+{"entity": [3251, 7, 9, "FAC"], "ent_text": "the White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [3255, 9, 11, "FAC"], "ent_text": "the White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [3256, 11, 12, "FAC"], "ent_text": "White House", "linked_title": "White House", "ent_id": "Q35525", "classes": {"Q43229": "organization", "Q327333": "government agency", "Q481289": "official residence", "Q570116": "tourist attraction", "Q1802963": "mansion", "Q52177058": "civic building"}}
+{"entity": [3714, 9, 10, "FAC"], "ent_text": "Tanshui Line", "linked_title": "Toei Shinjuku Line", "ent_id": "Q1374502", "classes": {"Q15079663": "rapid transit railway line"}}
+{"entity": [3715, 2, 4, "FAC"], "ent_text": "the Tanshui Line", "linked_title": "Tokyo Metro Chiyoda Line", "ent_id": "Q1075089", "classes": {"Q15079663": "rapid transit railway line"}}
+{"entity": [3739, 7, 9, "FAC"], "ent_text": "the MRT station", "linked_title": "Toa Payoh MRT station", "ent_id": "Q2672672", "classes": {"Q55488": "railway station", "Q22808403": "station located underground"}}
+{"entity": [3810, 7, 9, "FAC"], "ent_text": "Fort San Domingo", "linked_title": "Fort San Domingo", "ent_id": "Q713077", "classes": {"Q1785071": "fort", "Q63183471": "Q63183471"}}
+{"entity": [3810, 11, 13, "FAC"], "ent_text": "Yin Shan Temple", "linked_title": "Zhinan Temple", "ent_id": "Q699324", "classes": {"Q2680845": "Chinese temple"}}
+{"entity": [3810, 52, 54, "FAC"], "ent_text": "the Mackay Hospital", "linked_title": "Mackay Memorial Hospital", "ent_id": "Q6724292", "classes": {"Q16917": "hospital"}}
+{"entity": [3810, 56, 58, "FAC"], "ent_text": "Tamkang Middle School", "linked_title": "Sengkang Secondary School", "ent_id": "Q7450521", "classes": {"Q3914": "school"}}
+{"entity": [3811, 7, 9, "FAC"], "ent_text": "the Tanshui Line", "linked_title": "Taipei Metro", "ent_id": "Q714810", "classes": {"Q5503": "rapid transit", "Q62069696": "transport operator"}}
+{"entity": [3868, 20, 21, "FAC"], "ent_text": "Great Wall", "linked_title": "Great Wall of China", "ent_id": "Q12501", "classes": {"Q570116": "tourist attraction", "Q1784293": "cordon", "Q2973801": "fortified line"}}
+{"entity": [3883, 24, 26, "FAC"], "ent_text": "Sanshan King Temple", "linked_title": "Leshan Giant Buddha", "ent_id": "Q205131", "classes": {"Q839954": "archaeological site", "Q1051606": "Daibutsu"}}
+{"entity": [3908, 16, 19, "FAC"], "ent_text": "the 2nd Southern Freeway", "linked_title": "Southern Expressway (South Australia)", "ent_id": "Q691661", "classes": {"Q1304276": "arterial road"}}
+{"entity": [3914, 5, 7, "FAC"], "ent_text": "Provincial Highway 17", "linked_title": "Ontario Highway 17", "ent_id": "Q2024654", "classes": {"Q34442": "road"}}
+{"entity": [4353, 19, 20, "FAC"], "ent_text": "Arthur Avenue", "linked_title": "Arthur Avenue", "ent_id": "Q4797872", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [4359, 24, 25, "FAC"], "ent_text": "AnaMor Towers", "linked_title": "BSR Towers", "ent_id": "Q4836622", "classes": {"Q11303": "skyscraper"}}
+{"entity": [4360, 13, 15, "FAC"], "ent_text": "the AnaMor Towers", "linked_title": "A.S.P. Towers", "ent_id": "Q10857889", "classes": {"Q41176": "building"}}
+{"entity": [4413, 10, 11, "FAC"], "ent_text": "57th Street", "linked_title": "57th Street (Manhattan)", "ent_id": "Q2711129", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [4413, 13, 13, "FAC"], "ent_text": "Madison", "linked_title": "Madison Street (Manhattan)", "ent_id": "Q6728110", "classes": {"Q34442": "road"}}
+{"entity": [4413, 15, 16, "FAC"], "ent_text": "Fifth Avenue", "linked_title": "Fifth Avenue", "ent_id": "Q109858", "classes": {"Q7543083": "avenue"}}
+{"entity": [4429, 0, 0, "FAC"], "ent_text": "Madison", "linked_title": "Madison Avenue", "ent_id": "Q109849", "classes": {"Q79007": "street"}}
+{"entity": [4429, 2, 3, "FAC"], "ent_text": "Fifth Avenues", "linked_title": "Fifth Avenue", "ent_id": "Q109858", "classes": {"Q7543083": "avenue"}}
+{"entity": [4429, 5, 7, "FAC"], "ent_text": "East 57th Street", "linked_title": "57th Street (Manhattan)", "ent_id": "Q2711129", "classes": {"Q83620": "thoroughfare"}}
+{"entity": [4430, 2, 3, "FAC"], "ent_text": "34th Street", "linked_title": "34th Street (Manhattan)", "ent_id": "Q110049", "classes": {"Q79007": "street"}}
+{"entity": [4430, 25, 26, "FAC"], "ent_text": "Fifth Avenue", "linked_title": "Fifth Avenue", "ent_id": "Q109858", "classes": {"Q7543083": "avenue"}}
+{"entity": [4432, 6, 7, "FAC"], "ent_text": "Rodeo Drive", "linked_title": "Rodeo Drive", "ent_id": "Q1156726", "classes": {"Q34442": "road"}}
+{"entity": [4936, 24, 24, "FAC"], "ent_text": "Auschwitz", "linked_title": "Auschwitz concentration camp", "ent_id": "Q7341", "classes": {"Q33506": "museum", "Q153813": "extermination camp", "Q328468": "Nazi concentration camp"}}
+{"entity": [5018, 25, 25, "FAC"], "ent_text": "LaGuardia", "linked_title": "LaGuardia Airport", "ent_id": "Q319654", "classes": {"Q644371": "international airport", "Q1248784": "airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [5018, 27, 31, "FAC"], "ent_text": "John F. Kennedy International Airports", "linked_title": "John F. Kennedy International Airport", "ent_id": "Q8685", "classes": {"Q644371": "international airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [5018, 33, 35, "FAC"], "ent_text": "O'Hare International Airport", "linked_title": "O'Hare International Airport", "ent_id": "Q213717", "classes": {"Q644371": "international airport", "Q1248784": "airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [5018, 39, 40, "FAC"], "ent_text": "National Airport", "linked_title": "Ronald Reagan Washington National Airport", "ent_id": "Q676576", "classes": {"Q1248784": "airport", "Q94993988": "commercial traffic aerodrome"}}
+{"entity": [5461, 17, 20, "FAC"], "ent_text": "Lanhua Chemical Fertilizer Plant", "linked_title": "China Shenhua Energy", "ent_id": "Q1073509", "classes": {"Q4830453": "business"}}
+{"entity": [5465, 30, 31, "FAC"], "ent_text": "Zimbabwe Highway", "linked_title": "A8 road (Zimbabwe)", "ent_id": "Q25248016", "classes": {"Q34442": "road"}}
+{"entity": [5746, 22, 27, "FAC"], "ent_text": "the Great Hall Of the People", "linked_title": "Great Hall of the People", "ent_id": "Q72891", "classes": {"Q16831714": "government building"}}
+{"entity": [6826, 5, 6, "FAC"], "ent_text": "Bally 's", "linked_title": "Bally's Atlantic City", "ent_id": "Q4101403", "classes": {"Q27686": "hotel"}}
+{"entity": [7146, 14, 15, "FAC"], "ent_text": "Shape Headquarters", "linked_title": "Supreme Headquarters Allied Powers Europe", "ent_id": "Q1432908", "classes": {"Q131263": "barracks", "Q47272186": "headquarters"}}
+{"entity": [7147, 6, 7, "FAC"], "ent_text": "Shape Headquarters", "linked_title": "Supreme Headquarters Allied Powers Europe", "ent_id": "Q1432908", "classes": {"Q131263": "barracks", "Q47272186": "headquarters"}}
+{"entity": [7335, 13, 15, "FAC"], "ent_text": "the Airport Prison", "linked_title": "Riyan Airport prison in Yemen", "ent_id": "Q42417497", "classes": {"Q40357": "prison"}}
+{"entity": [7385, 12, 13, "FAC"], "ent_text": "Abu Ghraib", "linked_title": "Abu Ghraib", "ent_id": "Q335021", "classes": {"Q486972": "human settlement"}}
+{"entity": [7458, 13, 15, "FAC"], "ent_text": "the Airport Prison", "linked_title": "Riyan Airport prison in Yemen", "ent_id": "Q42417497", "classes": {"Q40357": "prison"}}
+{"entity": [7538, 55, 57, "FAC"], "ent_text": "the Karada bridge", "linked_title": "Al-Sarafiya Bridge", "ent_id": "Q310579", "classes": {"Q158218": "truss bridge", "Q537127": "road bridge", "Q12042110": "steel bridge"}}
+{"entity": [7582, 33, 37, "FAC"], "ent_text": "the Al - Udeid Base", "linked_title": "Al Udeid Air Base", "ent_id": "Q542588", "classes": {"Q695850": "airbase", "Q1248784": "airport"}}
+{"entity": [7876, 7, 7, "FAC"], "ent_text": "Neverland", "linked_title": "Neverland Ranch", "ent_id": "Q953021", "classes": {"Q22698": "park", "Q41176": "building", "Q12292478": "estate"}}
+{"entity": [7934, 5, 5, "FAC"], "ent_text": "Cedars", "linked_title": "Cedars, Dallas", "ent_id": "Q5056987", "classes": {"Q123705": "neighborhood", "Q163740": "nonprofit organization"}}
+{"entity": [7937, 5, 5, "FAC"], "ent_text": "Neverland", "linked_title": "Neverland", "ent_id": "Q1646867", "classes": {"Q1145276": "fictional country", "Q6619693": "fictional island"}}
+{"entity": [7937, 7, 7, "FAC"], "ent_text": "Disneyland", "linked_title": "Disneyland", "ent_id": "Q181185", "classes": {"Q2416723": "theme park"}}
+{"entity": [7957, 9, 9, "FAC"], "ent_text": "Cedars", "linked_title": "The Cedars (Jackson, Tennessee)", "ent_id": "Q55635102", "classes": {"Q3947": "house"}}
+{"entity": [7959, 1, 1, "FAC"], "ent_text": "Cedars", "linked_title": "Cedars, Dallas", "ent_id": "Q5056987", "classes": {"Q123705": "neighborhood", "Q163740": "nonprofit organization"}}
+{"entity": [7962, 13, 13, "FAC"], "ent_text": "Cedars", "linked_title": "The Cedars (Washington, Georgia)", "ent_id": "Q16977311", "classes": {"Q5773747": "historic house"}}
+{"entity": [7966, 8, 8, "FAC"], "ent_text": "Cedars", "linked_title": "Cedars of God", "ent_id": "Q60945", "classes": {"Q4421": "forest"}}
+{"entity": [7967, 8, 8, "FAC"], "ent_text": "Cedars", "linked_title": "Cedars, Dallas", "ent_id": "Q5056987", "classes": {"Q123705": "neighborhood", "Q163740": "nonprofit organization"}}
+{"entity": [8033, 0, 0, "FAC"], "ent_text": "Neverland", "linked_title": "Neverland", "ent_id": "Q1646867", "classes": {"Q1145276": "fictional country", "Q6619693": "fictional island"}}
+{"entity": [8107, 5, 5, "FAC"], "ent_text": "Cedars", "linked_title": "Cedars, Dallas", "ent_id": "Q5056987", "classes": {"Q123705": "neighborhood", "Q163740": "nonprofit organization"}}
+{"entity": [8120, 19, 19, "FAC"], "ent_text": "Pentagon", "linked_title": "The Pentagon", "ent_id": "Q11208", "classes": {"Q570116": "tourist attraction", "Q1021645": "office building", "Q7540126": "headquarters", "Q16831714": "government building"}}
+{"entity": [8124, 6, 8, "FAC"], "ent_text": "the U.S. Capitol", "linked_title": "United States Capitol", "ent_id": "Q54109", "classes": {"Q3284499": "capitol building"}}

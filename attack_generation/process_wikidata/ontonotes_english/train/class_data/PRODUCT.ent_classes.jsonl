@@ -1,0 +1,540 @@
+{"entity": [229, 9, 10, "PRODUCT"], "ent_text": "Lianhsing 94", "linked_title": "1994 in Taiwan", "ent_id": "Q10844111", "class_num": 1, "classes": {"Q18340514": "events in a specific year or time period"}}
+{"entity": [4940, 3, 4, "PRODUCT"], "ent_text": "Discovery Shuttle", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5116, 1, 1, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5264, 7, 7, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5267, 6, 6, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5344, 4, 4, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5350, 19, 19, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5352, 1, 1, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5352, 12, 12, "PRODUCT"], "ent_text": "Columbia", "linked_title": "Space Shuttle Columbia", "ent_id": "Q54383", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5370, 18, 18, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5373, 8, 8, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5381, 12, 12, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5387, 5, 5, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5387, 25, 25, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5405, 3, 3, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5410, 3, 3, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5432, 14, 14, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [5707, 32, 34, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [6459, 64, 64, "PRODUCT"], "ent_text": "Winstar", "linked_title": "WinStars", "ent_id": "Q3569381", "class_num": 1, "classes": {"Q7397": "software"}}
+{"entity": [7324, 6, 7, "PRODUCT"], "ent_text": "Jack Daniels", "linked_title": "Jack Daniels (politician)", "ent_id": "Q6112001", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [7723, 4, 4, "PRODUCT"], "ent_text": "Humvees", "linked_title": "Humvee", "ent_id": "Q217046", "class_num": 1, "classes": {"Q6546105": "Light Utility Vehicle"}}
+{"entity": [7724, 6, 6, "PRODUCT"], "ent_text": "Humvees", "linked_title": "Humvee", "ent_id": "Q217046", "class_num": 1, "classes": {"Q6546105": "Light Utility Vehicle"}}
+{"entity": [7729, 9, 9, "PRODUCT"], "ent_text": "Humvee", "linked_title": "Humvee", "ent_id": "Q217046", "class_num": 1, "classes": {"Q6546105": "Light Utility Vehicle"}}
+{"entity": [7803, 7, 7, "PRODUCT"], "ent_text": "AAV", "linked_title": "American Association of Variable Star Observers", "ent_id": "Q1205564", "class_num": 1, "classes": {"Q48204": "voluntary association"}}
+{"entity": [8071, 0, 0, "PRODUCT"], "ent_text": "Discovery", "linked_title": "Space Shuttle Discovery", "ent_id": "Q54384", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [8072, 11, 11, "PRODUCT"], "ent_text": "Columbia", "linked_title": "Space Shuttle Columbia", "ent_id": "Q54383", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [10551, 9, 9, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [10558, 13, 13, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [10571, 4, 7, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole", "ent_id": "Q2468932", "class_num": 1, "classes": {"Q4167410": "Wikimedia disambiguation page"}}
+{"entity": [10584, 6, 9, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10588, 16, 19, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10666, 7, 7, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cyrus W. Cole", "ent_id": "Q18124471", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [10696, 3, 7, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10699, 11, 15, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10714, 13, 13, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cyrus W. Cole", "ent_id": "Q18124471", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [10737, 25, 28, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10742, 27, 30, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10743, 43, 43, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cyrus W. Cole", "ent_id": "Q18124471", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [10784, 2, 2, "PRODUCT"], "ent_text": "PlayStation", "linked_title": "PlayStation", "ent_id": "Q1323662", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [10785, 16, 16, "PRODUCT"], "ent_text": "Atari", "linked_title": "Atari", "ent_id": "Q207922", "class_num": 2, "classes": {"Q431289": "brand", "Q6881511": "enterprise"}}
+{"entity": [10790, 0, 1, "PRODUCT"], "ent_text": "PlayStation 2", "linked_title": "PlayStation 2", "ent_id": "Q10680", "class_num": 1, "classes": {"Q10929058": "model"}}
+{"entity": [10791, 17, 18, "PRODUCT"], "ent_text": "PlayStation 2", "linked_title": "PlayStation 2", "ent_id": "Q10680", "class_num": 1, "classes": {"Q10929058": "model"}}
+{"entity": [10792, 0, 1, "PRODUCT"], "ent_text": "PlayStation 2", "linked_title": "PlayStation 2", "ent_id": "Q10680", "class_num": 1, "classes": {"Q10929058": "model"}}
+{"entity": [10794, 3, 4, "PRODUCT"], "ent_text": "PlayStation 2", "linked_title": "PlayStation 2", "ent_id": "Q10680", "class_num": 1, "classes": {"Q10929058": "model"}}
+{"entity": [10798, 11, 11, "PRODUCT"], "ent_text": "PlayStations", "linked_title": "PlayStation", "ent_id": "Q1323662", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [10801, 6, 7, "PRODUCT"], "ent_text": "XIC Box", "linked_title": "Loot box", "ent_id": "Q39086874", "class_num": 2, "classes": {"Q1969448": "term", "Q55070019": "video game feature"}}
+{"entity": [10806, 14, 14, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [10809, 11, 11, "PRODUCT"], "ent_text": "Cole", "linked_title": "David L. Cole", "ent_id": "Q15451666", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [10813, 11, 11, "PRODUCT"], "ent_text": "Tarawa", "linked_title": "Tarawa", "ent_id": "Q2486", "class_num": 1, "classes": {"Q23442": "island"}}
+{"entity": [11273, 1, 5, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11273, 22, 26, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11297, 8, 8, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11352, 2, 2, "PRODUCT"], "ent_text": "Jessica", "linked_title": "MV Jessica", "ent_id": "Q1688218", "class_num": 1, "classes": {"Q11446": "ship"}}
+{"entity": [11365, 15, 15, "PRODUCT"], "ent_text": "Mir", "linked_title": "Mir", "ent_id": "Q48604", "class_num": 1, "classes": {"Q25956": "space station"}}
+{"entity": [11569, 6, 6, "PRODUCT"], "ent_text": "Ru", "linked_title": "Ruthenium", "ent_id": "Q1086", "class_num": 1, "classes": {"Q11344": "chemical element"}}
+{"entity": [11598, 7, 11, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11601, 3, 7, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11638, 25, 28, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11641, 8, 8, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [11646, 7, 7, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11686, 13, 16, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11688, 25, 25, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [11689, 18, 18, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [11702, 9, 13, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11717, 9, 13, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [11720, 6, 10, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11722, 9, 9, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [11725, 20, 20, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11727, 26, 26, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [11730, 7, 7, "PRODUCT"], "ent_text": "Cole", "linked_title": "Jack A. Cole", "ent_id": "Q16204854", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [11820, 9, 13, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11821, 2, 2, "PRODUCT"], "ent_text": "Cole", "linked_title": "Christopher Cole (Royal Navy officer)", "ent_id": "Q5112126", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [11838, 16, 19, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [11840, 16, 19, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [11864, 17, 20, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11871, 16, 19, "PRODUCT"], "ent_text": "`` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11873, 10, 10, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11882, 16, 19, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11886, 0, 4, "PRODUCT"], "ent_text": "The `` USS Cole ''", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [11891, 20, 20, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11893, 7, 8, "PRODUCT"], "ent_text": "Achille Lauro", "linked_title": "MS Achille Lauro", "ent_id": "Q340233", "class_num": 2, "classes": {"Q39804": "cruise ship", "Q697196": "ocean liner"}}
+{"entity": [11921, 4, 5, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [11924, 14, 14, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [11947, 7, 10, "PRODUCT"], "ent_text": "`` USS Cole ''", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [11949, 15, 15, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [11950, 18, 21, "PRODUCT"], "ent_text": "`` the Blue Marlin", "linked_title": "The Blue Marlin", "ent_id": "Q7718794", "class_num": 1, "classes": {"Q7889": "video game"}}
+{"entity": [12005, 17, 17, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [12009, 16, 19, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12011, 16, 16, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12019, 12, 16, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12022, 15, 15, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12095, 19, 22, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [12108, 8, 12, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12113, 2, 2, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cole Motor Car Company", "ent_id": "Q1107983", "class_num": 2, "classes": {"Q786820": "automobile manufacturer", "Q4830453": "business"}}
+{"entity": [12141, 9, 9, "PRODUCT"], "ent_text": "Gatorade", "linked_title": "Gatorade", "ent_id": "Q304992", "class_num": 3, "classes": {"Q167270": "trademark", "Q431289": "brand", "Q4830453": "business"}}
+{"entity": [12142, 1, 1, "PRODUCT"], "ent_text": "Gatorade", "linked_title": "Gatorade", "ent_id": "Q304992", "class_num": 3, "classes": {"Q167270": "trademark", "Q431289": "brand", "Q4830453": "business"}}
+{"entity": [12142, 11, 12, "PRODUCT"], "ent_text": "Captain Crunch", "linked_title": "John Draper", "ent_id": "Q712546", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [12153, 14, 17, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12157, 15, 15, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12161, 2, 2, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cole (film)", "ent_id": "Q18673191", "class_num": 1, "classes": {"Q11424": "film"}}
+{"entity": [12190, 17, 21, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12288, 19, 23, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12370, 3, 3, "PRODUCT"], "ent_text": "Kleenex", "linked_title": "Kleenex", "ent_id": "Q1371867", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [12396, 7, 11, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12399, 7, 11, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12400, 1, 5, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12401, 14, 18, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12402, 8, 8, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cyrus W. Cole", "ent_id": "Q18124471", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [12403, 11, 11, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12407, 9, 13, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [12412, 17, 18, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12438, 11, 15, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [12441, 2, 2, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [12528, 10, 10, "PRODUCT"], "ent_text": "Jessica", "linked_title": "MV Jessica", "ent_id": "Q1688218", "class_num": 1, "classes": {"Q11446": "ship"}}
+{"entity": [12578, 6, 7, "PRODUCT"], "ent_text": "the hearse", "linked_title": "Hearse", "ent_id": "Q855743", "class_num": 1, "classes": {"Q580939": "commercial vehicle"}}
+{"entity": [12587, 12, 15, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [12718, 1, 1, "PRODUCT"], "ent_text": "AKs", "linked_title": "Ak\u00e7e", "ent_id": "Q424754", "class_num": 1, "classes": {"Q8142": "currency"}}
+{"entity": [12731, 2, 2, "PRODUCT"], "ent_text": "Soyuz", "linked_title": "Soyuz (spacecraft)", "ent_id": "Q579421", "class_num": 1, "classes": {"Q40218": "spacecraft"}}
+{"entity": [12732, 16, 16, "PRODUCT"], "ent_text": "Columbia", "linked_title": "Space Shuttle Columbia", "ent_id": "Q54383", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [12736, 1, 1, "PRODUCT"], "ent_text": "Soyuz", "linked_title": "Soyuz (spacecraft)", "ent_id": "Q579421", "class_num": 1, "classes": {"Q40218": "spacecraft"}}
+{"entity": [12765, 5, 10, "PRODUCT"], "ent_text": "the `` USS Harry S. Truman", "linked_title": "USS Harry S. Truman", "ent_id": "Q748913", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [12767, 2, 2, "PRODUCT"], "ent_text": "Truman", "linked_title": "USS Harry S. Truman", "ent_id": "Q748913", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [12826, 3, 3, "PRODUCT"], "ent_text": "Bellmore", "linked_title": "Bellmore station", "ent_id": "Q4884078", "class_num": 1, "classes": {"Q55488": "railway station"}}
+{"entity": [13087, 4, 6, "PRODUCT"], "ent_text": "M1 - A1", "linked_title": "M1 Abrams", "ent_id": "Q173684", "class_num": 1, "classes": {"Q37761255": "tank family"}}
+{"entity": [13271, 24, 26, "PRODUCT"], "ent_text": "M1 - A1", "linked_title": "M1 Abrams", "ent_id": "Q173684", "class_num": 1, "classes": {"Q37761255": "tank family"}}
+{"entity": [13275, 39, 39, "PRODUCT"], "ent_text": "JDAM", "linked_title": "Joint Direct Attack Munition", "ent_id": "Q903190", "class_num": 1, "classes": {"Q1137468": "aerial bomb"}}
+{"entity": [13304, 6, 7, "PRODUCT"], "ent_text": "M1 Abrams", "linked_title": "M1 Abrams", "ent_id": "Q173684", "class_num": 1, "classes": {"Q37761255": "tank family"}}
+{"entity": [13308, 5, 7, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13317, 7, 9, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13318, 6, 9, "PRODUCT"], "ent_text": "the Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13320, 13, 15, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13329, 5, 7, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13333, 10, 12, "PRODUCT"], "ent_text": "the M Bradley", "linked_title": "M2 Bradley", "ent_id": "Q473430", "class_num": 2, "classes": {"Q130368": "armored fighting vehicle", "Q202825": "infantry fighting vehicle"}}
+{"entity": [13335, 16, 16, "PRODUCT"], "ent_text": "Bradley", "linked_title": "Bradley Fighting Vehicle", "ent_id": "Q20030127", "class_num": 1, "classes": {"Q130368": "armored fighting vehicle"}}
+{"entity": [13338, 12, 14, "PRODUCT"], "ent_text": "A - s", "linked_title": "A-wing", "ent_id": "Q19885", "class_num": 1, "classes": {"Q15831596": "class of fictional entities"}}
+{"entity": [13338, 16, 16, "PRODUCT"], "ent_text": "Predators", "linked_title": "General Atomics MQ-1 Predator", "ent_id": "Q198024", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [13338, 18, 20, "PRODUCT"], "ent_text": "U - s", "linked_title": "United States", "ent_id": "Q30", "class_num": 7, "classes": {"Q6256": "country", "Q43702": "federation", "Q1489259": "superpower", "Q1520223": "constitutional republic", "Q3624078": "sovereign state", "Q5255892": "democratic republic", "Q99541706": "historical unrecognized state"}}
+{"entity": [13353, 11, 13, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13368, 14, 16, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [13423, 6, 7, "PRODUCT"], "ent_text": "USA Warthog", "linked_title": "Northrop Grumman", "ent_id": "Q329953", "class_num": 4, "classes": {"Q936518": "aerospace manufacturer", "Q1934969": "defense contractor", "Q4830453": "business", "Q6881511": "enterprise"}}
+{"entity": [13426, 7, 7, "PRODUCT"], "ent_text": "Warthog", "linked_title": "Common warthog", "ent_id": "Q183255", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [13432, 10, 10, "PRODUCT"], "ent_text": "Warthog", "linked_title": "Warthog Games", "ent_id": "Q3566461", "class_num": 2, "classes": {"Q210167": "video game developer", "Q4830453": "business"}}
+{"entity": [13452, 0, 2, "PRODUCT"], "ent_text": "Another A Warthog", "linked_title": "Cape warthog", "ent_id": "Q13560082", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [13461, 9, 13, "PRODUCT"], "ent_text": "the F E Strike Eagle", "linked_title": "McDonnell Douglas F-15E Strike Eagle", "ent_id": "Q844500", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [13511, 10, 10, "PRODUCT"], "ent_text": "Apache", "linked_title": "AgustaWestland Apache", "ent_id": "Q927610", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [13620, 0, 0, "PRODUCT"], "ent_text": "Lara", "linked_title": "Lara Croft", "ent_id": "Q223684", "class_num": 3, "classes": {"Q1569167": "video game character", "Q15632617": "fictional human", "Q66808903": "adventure film character"}}
+{"entity": [13629, 18, 20, "PRODUCT"], "ent_text": "the Achille Lauro", "linked_title": "MS Achille Lauro", "ent_id": "Q340233", "class_num": 2, "classes": {"Q39804": "cruise ship", "Q697196": "ocean liner"}}
+{"entity": [13862, 4, 7, "PRODUCT"], "ent_text": "Legend of the Sea", "linked_title": "Navigator of the Seas", "ent_id": "Q780076", "class_num": 1, "classes": {"Q39804": "cruise ship"}}
+{"entity": [13933, 0, 4, "PRODUCT"], "ent_text": "The `` USS Abraham Lincoln", "linked_title": "USS Abraham Lincoln (CVN-72)", "ent_id": "Q587557", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14069, 33, 38, "PRODUCT"], "ent_text": "the `` USS Abraham Lincoln ''", "linked_title": "Abraham Lincoln", "ent_id": "Q91", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [14103, 9, 14, "PRODUCT"], "ent_text": "the `` USS Abraham Lincoln ''", "linked_title": "USS Abraham Lincoln (CVN-72)", "ent_id": "Q587557", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14104, 11, 16, "PRODUCT"], "ent_text": "the `` USS Abraham Lincoln ''", "linked_title": "USS Abraham Lincoln (CVN-72)", "ent_id": "Q587557", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14117, 0, 0, "PRODUCT"], "ent_text": "Bowflex", "linked_title": "Bowflex", "ent_id": "Q4950971", "class_num": 1, "classes": {"Q484847": "e-commerce"}}
+{"entity": [14118, 3, 3, "PRODUCT"], "ent_text": "Bowflex", "linked_title": "Bowflex", "ent_id": "Q4950971", "class_num": 1, "classes": {"Q484847": "e-commerce"}}
+{"entity": [14125, 13, 13, "PRODUCT"], "ent_text": "Bowflex", "linked_title": "Bowflex", "ent_id": "Q4950971", "class_num": 1, "classes": {"Q484847": "e-commerce"}}
+{"entity": [14352, 17, 17, "PRODUCT"], "ent_text": "AKs", "linked_title": "AK-47", "ent_id": "Q37116", "class_num": 1, "classes": {"Q15142894": "weapon model"}}
+{"entity": [14352, 42, 42, "PRODUCT"], "ent_text": "AVs", "linked_title": "Avro", "ent_id": "Q249190", "class_num": 2, "classes": {"Q891723": "public company", "Q936518": "aerospace manufacturer"}}
+{"entity": [14663, 3, 8, "PRODUCT"], "ent_text": "the `` USS John C. Stennis", "linked_title": "USS John C. Stennis", "ent_id": "Q239309", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14665, 11, 11, "PRODUCT"], "ent_text": "Stennis", "linked_title": "USS John C. Stennis", "ent_id": "Q239309", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14677, 2, 3, "PRODUCT"], "ent_text": "F aircraft", "linked_title": "Aircraft", "ent_id": "Q11436", "class_num": 1, "classes": {"Q334166": "mode of transport"}}
+{"entity": [14677, 10, 10, "PRODUCT"], "ent_text": "Fs", "linked_title": "FS Air Service", "ent_id": "Q5427166", "class_num": 1, "classes": {"Q46970": "airline"}}
+{"entity": [14677, 12, 15, "PRODUCT"], "ent_text": "Joint Direct Attack Munitions", "linked_title": "Joint Direct Attack Munition", "ent_id": "Q903190", "class_num": 1, "classes": {"Q1137468": "aerial bomb"}}
+{"entity": [14677, 17, 19, "PRODUCT"], "ent_text": "J - DAM", "linked_title": "Joint Direct Attack Munition", "ent_id": "Q903190", "class_num": 1, "classes": {"Q1137468": "aerial bomb"}}
+{"entity": [14694, 1, 6, "PRODUCT"], "ent_text": "the `` John C. Stennis ''", "linked_title": "USS John C. Stennis", "ent_id": "Q239309", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14710, 6, 9, "PRODUCT"], "ent_text": "the `` USS Stennis", "linked_title": "USS John C. Stennis", "ent_id": "Q239309", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14720, 32, 38, "PRODUCT"], "ent_text": "the `` USS John C. Stennis ''", "linked_title": "USS John C. Stennis", "ent_id": "Q239309", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14725, 9, 10, "PRODUCT"], "ent_text": "Flight 587", "linked_title": "American Airlines Flight 587", "ent_id": "Q384845", "class_num": 1, "classes": {"Q744913": "aviation accident"}}
+{"entity": [14727, 5, 6, "PRODUCT"], "ent_text": "Flight 903", "linked_title": "TWA Flight 903", "ent_id": "Q4115786", "class_num": 1, "classes": {"Q744913": "aviation accident"}}
+{"entity": [14838, 18, 18, "PRODUCT"], "ent_text": "Netscape", "linked_title": "Netscape", "ent_id": "Q210057", "class_num": 2, "classes": {"Q167270": "trademark", "Q6881511": "enterprise"}}
+{"entity": [14871, 46, 46, "PRODUCT"], "ent_text": "Constellation", "linked_title": "USS Constellation (CV-64)", "ent_id": "Q1369039", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14876, 2, 6, "PRODUCT"], "ent_text": "the `` USS Constellation ''", "linked_title": "USS Constellation (CV-64)", "ent_id": "Q1369039", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14882, 8, 12, "PRODUCT"], "ent_text": "the `` USS Constellation ''", "linked_title": "USS Constellation (CV-64)", "ent_id": "Q1369039", "class_num": 1, "classes": {"Q1186981": "supercarrier"}}
+{"entity": [14944, 0, 1, "PRODUCT"], "ent_text": "Mars Express", "linked_title": "Mars Express", "ent_id": "Q205672", "class_num": 1, "classes": {"Q26529": "space probe"}}
+{"entity": [14948, 0, 2, "PRODUCT"], "ent_text": "The Mars Express", "linked_title": "Mars Express", "ent_id": "Q205672", "class_num": 1, "classes": {"Q26529": "space probe"}}
+{"entity": [14949, 3, 4, "PRODUCT"], "ent_text": "Mars Express", "linked_title": "Mars Express", "ent_id": "Q205672", "class_num": 1, "classes": {"Q26529": "space probe"}}
+{"entity": [14962, 11, 14, "PRODUCT"], "ent_text": "the Mars Polar Lander", "linked_title": "Mars Polar Lander", "ent_id": "Q575922", "class_num": 3, "classes": {"Q763288": "lander", "Q1378139": "robotic spacecraft", "Q2133344": "space mission"}}
+{"entity": [15211, 3, 3, "PRODUCT"], "ent_text": "Apache", "linked_title": "AgustaWestland Apache", "ent_id": "Q927610", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [15233, 14, 17, "PRODUCT"], "ent_text": "the Mars Global Surveyer", "linked_title": "Mars Global Surveyor", "ent_id": "Q206300", "class_num": 1, "classes": {"Q26529": "space probe"}}
+{"entity": [15247, 3, 6, "PRODUCT"], "ent_text": "the Mars Polar Lander", "linked_title": "Mars Polar Lander", "ent_id": "Q575922", "class_num": 3, "classes": {"Q763288": "lander", "Q1378139": "robotic spacecraft", "Q2133344": "space mission"}}
+{"entity": [15411, 14, 17, "PRODUCT"], "ent_text": "Radiance of the Seas", "linked_title": "Radiance of the Seas", "ent_id": "Q2125712", "class_num": 1, "classes": {"Q39804": "cruise ship"}}
+{"entity": [15986, 0, 2, "PRODUCT"], "ent_text": "Air Force One", "linked_title": "Air Force One", "ent_id": "Q179969", "class_num": 1, "classes": {"Q741701": "airline code"}}
+{"entity": [16036, 9, 11, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16039, 3, 3, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16043, 47, 47, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16046, 12, 12, "PRODUCT"], "ent_text": "Cole", "linked_title": "W. Sterling Cole", "ent_id": "Q1922633", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16047, 31, 31, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16049, 12, 12, "PRODUCT"], "ent_text": "Cole", "linked_title": "David L. Cole", "ent_id": "Q15451666", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16053, 5, 7, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [16055, 8, 8, "PRODUCT"], "ent_text": "Cole", "linked_title": "List of The Transformers (TV series) characters", "ent_id": "Q3900420", "class_num": 1, "classes": {"Q13406463": "Wikimedia list article"}}
+{"entity": [16055, 18, 19, "PRODUCT"], "ent_text": "Blue Marlin", "linked_title": "MV Blue Marlin", "ent_id": "Q885761", "class_num": 1, "classes": {"Q1151009": "heavy lift ship"}}
+{"entity": [16056, 5, 5, "PRODUCT"], "ent_text": "Marlin", "linked_title": "Marlin", "ent_id": "Q30961", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [16057, 3, 3, "PRODUCT"], "ent_text": "Cole", "linked_title": "Christopher Cole (Royal Navy officer)", "ent_id": "Q5112126", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16057, 11, 11, "PRODUCT"], "ent_text": "Marlin", "linked_title": "Marlin", "ent_id": "Q30961", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [16058, 1, 1, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [16060, 30, 30, "PRODUCT"], "ent_text": "Cole", "linked_title": "Tiffany Cole", "ent_id": "Q7801205", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16062, 6, 8, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16065, 6, 6, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [16068, 11, 11, "PRODUCT"], "ent_text": "Cole", "linked_title": "J. Cole", "ent_id": "Q204018", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16069, 4, 4, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16070, 21, 21, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16146, 28, 29, "PRODUCT"], "ent_text": "Happy Meal", "linked_title": "Happy Meal", "ent_id": "Q1321593", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [16199, 36, 36, "PRODUCT"], "ent_text": "Cole", "linked_title": "Christopher Cole (Royal Navy officer)", "ent_id": "Q5112126", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16293, 14, 14, "PRODUCT"], "ent_text": "Explorers", "linked_title": "Ford Explorer", "ent_id": "Q598084", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [16638, 6, 10, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16641, 9, 13, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16647, 5, 5, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [16649, 13, 13, "PRODUCT"], "ent_text": "Cole", "linked_title": "List of fictional ships", "ent_id": "Q3243348", "class_num": 1, "classes": {"Q13406463": "Wikimedia list article"}}
+{"entity": [16665, 3, 3, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [16726, 24, 27, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16728, 23, 23, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cole, Denver", "ent_id": "Q5142608", "class_num": 1, "classes": {"Q123705": "neighborhood"}}
+{"entity": [16735, 11, 14, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16736, 34, 34, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16742, 25, 25, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16744, 6, 6, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [16746, 11, 11, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16751, 16, 20, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16755, 7, 7, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [16761, 12, 12, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [16809, 25, 29, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16810, 24, 24, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16813, 11, 11, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [16815, 11, 11, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [16818, 15, 15, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [16829, 27, 27, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [16833, 10, 13, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16836, 17, 20, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16865, 10, 13, "PRODUCT"], "ent_text": "the `` USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16868, 26, 30, "PRODUCT"], "ent_text": "the `` USS Cole ''", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [16871, 43, 43, "PRODUCT"], "ent_text": "Cole", "linked_title": "J. Cole", "ent_id": "Q204018", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [16971, 15, 15, "PRODUCT"], "ent_text": "Razor", "linked_title": "Razor", "ent_id": "Q13422881", "class_num": 1, "classes": {"Q39546": "tool"}}
+{"entity": [17058, 5, 5, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17060, 4, 4, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17063, 4, 4, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17064, 25, 25, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17086, 6, 6, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk", "ent_id": "Q3159", "class_num": 1, "classes": {"Q7930989": "city/town"}}
+{"entity": [17087, 29, 29, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17088, 5, 5, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk", "ent_id": "Q3159", "class_num": 1, "classes": {"Q7930989": "city/town"}}
+{"entity": [17092, 7, 7, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17101, 7, 7, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Russian submarine Kursk (K-141)", "ent_id": "Q217463", "class_num": 1, "classes": {"Q2001879": "cruise missile submarine"}}
+{"entity": [17254, 9, 10, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17262, 1, 1, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17263, 11, 11, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [17265, 33, 33, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17296, 10, 12, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17345, 11, 13, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17346, 20, 20, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17348, 4, 4, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17348, 24, 24, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [17407, 10, 10, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17409, 21, 21, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17410, 10, 10, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17415, 19, 19, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17416, 1, 1, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17422, 15, 15, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17425, 11, 11, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17429, 6, 6, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17438, 2, 2, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17439, 7, 7, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17440, 35, 35, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17445, 19, 19, "PRODUCT"], "ent_text": "Enigma", "linked_title": "Enigma machine", "ent_id": "Q150758", "class_num": 1, "classes": {"Q1751757": "rotor machine"}}
+{"entity": [17452, 25, 27, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17465, 8, 10, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17471, 34, 34, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [17477, 19, 19, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17501, 10, 12, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [17580, 25, 25, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17590, 35, 35, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Russian submarine Kursk (K-141)", "ent_id": "Q217463", "class_num": 1, "classes": {"Q2001879": "cruise missile submarine"}}
+{"entity": [17603, 17, 17, "PRODUCT"], "ent_text": "kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17614, 23, 23, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [17703, 3, 3, "PRODUCT"], "ent_text": "747", "linked_title": "Boeing 747", "ent_id": "Q179", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [17704, 0, 1, "PRODUCT"], "ent_text": "Flight SQ006", "linked_title": "Singapore Airlines Flight 006", "ent_id": "Q478172", "class_num": 1, "classes": {"Q744913": "aviation accident"}}
+{"entity": [17867, 19, 19, "PRODUCT"], "ent_text": "McAlu", "linked_title": "Hulu", "ent_id": "Q1630304", "class_num": 3, "classes": {"Q35127": "website", "Q15265344": "broadcaster", "Q59152282": "video streaming service"}}
+{"entity": [17957, 9, 9, "PRODUCT"], "ent_text": "Walkman", "linked_title": "Walkman", "ent_id": "Q622493", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [17993, 32, 32, "PRODUCT"], "ent_text": "Coke", "linked_title": "Coca-Cola", "ent_id": "Q2813", "class_num": 3, "classes": {"Q147538": "soft drink", "Q431289": "brand", "Q1485500": "tangible good"}}
+{"entity": [18220, 9, 9, "PRODUCT"], "ent_text": "Guinness", "linked_title": "Guinness", "ent_id": "Q194297", "class_num": 4, "classes": {"Q44": "beer", "Q167270": "trademark", "Q4830453": "business", "Q15075508": "beer brand"}}
+{"entity": [18524, 12, 12, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [18527, 10, 10, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk", "ent_id": "Q3159", "class_num": 1, "classes": {"Q7930989": "city/town"}}
+{"entity": [18555, 7, 7, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Russian submarine Kursk (K-141)", "ent_id": "Q217463", "class_num": 1, "classes": {"Q2001879": "cruise missile submarine"}}
+{"entity": [18557, 1, 1, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk", "ent_id": "Q3159", "class_num": 1, "classes": {"Q7930989": "city/town"}}
+{"entity": [18610, 14, 14, "PRODUCT"], "ent_text": "Jessica", "linked_title": "MV Jessica", "ent_id": "Q1688218", "class_num": 1, "classes": {"Q11446": "ship"}}
+{"entity": [18799, 4, 5, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [18801, 19, 19, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [18829, 8, 9, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [18842, 12, 14, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [18877, 20, 21, "PRODUCT"], "ent_text": "USS Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [18880, 27, 27, "PRODUCT"], "ent_text": "Cole", "linked_title": "Cole (name)", "ent_id": "Q1128028", "class_num": 1, "classes": {"Q101352": "family name"}}
+{"entity": [18883, 29, 29, "PRODUCT"], "ent_text": "Cole", "linked_title": "Christopher Cole (Royal Navy officer)", "ent_id": "Q5112126", "class_num": 1, "classes": {"Q5": "human"}}
+{"entity": [18893, 5, 7, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [18903, 8, 8, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [18904, 9, 9, "PRODUCT"], "ent_text": "Cole", "linked_title": "C\u00f4le", "ent_id": "Q1150904", "class_num": 1, "classes": {"Q4022": "river"}}
+{"entity": [18905, 10, 10, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [18957, 22, 24, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19013, 60, 60, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [19027, 34, 34, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [19029, 19, 19, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Russian submarine Kursk (K-141)", "ent_id": "Q217463", "class_num": 1, "classes": {"Q2001879": "cruise missile submarine"}}
+{"entity": [19031, 11, 11, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [19032, 5, 5, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19076, 23, 23, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19076, 38, 38, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19081, 23, 23, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19089, 18, 18, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19090, 3, 3, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19123, 17, 19, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19223, 19, 21, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19224, 4, 4, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19623, 5, 5, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19656, 4, 4, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19661, 7, 7, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19662, 19, 19, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19830, 42, 42, "PRODUCT"], "ent_text": "Kursk", "linked_title": "Kursk submarine disaster", "ent_id": "Q1136114", "class_num": 1, "classes": {"Q906512": "shipwrecking"}}
+{"entity": [19841, 17, 17, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19842, 0, 0, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19882, 16, 18, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19895, 22, 22, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [19898, 17, 19, "PRODUCT"], "ent_text": "the USS Cole", "linked_title": "USS Cole bombing", "ent_id": "Q612086", "class_num": 1, "classes": {"Q18493502": "suicide bombing"}}
+{"entity": [19905, 18, 21, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [19938, 11, 14, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [19997, 17, 19, "PRODUCT"], "ent_text": "Pan Am 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [20061, 21, 21, "PRODUCT"], "ent_text": "Cole", "linked_title": "USS Cole (DDG-67)", "ent_id": "Q848987", "class_num": 1, "classes": {"Q2607934": "guided missile destroyer"}}
+{"entity": [20125, 21, 24, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [20138, 19, 22, "PRODUCT"], "ent_text": "Pan Am Flight 103", "linked_title": "Pan Am Flight 103", "ent_id": "Q211087", "class_num": 3, "classes": {"Q744913": "aviation accident", "Q2223653": "terrorist attack", "Q19354904": "airliner bombing"}}
+{"entity": [21386, 8, 12, "PRODUCT"], "ent_text": "Ching - kuo fighter planes", "linked_title": "AIDC F-CK-1 Ching-kuo", "ent_id": "Q293513", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [21423, 21, 22, "PRODUCT"], "ent_text": "Sukhoi aircraft", "linked_title": "Sukhoi", "ent_id": "Q193007", "class_num": 1, "classes": {"Q936518": "aerospace manufacturer"}}
+{"entity": [21462, 4, 6, "PRODUCT"], "ent_text": "Hsiung Feng missiles", "linked_title": "Hsiung Feng III", "ent_id": "Q4448531", "class_num": 1, "classes": {"Q18487055": "missile model"}}
+{"entity": [21477, 9, 11, "PRODUCT"], "ent_text": "F - 16", "linked_title": "General Dynamics F-16 Fighting Falcon", "ent_id": "Q100026", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [22523, 10, 10, "PRODUCT"], "ent_text": "Toyota", "linked_title": "Toyota", "ent_id": "Q53268", "class_num": 1, "classes": {"Q786820": "automobile manufacturer"}}
+{"entity": [22608, 5, 5, "PRODUCT"], "ent_text": "Camrys", "linked_title": "Toyota Camry", "ent_id": "Q500035", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [22977, 28, 28, "PRODUCT"], "ent_text": "Sprite", "linked_title": "Sprite (drink)", "ent_id": "Q206978", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [23731, 9, 9, "PRODUCT"], "ent_text": "Excel", "linked_title": "Microsoft Excel", "ent_id": "Q11272", "class_num": 2, "classes": {"Q183197": "spreadsheet", "Q218616": "proprietary software"}}
+{"entity": [24149, 18, 18, "PRODUCT"], "ent_text": "Mosaic", "linked_title": "Mosaic (web browser)", "ent_id": "Q381047", "class_num": 3, "classes": {"Q6368": "web browser", "Q218616": "proprietary software", "Q56273712": "source-available software"}}
+{"entity": [24160, 12, 12, "PRODUCT"], "ent_text": "IQ97", "linked_title": "Toyota iQ", "ent_id": "Q370674", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [24160, 15, 15, "PRODUCT"], "ent_text": "Quest", "linked_title": "Quest Software", "ent_id": "Q282501", "class_num": 1, "classes": {"Q4830453": "business"}}
+{"entity": [24162, 5, 5, "PRODUCT"], "ent_text": "IQ97", "linked_title": "Intelligence quotient", "ent_id": "Q170277", "class_num": 1, "classes": {"Q12453": "measurement"}}
+{"entity": [24164, 1, 1, "PRODUCT"], "ent_text": "IQ97", "linked_title": "Intelligence quotient", "ent_id": "Q170277", "class_num": 1, "classes": {"Q12453": "measurement"}}
+{"entity": [24166, 4, 4, "PRODUCT"], "ent_text": "CICQ", "linked_title": "Tencent QQ", "ent_id": "Q857640", "class_num": 3, "classes": {"Q35127": "website", "Q2462003": "instant messaging client", "Q3220391": "social networking service"}}
+{"entity": [24255, 9, 9, "PRODUCT"], "ent_text": "Windows", "linked_title": "Microsoft Windows", "ent_id": "Q1406", "class_num": 2, "classes": {"Q9135": "operating system", "Q218616": "proprietary software"}}
+{"entity": [24298, 31, 32, "PRODUCT"], "ent_text": "Power DVD", "linked_title": "PowerDVD", "ent_id": "Q967570", "class_num": 2, "classes": {"Q210337": "media player", "Q218616": "proprietary software"}}
+{"entity": [24298, 34, 35, "PRODUCT"], "ent_text": "Talking Show", "linked_title": "Talk show", "ent_id": "Q622812", "class_num": 2, "classes": {"Q15961983": "radio genre", "Q15961987": "television genre"}}
+{"entity": [24407, 7, 7, "PRODUCT"], "ent_text": "Aibo", "linked_title": "AIBO", "ent_id": "Q403438", "class_num": 2, "classes": {"Q11012": "robot", "Q40301424": "robotic dog"}}
+{"entity": [24411, 18, 19, "PRODUCT"], "ent_text": "Talking Show", "linked_title": "Talk show", "ent_id": "Q622812", "class_num": 2, "classes": {"Q15961983": "radio genre", "Q15961987": "television genre"}}
+{"entity": [26128, 24, 24, "PRODUCT"], "ent_text": "Excel", "linked_title": "Microsoft Excel", "ent_id": "Q11272", "class_num": 2, "classes": {"Q183197": "spreadsheet", "Q218616": "proprietary software"}}
+{"entity": [26230, 7, 7, "PRODUCT"], "ent_text": "Tetris", "linked_title": "Tetris", "ent_id": "Q71910", "class_num": 2, "classes": {"Q7889": "video game", "Q21055677": "NP-complete game"}}
+{"entity": [26826, 10, 12, "PRODUCT"], "ent_text": "Wenshan Pouchong tea", "linked_title": "Baozhong tea", "ent_id": "Q2106693", "class_num": 1, "classes": {"Q231587": "oolong"}}
+{"entity": [26857, 8, 8, "PRODUCT"], "ent_text": "Chevy", "linked_title": "Chevrolet", "ent_id": "Q29570", "class_num": 1, "classes": {"Q17412622": "car brand"}}
+{"entity": [27356, 0, 2, "PRODUCT"], "ent_text": "The USS Lexington", "linked_title": "USS Lexington (CV-16)", "ent_id": "Q1423093", "class_num": 2, "classes": {"Q17205": "aircraft carrier", "Q2772772": "military museum"}}
+{"entity": [27400, 19, 19, "PRODUCT"], "ent_text": "Metamucil", "linked_title": "Metamizole", "ent_id": "Q422761", "class_num": 2, "classes": {"Q11173": "chemical compound", "Q12140": "medication"}}
+{"entity": [27400, 36, 36, "PRODUCT"], "ent_text": "Fiberall", "linked_title": "Fiber", "ent_id": "Q161", "class_num": 1, "classes": {"Q19361238": "Wikidata metaclass"}}
+{"entity": [27404, 12, 12, "PRODUCT"], "ent_text": "Metamucil", "linked_title": "Metamizole", "ent_id": "Q422761", "class_num": 2, "classes": {"Q11173": "chemical compound", "Q12140": "medication"}}
+{"entity": [27405, 12, 12, "PRODUCT"], "ent_text": "Metamucil", "linked_title": "Metamizole", "ent_id": "Q422761", "class_num": 2, "classes": {"Q11173": "chemical compound", "Q12140": "medication"}}
+{"entity": [27414, 13, 13, "PRODUCT"], "ent_text": "Metamucil", "linked_title": "Mucin", "ent_id": "Q410862", "class_num": 1, "classes": {"Q187126": "glycoprotein"}}
+{"entity": [27488, 13, 14, "PRODUCT"], "ent_text": "Cover Girl", "linked_title": "CoverGirl", "ent_id": "Q1629990", "class_num": 2, "classes": {"Q431289": "brand", "Q4830453": "business"}}
+{"entity": [27488, 16, 16, "PRODUCT"], "ent_text": "Clarion", "linked_title": "Clarion (company)", "ent_id": "Q548711", "class_num": 2, "classes": {"Q6881511": "enterprise", "Q42855995": "manufacturing company"}}
+{"entity": [27490, 15, 15, "PRODUCT"], "ent_text": "Tide", "linked_title": "Tide (brand)", "ent_id": "Q2024644", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [27504, 1, 3, "PRODUCT"], "ent_text": "Oil of Olay", "linked_title": "Olay", "ent_id": "Q1246901", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [27506, 1, 3, "PRODUCT"], "ent_text": "Oil of Olay", "linked_title": "Olay", "ent_id": "Q1246901", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [27508, 3, 6, "PRODUCT"], "ent_text": "Oil of Olay 's", "linked_title": "Olay", "ent_id": "Q1246901", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [27512, 11, 11, "PRODUCT"], "ent_text": "Navy", "linked_title": "Navy (perfume)", "ent_id": "Q17125388", "class_num": 1, "classes": {"Q131746": "perfume"}}
+{"entity": [27530, 3, 3, "PRODUCT"], "ent_text": "Tide", "linked_title": "Tide (brand)", "ent_id": "Q2024644", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [27539, 4, 4, "PRODUCT"], "ent_text": "Aziza", "linked_title": "Aziz", "ent_id": "Q7311793", "class_num": 2, "classes": {"Q624240": "Arabic name", "Q12308941": "male given name"}}
+{"entity": [28339, 16, 18, "PRODUCT"], "ent_text": "AK - 47", "linked_title": "AK-47", "ent_id": "Q37116", "class_num": 1, "classes": {"Q15142894": "weapon model"}}
+{"entity": [28517, 4, 4, "PRODUCT"], "ent_text": "Escudome", "linked_title": "Suzuki CS", "ent_id": "Q7651214", "class_num": 1, "classes": {"Q10929058": "model"}}
+{"entity": [28523, 18, 19, "PRODUCT"], "ent_text": "Lada Niva", "linked_title": "Lada Niva", "ent_id": "Q650591", "class_num": 2, "classes": {"Q946596": "off-road vehicle", "Q3231690": "automobile model"}}
+{"entity": [28531, 13, 13, "PRODUCT"], "ent_text": "Q45", "linked_title": "Infiniti Q45", "ent_id": "Q1662409", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28531, 20, 20, "PRODUCT"], "ent_text": "Celica", "linked_title": "Toyota Celica", "ent_id": "Q334040", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [28538, 14, 15, "PRODUCT"], "ent_text": "Accord Inspire", "linked_title": "Honda Inspire", "ent_id": "Q127370", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28546, 7, 7, "PRODUCT"], "ent_text": "Monkey", "linked_title": "Honda Z series", "ent_id": "Q1626628", "class_num": 1, "classes": {"Q71310524": "motorcycle model series"}}
+{"entity": [28547, 8, 8, "PRODUCT"], "ent_text": "Guppy", "linked_title": "Cony Guppy", "ent_id": "Q11302315", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28548, 3, 3, "PRODUCT"], "ent_text": "Bongo", "linked_title": "Mazda Bongo", "ent_id": "Q1622735", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28548, 9, 9, "PRODUCT"], "ent_text": "Autozam", "linked_title": "Autozam", "ent_id": "Q789333", "class_num": 1, "classes": {"Q17412622": "car brand"}}
+{"entity": [28548, 18, 18, "PRODUCT"], "ent_text": "Scrum", "linked_title": "Autozam Scrum", "ent_id": "Q789339", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28549, 2, 2, "PRODUCT"], "ent_text": "Carol", "linked_title": "Mazda Carol", "ent_id": "Q1914654", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28551, 8, 8, "PRODUCT"], "ent_text": "Sneaker", "linked_title": "Slip-on shoe", "ent_id": "Q1888786", "class_num": 1, "classes": {"Q18195680": "shoe style"}}
+{"entity": [28552, 3, 5, "PRODUCT"], "ent_text": "the Fellow 90", "linked_title": "Daihatsu Boon", "ent_id": "Q205608", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28552, 7, 9, "PRODUCT"], "ent_text": "the Leeza Spider", "linked_title": "Daihatsu Leeza", "ent_id": "Q1157568", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [28552, 11, 13, "PRODUCT"], "ent_text": "the Hijet Dumbo", "linked_title": "Daihatsu Hijet", "ent_id": "Q20827058", "class_num": 1, "classes": {"Q2666883": "light commercial vehicle"}}
+{"entity": [28554, 17, 17, "PRODUCT"], "ent_text": "Megane", "linked_title": "Renault M\u00e9gane", "ent_id": "Q222764", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [28890, 12, 14, "PRODUCT"], "ent_text": "F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [28899, 6, 8, "PRODUCT"], "ent_text": "F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [28900, 28, 30, "PRODUCT"], "ent_text": "F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [28903, 12, 14, "PRODUCT"], "ent_text": "F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [28905, 20, 20, "PRODUCT"], "ent_text": "MX", "linked_title": "MX designations", "ent_id": "Q25192742", "class_num": 1, "classes": {"Q80096233": "information list"}}
+{"entity": [28905, 22, 22, "PRODUCT"], "ent_text": "Midgetman", "linked_title": "MGM-134 Midgetman", "ent_id": "Q1357625", "class_num": 1, "classes": {"Q18487055": "missile model"}}
+{"entity": [28906, 34, 36, "PRODUCT"], "ent_text": "B - 2", "linked_title": "Northrop Grumman B-2 Spirit", "ent_id": "Q180285", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [28907, 2, 4, "PRODUCT"], "ent_text": "B - 2", "linked_title": "Northrop Grumman B-2 Spirit", "ent_id": "Q180285", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [28907, 58, 60, "PRODUCT"], "ent_text": "B - 2s", "linked_title": "Northrop Grumman B-2 Spirit", "ent_id": "Q180285", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [28992, 12, 14, "PRODUCT"], "ent_text": "F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [29298, 20, 21, "PRODUCT"], "ent_text": "Veritrac 9000", "linked_title": "Verizon Communications", "ent_id": "Q467752", "class_num": 3, "classes": {"Q2401749": "telecommunication company", "Q4830453": "business", "Q6881511": "enterprise"}}
+{"entity": [29300, 7, 7, "PRODUCT"], "ent_text": "Veritrac", "linked_title": "ConocoPhillips Alaska", "ent_id": "Q5162109", "class_num": 1, "classes": {"Q4830453": "business"}}
+{"entity": [29307, 14, 17, "PRODUCT"], "ent_text": "`` Secret Connection ''", "linked_title": "SIPRNet", "ent_id": "Q1201480", "class_num": 1, "classes": {"Q1301371": "computer network"}}
+{"entity": [29344, 11, 13, "PRODUCT"], "ent_text": "The Big Ear", "linked_title": "Ohio State University Radio Observatory", "ent_id": "Q1138406", "class_num": 1, "classes": {"Q184356": "radio telescope"}}
+{"entity": [29519, 9, 9, "PRODUCT"], "ent_text": "Sparc", "linked_title": "SPARC", "ent_id": "Q273190", "class_num": 2, "classes": {"Q241317": "computing platform", "Q272683": "instruction set architecture"}}
+{"entity": [29520, 23, 23, "PRODUCT"], "ent_text": "HyperCard", "linked_title": "HyperCard", "ent_id": "Q1053749", "class_num": 1, "classes": {"Q65966993": "hypertext system"}}
+{"entity": [29522, 1, 1, "PRODUCT"], "ent_text": "HyperCard", "linked_title": "HyperCard", "ent_id": "Q1053749", "class_num": 1, "classes": {"Q65966993": "hypertext system"}}
+{"entity": [29524, 11, 11, "PRODUCT"], "ent_text": "HyperCard", "linked_title": "HyperCard", "ent_id": "Q1053749", "class_num": 1, "classes": {"Q65966993": "hypertext system"}}
+{"entity": [29524, 26, 26, "PRODUCT"], "ent_text": "HyperCard", "linked_title": "HyperCard", "ent_id": "Q1053749", "class_num": 1, "classes": {"Q65966993": "hypertext system"}}
+{"entity": [29526, 18, 18, "PRODUCT"], "ent_text": "HyperCard", "linked_title": "HyperCard", "ent_id": "Q1053749", "class_num": 1, "classes": {"Q65966993": "hypertext system"}}
+{"entity": [30055, 13, 13, "PRODUCT"], "ent_text": "Hondas", "linked_title": "Honda", "ent_id": "Q9584", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q15081030": "motorcycle manufacturer", "Q42855995": "manufacturing company"}}
+{"entity": [30307, 32, 32, "PRODUCT"], "ent_text": "Jeeps", "linked_title": "Jeep", "ent_id": "Q30113", "class_num": 1, "classes": {"Q17412622": "car brand"}}
+{"entity": [30726, 9, 9, "PRODUCT"], "ent_text": "737", "linked_title": "Boeing 737", "ent_id": "Q6387", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [30727, 3, 4, "PRODUCT"], "ent_text": "400 series", "linked_title": "Cessna 400", "ent_id": "Q1057177", "class_num": 1, "classes": {"Q45296117": "aircraft type"}}
+{"entity": [31066, 37, 37, "PRODUCT"], "ent_text": "Minuteman", "linked_title": "LGM-30 Minuteman", "ent_id": "Q861662", "class_num": 1, "classes": {"Q18487018": "missile family"}}
+{"entity": [31067, 15, 15, "PRODUCT"], "ent_text": "Minuteman", "linked_title": "LGM-30 Minuteman", "ent_id": "Q861662", "class_num": 1, "classes": {"Q18487018": "missile family"}}
+{"entity": [31639, 2, 2, "PRODUCT"], "ent_text": "AZT", "linked_title": "Zidovudine", "ent_id": "Q198504", "class_num": 4, "classes": {"Q11173": "chemical compound", "Q12140": "medication", "Q35456": "essential medicine", "Q187661": "carcinogen"}}
+{"entity": [31661, 0, 0, "PRODUCT"], "ent_text": "AZT", "linked_title": "Zidovudine", "ent_id": "Q198504", "class_num": 4, "classes": {"Q11173": "chemical compound", "Q12140": "medication", "Q35456": "essential medicine", "Q187661": "carcinogen"}}
+{"entity": [31662, 15, 15, "PRODUCT"], "ent_text": "Retrovir", "linked_title": "Retrovirus", "ent_id": "Q189308", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [31664, 39, 39, "PRODUCT"], "ent_text": "Retrovir", "linked_title": "Retrovirus", "ent_id": "Q189308", "class_num": 1, "classes": {"Q16521": "taxon"}}
+{"entity": [31994, 19, 19, "PRODUCT"], "ent_text": "500", "linked_title": "Firestone Tire and Rubber Company", "ent_id": "Q420837", "class_num": 2, "classes": {"Q4830453": "business", "Q6881511": "enterprise"}}
+{"entity": [31994, 25, 25, "PRODUCT"], "ent_text": "Bendectin", "linked_title": "Pyridoxine/doxylamine", "ent_id": "Q7263592", "class_num": 3, "classes": {"Q12140": "medication", "Q79529": "chemical substance", "Q169336": "mixture"}}
+{"entity": [32126, 18, 18, "PRODUCT"], "ent_text": "Freon", "linked_title": "Freon", "ent_id": "Q12858303", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [32158, 0, 0, "PRODUCT"], "ent_text": "Freon", "linked_title": "Freon", "ent_id": "Q12858303", "class_num": 1, "classes": {"Q431289": "brand"}}
+{"entity": [32383, 18, 20, "PRODUCT"], "ent_text": "Southern Comfort Liqueur", "linked_title": "Southern Comfort", "ent_id": "Q585992", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [32384, 11, 12, "PRODUCT"], "ent_text": "Southern Comfort", "linked_title": "Southern Comfort", "ent_id": "Q585992", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [32398, 3, 4, "PRODUCT"], "ent_text": "I.W. Harper", "linked_title": "Harper (publisher)", "ent_id": "Q3127696", "class_num": 2, "classes": {"Q2085381": "publisher", "Q2608849": "imprint"}}
+{"entity": [32401, 5, 6, "PRODUCT"], "ent_text": "Four Roses", "linked_title": "Four Roses", "ent_id": "Q1439975", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [33100, 0, 2, "PRODUCT"], "ent_text": "DIET COKE :", "linked_title": "Diet Coke", "ent_id": "Q1815345", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [33101, 16, 17, "PRODUCT"], "ent_text": "Diet Coke", "linked_title": "Diet Coke", "ent_id": "Q1815345", "class_num": 2, "classes": {"Q167270": "trademark", "Q431289": "brand"}}
+{"entity": [33684, 3, 3, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [33684, 30, 30, "PRODUCT"], "ent_text": "Galileo", "linked_title": "Galileo (spacecraft)", "ent_id": "Q182008", "class_num": 2, "classes": {"Q26529": "space probe", "Q100349043": "space instrument"}}
+{"entity": [33926, 17, 21, "PRODUCT"], "ent_text": "Y - MP / 832", "linked_title": "Cray Y-MP", "ent_id": "Q1090982", "class_num": 2, "classes": {"Q121117": "supercomputer", "Q28152398": "vector supercomputer"}}
+{"entity": [34114, 12, 13, "PRODUCT"], "ent_text": "New Yorker", "linked_title": "Chrysler New Yorker", "ent_id": "Q1088751", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [34114, 16, 17, "PRODUCT"], "ent_text": "Town Car", "linked_title": "Lincoln Town Car", "ent_id": "Q516413", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [34125, 3, 3, "PRODUCT"], "ent_text": "Geo", "linked_title": "Geo (automobile)", "ent_id": "Q1502806", "class_num": 1, "classes": {"Q17412622": "car brand"}}
+{"entity": [34125, 26, 26, "PRODUCT"], "ent_text": "Saturn", "linked_title": "Saturn Corporation", "ent_id": "Q569235", "class_num": 1, "classes": {"Q786820": "automobile manufacturer"}}
+{"entity": [34160, 16, 17, "PRODUCT"], "ent_text": "Grand Prix", "linked_title": "Pontiac Grand Prix", "ent_id": "Q2032067", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [34228, 4, 4, "PRODUCT"], "ent_text": "CCD", "linked_title": "Charge-coupled device", "ent_id": "Q189880", "class_num": 1, "classes": {"Q20888925": "camera parts, features and technologies"}}
+{"entity": [34797, 15, 15, "PRODUCT"], "ent_text": "Gauloises", "linked_title": "Gauloises", "ent_id": "Q543987", "class_num": 1, "classes": {"Q19509097": "cigarette brand"}}
+{"entity": [34797, 17, 17, "PRODUCT"], "ent_text": "Gitanes", "linked_title": "Gitanes", "ent_id": "Q965841", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [34816, 6, 6, "PRODUCT"], "ent_text": "Gauloises", "linked_title": "Gauloises", "ent_id": "Q543987", "class_num": 1, "classes": {"Q19509097": "cigarette brand"}}
+{"entity": [34818, 8, 8, "PRODUCT"], "ent_text": "Gauloises", "linked_title": "Gauloises", "ent_id": "Q543987", "class_num": 1, "classes": {"Q19509097": "cigarette brand"}}
+{"entity": [34818, 17, 18, "PRODUCT"], "ent_text": "Gitanes Blondes", "linked_title": "Gitanes", "ent_id": "Q965841", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [34818, 34, 34, "PRODUCT"], "ent_text": "Gitanes", "linked_title": "Gitanes", "ent_id": "Q965841", "class_num": 1, "classes": {"Q167270": "trademark"}}
+{"entity": [34894, 12, 12, "PRODUCT"], "ent_text": "MX", "linked_title": "MX designations", "ent_id": "Q25192742", "class_num": 1, "classes": {"Q80096233": "information list"}}
+{"entity": [34939, 6, 6, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34939, 27, 30, "PRODUCT"], "ent_text": "F - 18 Hornets", "linked_title": "McDonnell Douglas F/A-18 Hornet", "ent_id": "Q46397", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34940, 15, 15, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34941, 34, 34, "PRODUCT"], "ent_text": "Rafales", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34943, 14, 14, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34943, 27, 27, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Vought F-8 Crusader", "ent_id": "Q502126", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34944, 4, 4, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34944, 33, 35, "PRODUCT"], "ent_text": "F - 18s", "linked_title": "McDonnell Douglas F/A-18 Hornet", "ent_id": "Q46397", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34945, 10, 10, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34946, 5, 8, "PRODUCT"], "ent_text": "the F - 18s", "linked_title": "McDonnell Douglas F/A-18 Hornet", "ent_id": "Q46397", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34946, 18, 18, "PRODUCT"], "ent_text": "Rafales", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34947, 9, 9, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34948, 16, 19, "PRODUCT"], "ent_text": "the F - 18", "linked_title": "McDonnell Douglas F/A-18 Hornet", "ent_id": "Q46397", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34951, 1, 1, "PRODUCT"], "ent_text": "Rafale", "linked_title": "Dassault Rafale", "ent_id": "Q190973", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34953, 11, 11, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34954, 5, 5, "PRODUCT"], "ent_text": "Crusader", "linked_title": "Vought F-8 Crusader", "ent_id": "Q502126", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34954, 17, 17, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34955, 2, 2, "PRODUCT"], "ent_text": "Crusader", "linked_title": "Vought F-8 Crusader", "ent_id": "Q502126", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34956, 9, 9, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34957, 7, 7, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34958, 22, 22, "PRODUCT"], "ent_text": "Crusaders", "linked_title": "Crusades", "ent_id": "Q12546", "class_num": 2, "classes": {"Q180684": "conflict", "Q20937557": "series"}}
+{"entity": [34969, 15, 17, "PRODUCT"], "ent_text": "747 - 400s", "linked_title": "Boeing 747-400", "ent_id": "Q906937", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [34979, 21, 23, "PRODUCT"], "ent_text": "A330 - 300s", "linked_title": "Airbus A340", "ent_id": "Q6481", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [34981, 18, 18, "PRODUCT"], "ent_text": "Tristars", "linked_title": "Lockheed L-1011 TriStar", "ent_id": "Q852", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [35663, 8, 10, "PRODUCT"], "ent_text": "S.S. Glacier Bay", "linked_title": "USS Glacier (AGB-4)", "ent_id": "Q7869734", "class_num": 2, "classes": {"Q11446": "ship", "Q14978": "icebreaker"}}
+{"entity": [35789, 17, 17, "PRODUCT"], "ent_text": "Abrams", "linked_title": "M1 Abrams", "ent_id": "Q173684", "class_num": 1, "classes": {"Q37761255": "tank family"}}
+{"entity": [35941, 13, 13, "PRODUCT"], "ent_text": "Galileo", "linked_title": "Galileo (spacecraft)", "ent_id": "Q182008", "class_num": 2, "classes": {"Q26529": "space probe", "Q100349043": "space instrument"}}
+{"entity": [36272, 8, 9, "PRODUCT"], "ent_text": "Rolls Royce", "linked_title": "Rolls-Royce Limited", "ent_id": "Q679888", "class_num": 2, "classes": {"Q786820": "automobile manufacturer", "Q4830453": "business"}}
+{"entity": [36446, 2, 2, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [36460, 2, 2, "PRODUCT"], "ent_text": "727", "linked_title": "Boeing 727", "ent_id": "Q6409", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [37004, 5, 5, "PRODUCT"], "ent_text": "Corvettes", "linked_title": "Corvette", "ent_id": "Q170013", "class_num": 1, "classes": {"Q2235308": "ship type"}}
+{"entity": [37429, 12, 14, "PRODUCT"], "ent_text": "DC - 9", "linked_title": "McDonnell Douglas DC-9", "ent_id": "Q221414", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [37593, 26, 26, "PRODUCT"], "ent_text": "CP486", "linked_title": "Intel 80486", "ent_id": "Q213423", "class_num": 1, "classes": {"Q811701": "model series"}}
+{"entity": [37594, 18, 18, "PRODUCT"], "ent_text": "486tm", "linked_title": "Pentium M", "ent_id": "Q856732", "class_num": 2, "classes": {"Q431289": "brand", "Q811701": "model series"}}
+{"entity": [37607, 2, 2, "PRODUCT"], "ent_text": "486", "linked_title": "Intel 80486", "ent_id": "Q213423", "class_num": 1, "classes": {"Q811701": "model series"}}
+{"entity": [37607, 19, 19, "PRODUCT"], "ent_text": "386", "linked_title": "Intel 80386", "ent_id": "Q237794", "class_num": 1, "classes": {"Q811701": "model series"}}
+{"entity": [37608, 6, 6, "PRODUCT"], "ent_text": "CP486", "linked_title": "Intel 80486", "ent_id": "Q213423", "class_num": 1, "classes": {"Q811701": "model series"}}
+{"entity": [37848, 13, 15, "PRODUCT"], "ent_text": "Lone Star Beer", "linked_title": "Lone Star Brewing Company", "ent_id": "Q6671394", "class_num": 2, "classes": {"Q131734": "brewery", "Q4830453": "business"}}
+{"entity": [37849, 17, 18, "PRODUCT"], "ent_text": "Lone Star", "linked_title": "Lonestar", "ent_id": "Q1869293", "class_num": 1, "classes": {"Q215380": "musical group"}}
+{"entity": [37904, 5, 7, "PRODUCT"], "ent_text": "Classic Coke 's", "linked_title": "Coca-Cola", "ent_id": "Q2813", "class_num": 3, "classes": {"Q147538": "soft drink", "Q431289": "brand", "Q1485500": "tangible good"}}
+{"entity": [37933, 1, 1, "PRODUCT"], "ent_text": "Galileo", "linked_title": "Galileo (spacecraft)", "ent_id": "Q182008", "class_num": 2, "classes": {"Q26529": "space probe", "Q100349043": "space instrument"}}
+{"entity": [37933, 17, 17, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [38044, 16, 16, "PRODUCT"], "ent_text": "Macintosh", "linked_title": "Macintosh", "ent_id": "Q75687", "class_num": 1, "classes": {"Q55990535": "computer model"}}
+{"entity": [38070, 0, 1, "PRODUCT"], "ent_text": "Guarana Antarctica", "linked_title": "Guaran\u00e1 Antarctica", "ent_id": "Q2471375", "class_num": 1, "classes": {"Q1552812": "guaran\u00e1"}}
+{"entity": [38251, 3, 3, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [38251, 24, 24, "PRODUCT"], "ent_text": "Galileo", "linked_title": "Galileo (spacecraft)", "ent_id": "Q182008", "class_num": 2, "classes": {"Q26529": "space probe", "Q100349043": "space instrument"}}
+{"entity": [38392, 13, 15, "PRODUCT"], "ent_text": "F - 16", "linked_title": "General Dynamics F-16 Fighting Falcon", "ent_id": "Q100026", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38596, 13, 15, "PRODUCT"], "ent_text": "T - 72", "linked_title": "T-72", "ent_id": "Q155658", "class_num": 1, "classes": {"Q37761255": "tank family"}}
+{"entity": [38596, 21, 21, "PRODUCT"], "ent_text": "BMP", "linked_title": "BMP-1", "ent_id": "Q155494", "class_num": 1, "classes": {"Q100709275": "combat vehicle family"}}
+{"entity": [38598, 9, 11, "PRODUCT"], "ent_text": "FROG - 7B", "linked_title": "9K52 Luna-M", "ent_id": "Q1815362", "class_num": 1, "classes": {"Q15142889": "weapon family"}}
+{"entity": [38598, 18, 21, "PRODUCT"], "ent_text": "the An - 12", "linked_title": "Antonov An-12", "ent_id": "Q271559", "class_num": 3, "classes": {"Q2875704": "fixed-wing aircraft", "Q15056993": "aircraft family", "Q15126142": "transport aircraft"}}
+{"entity": [38598, 23, 25, "PRODUCT"], "ent_text": "MiG - 23BN", "linked_title": "Mikoyan-Gurevich MiG-23", "ent_id": "Q155679", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38598, 31, 33, "PRODUCT"], "ent_text": "MiG - 29s", "linked_title": "Mikoyan MiG-29", "ent_id": "Q130681", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38598, 43, 43, "PRODUCT"], "ent_text": "F16s", "linked_title": "General Dynamics F-16 Fighting Falcon", "ent_id": "Q100026", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38598, 47, 49, "PRODUCT"], "ent_text": "SU - 27", "linked_title": "Sukhoi Su-27", "ent_id": "Q173680", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38598, 57, 60, "PRODUCT"], "ent_text": "the MiG - 29s", "linked_title": "Mikoyan MiG-29", "ent_id": "Q130681", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38627, 12, 12, "PRODUCT"], "ent_text": "Stingers", "linked_title": "FIM-92 Stinger", "ent_id": "Q223697", "class_num": 1, "classes": {"Q1465101": "man-portable air-defense system"}}
+{"entity": [38648, 8, 8, "PRODUCT"], "ent_text": "Atlantis", "linked_title": "Space Shuttle Atlantis", "ent_id": "Q54381", "class_num": 1, "classes": {"Q1064394": "Space Shuttle orbiter"}}
+{"entity": [38650, 12, 12, "PRODUCT"], "ent_text": "Galileo", "linked_title": "Galileo (spacecraft)", "ent_id": "Q182008", "class_num": 2, "classes": {"Q26529": "space probe", "Q100349043": "space instrument"}}
+{"entity": [38706, 32, 34, "PRODUCT"], "ent_text": "C - 5B", "linked_title": "Lockheed C-5 Galaxy", "ent_id": "Q182012", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38706, 36, 38, "PRODUCT"], "ent_text": "KC - 10", "linked_title": "McDonnell Douglas KC-10 Extender", "ent_id": "Q585162", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38706, 40, 42, "PRODUCT"], "ent_text": "C - 17", "linked_title": "Boeing C-17 Globemaster III", "ent_id": "Q211369", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38735, 13, 16, "PRODUCT"], "ent_text": "the F - 14", "linked_title": "Grumman F-14 Tomcat", "ent_id": "Q34945", "class_num": 2, "classes": {"Q15056993": "aircraft family", "Q18643213": "military equipment"}}
+{"entity": [38735, 18, 21, "PRODUCT"], "ent_text": "the A - 6", "linked_title": "Grumman A-6 Intruder", "ent_id": "Q332809", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [38798, 18, 18, "PRODUCT"], "ent_text": "204s", "linked_title": "Tupolev Tu-204", "ent_id": "Q466590", "class_num": 1, "classes": {"Q15056995": "aircraft model"}}
+{"entity": [40072, 11, 14, "PRODUCT"], "ent_text": "\" Red Flag \"", "linked_title": "Toyota Mark II", "ent_id": "Q2031285", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [40072, 18, 18, "PRODUCT"], "ent_text": "Jetta", "linked_title": "Volkswagen Jetta", "ent_id": "Q697152", "class_num": 1, "classes": {"Q59773381": "automobile model series"}}
+{"entity": [40593, 1, 2, "PRODUCT"], "ent_text": "747 airplanes", "linked_title": "Boeing 747", "ent_id": "Q179", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [41297, 10, 15, "PRODUCT"], "ent_text": "the \" Liver Healing Capsule \"", "linked_title": "Liver regeneration", "ent_id": "Q19597761", "class_num": 1, "classes": {"Q2996394": "biological process"}}
+{"entity": [43798, 28, 29, "PRODUCT"], "ent_text": "bit better", "linked_title": "A bit", "ent_id": "Q16875418", "class_num": 1, "classes": {"Q21278897": "Wiktionary redirect"}}
+{"entity": [48375, 0, 0, "PRODUCT"], "ent_text": "Thorazine", "linked_title": "Piperazine", "ent_id": "Q409292", "class_num": 3, "classes": {"Q11173": "chemical compound", "Q12140": "medication", "Q193430": "heterocyclic compound"}}
+{"entity": [50754, 8, 8, "PRODUCT"], "ent_text": "Commodores", "linked_title": "Commodores", "ent_id": "Q287206", "class_num": 1, "classes": {"Q215380": "musical group"}}
+{"entity": [50756, 3, 5, "PRODUCT"], "ent_text": "I B M", "linked_title": "International Baccalaureate", "ent_id": "Q56404208", "class_num": 2, "classes": {"Q157031": "foundation", "Q1312529": "high school diploma"}}
+{"entity": [51021, 7, 7, "PRODUCT"], "ent_text": "Heprin", "linked_title": "Halperin", "ent_id": "Q972815", "class_num": 1, "classes": {"Q101352": "family name"}}
+{"entity": [51374, 0, 0, "PRODUCT"], "ent_text": "Ventalin", "linked_title": "Decalin", "ent_id": "Q415454", "class_num": 1, "classes": {"Q55662548": "pair of cis\u2013trans isomers"}}
+{"entity": [51379, 2, 2, "PRODUCT"], "ent_text": "Ventalin", "linked_title": "Decalin", "ent_id": "Q415454", "class_num": 1, "classes": {"Q55662548": "pair of cis\u2013trans isomers"}}
+{"entity": [51380, 3, 3, "PRODUCT"], "ent_text": "Ventalin", "linked_title": "Decalin", "ent_id": "Q415454", "class_num": 1, "classes": {"Q55662548": "pair of cis\u2013trans isomers"}}
+{"entity": [51399, 3, 3, "PRODUCT"], "ent_text": "Airobid", "linked_title": "Airmadidi", "ent_id": "Q408827", "class_num": 1, "classes": {"Q3700011": "kecamatan"}}
+{"entity": [51403, 2, 2, "PRODUCT"], "ent_text": "Evancerol", "linked_title": "Carbachol", "ent_id": "Q419401", "class_num": 5, "classes": {"Q11173": "chemical compound", "Q12140": "medication", "Q422899": "carbamate", "Q44791900": "chloride", "Q72087444": "quaternary ammonium salt"}}
+{"entity": [51413, 27, 27, "PRODUCT"], "ent_text": "Ventalin", "linked_title": "Ventnor", "ent_id": "Q1026673", "class_num": 3, "classes": {"Q3957": "town", "Q1021711": "seaside resort", "Q1115575": "civil parish"}}
+{"entity": [51417, 6, 6, "PRODUCT"], "ent_text": "Ventalin", "linked_title": "Decalin", "ent_id": "Q415454", "class_num": 1, "classes": {"Q55662548": "pair of cis\u2013trans isomers"}}
+{"entity": [52060, 5, 7, "PRODUCT"], "ent_text": "Wheel Of Fortune", "linked_title": "Wheel of Fortune (American game show)", "ent_id": "Q3567653", "class_num": 1, "classes": {"Q5398426": "television series"}}
+{"entity": [52102, 7, 9, "PRODUCT"], "ent_text": "B M W", "linked_title": "Ford B series", "ent_id": "Q5467653", "class_num": 1, "classes": {"Q23039057": "bus model"}}
+{"entity": [52103, 3, 6, "PRODUCT"], "ent_text": "a B M W", "linked_title": "B", "ent_id": "Q9705", "class_num": 2, "classes": {"Q3841820": "consonant letter", "Q19776628": "Latin-script letter"}}
+{"entity": [53629, 13, 13, "PRODUCT"], "ent_text": "Google", "linked_title": "Google", "ent_id": "Q95", "class_num": 2, "classes": {"Q4830453": "business", "Q18388277": "technology company"}}
+{"entity": [54493, 26, 26, "PRODUCT"], "ent_text": "Caprice", "linked_title": "Chevrolet Caprice", "ent_id": "Q740890", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [54942, 31, 31, "PRODUCT"], "ent_text": "Access", "linked_title": "Microsoft Access", "ent_id": "Q80689", "class_num": 2, "classes": {"Q218616": "proprietary software", "Q3932296": "relational database management system"}}
+{"entity": [55010, 8, 8, "PRODUCT"], "ent_text": "Wanit", "linked_title": "Toyota Land Cruiser", "ent_id": "Q914069", "class_num": 1, "classes": {"Q3231690": "automobile model"}}
+{"entity": [55797, 0, 0, "PRODUCT"], "ent_text": "NeoTime", "linked_title": "Neogames", "ent_id": "Q6992889", "class_num": 2, "classes": {"Q3579158": "board game publishing company", "Q100271038": "tabletop role-playing game publisher"}}
+{"entity": [55964, 49, 49, "PRODUCT"], "ent_text": "Audi", "linked_title": "Audi", "ent_id": "Q23317", "class_num": 1, "classes": {"Q786820": "automobile manufacturer"}}
+{"entity": [56900, 1, 1, "PRODUCT"], "ent_text": "A320", "linked_title": "Airbus A320 family", "ent_id": "Q6475", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [57440, 2, 2, "PRODUCT"], "ent_text": "Beetle", "linked_title": "Volkswagen Beetle", "ent_id": "Q152946", "class_num": 2, "classes": {"Q42889": "vehicle", "Q3231690": "automobile model"}}
+{"entity": [57511, 12, 12, "PRODUCT"], "ent_text": "Jeep", "linked_title": "Jeep", "ent_id": "Q30113", "class_num": 1, "classes": {"Q17412622": "car brand"}}
+{"entity": [58126, 4, 7, "PRODUCT"], "ent_text": "the Kool - aid", "linked_title": "Kool-Aid", "ent_id": "Q1531983", "class_num": 2, "classes": {"Q431289": "brand", "Q2424752": "product"}}
+{"entity": [58307, 11, 12, "PRODUCT"], "ent_text": "EZ Pass", "linked_title": "E-ZPass", "ent_id": "Q800074", "class_num": 1, "classes": {"Q4830453": "business"}}
+{"entity": [58764, 9, 9, "PRODUCT"], "ent_text": "iPods", "linked_title": "IPod", "ent_id": "Q9479", "class_num": 1, "classes": {"Q811701": "model series"}}
+{"entity": [58787, 1, 1, "PRODUCT"], "ent_text": "Tannoy", "linked_title": "Tannoy", "ent_id": "Q742568", "class_num": 2, "classes": {"Q4830453": "business", "Q6881511": "enterprise"}}
+{"entity": [59231, 11, 11, "PRODUCT"], "ent_text": "bmw", "linked_title": "BMW", "ent_id": "Q26678", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q6881511": "enterprise", "Q15081030": "motorcycle manufacturer"}}
+{"entity": [59246, 12, 12, "PRODUCT"], "ent_text": "bmw", "linked_title": "BMW", "ent_id": "Q26678", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q6881511": "enterprise", "Q15081030": "motorcycle manufacturer"}}
+{"entity": [59252, 5, 5, "PRODUCT"], "ent_text": "bmw", "linked_title": "BMW", "ent_id": "Q26678", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q6881511": "enterprise", "Q15081030": "motorcycle manufacturer"}}
+{"entity": [59333, 5, 6, "PRODUCT"], "ent_text": "Land Rover", "linked_title": "Land Rover", "ent_id": "Q35907", "class_num": 1, "classes": {"Q786820": "automobile manufacturer"}}
+{"entity": [59333, 20, 20, "PRODUCT"], "ent_text": "Honda", "linked_title": "Honda", "ent_id": "Q9584", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q15081030": "motorcycle manufacturer", "Q42855995": "manufacturing company"}}
+{"entity": [59368, 6, 6, "PRODUCT"], "ent_text": "Lomotil", "linked_title": "Artemotil", "ent_id": "Q72443831", "class_num": 2, "classes": {"Q11173": "chemical compound", "Q706868": "(1RS)-Artemotil"}}
+{"entity": [59370, 28, 30, "PRODUCT"], "ent_text": "Depo - Provera", "linked_title": "Upjohn Co. v. United States", "ent_id": "Q7898329", "class_num": 2, "classes": {"Q18146819": "United States Supreme Court case", "Q19692072": "United States Supreme Court decision"}}
+{"entity": [59371, 27, 27, "PRODUCT"], "ent_text": "NutraSweet", "linked_title": "NutraSweet", "ent_id": "Q13479580", "class_num": 1, "classes": {"Q4830453": "business"}}
+{"entity": [59448, 32, 32, "PRODUCT"], "ent_text": "747", "linked_title": "Boeing 747", "ent_id": "Q179", "class_num": 1, "classes": {"Q15056993": "aircraft family"}}
+{"entity": [59813, 5, 5, "PRODUCT"], "ent_text": "Peugeot", "linked_title": "Peugeot", "ent_id": "Q6742", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q15081032": "historical motorcycle manufacturer", "Q15648574": "racecar constructor"}}
+{"entity": [59815, 7, 7, "PRODUCT"], "ent_text": "Peugeot", "linked_title": "Peugeot", "ent_id": "Q6742", "class_num": 3, "classes": {"Q786820": "automobile manufacturer", "Q15081032": "historical motorcycle manufacturer", "Q15648574": "racecar constructor"}}
