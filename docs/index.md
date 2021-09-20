@@ -72,7 +72,7 @@ p, li{
 [Paper](https://arxiv.org/abs/2109.05620){: target="_blank" .btn .btn-green .mr-1 .fs-4}
 <!-- [Video](https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-25/8f53jb9/riddlesense_acl.mp4){: target="_blank" .btn .btn-green .mr-1 .fs-4} -->
 [Github](https://github.com/INK-USC/RockNER/){: target="_blank" .btn .btn-purple .mr-1 .fs-4 }
-[Dataset](https://forms.gle/ydhayvV1uFGdLkch9){: target="_blank" .btn .btn-blue .mr-1 .fs-4 }
+[OntoRock Dataset](https://forms.gle/ydhayvV1uFGdLkch9){: target="_blank" .btn .btn-blue .mr-1 .fs-4 }
 [Leaderboard](#leaderboard){: .btn .btn-red .mr-1 .fs-4 }
 <!-- [Download MickeyCorpus](https://forms.gle/fCxN1YAyqKpQ4cXNA){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
 [Download X-CSR Datasets](https://forms.gle/gVCNgVXr1tyYkDya9){: target="_blank" .btn .btn-blue .mr-1 .fs-3 } -->
@@ -108,7 +108,7 @@ To audit the robustness of named entity recognition (NER) models, we propose Roc
 
 ## Dataset Format
 
-Please download our dataset by filling the [***form***](https://forms.gle/ydhayvV1uFGdLkch9){: target="_blank"} here and the link will show up once you read the disclaimer and submit it. There are eight files as follows:
+Please download our OntoRock dataset by filling the [***form***](https://forms.gle/ydhayvV1uFGdLkch9){: target="_blank"} here and the link will show up once you read the disclaimer and submit it. There are eight files as follows:
 
 1. `Original-OntoNotes_train.txt` (1,148,427 lines)
     - The original training data of OntoNotes.
